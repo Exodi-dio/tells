@@ -27,7 +27,7 @@ function arg(name, fallback) {
 
 const shard = Number(arg('shard', 0));
 const shards = Number(arg('shards', 1));
-const domainFile = arg('domains', join(root, '.cache', 'domains.txt'));
+const domainFile = arg('domains', join(root, 'cache', 'domains.txt'));
 const concurrency = Number(process.env.CRAWL_CONCURRENCY || 16);
 
 function pool(items, limit, fn) {
@@ -116,8 +116,8 @@ const payload = {
   },
 };
 
-await mkdir(join(root, '.cache'), { recursive: true });
-await writeFile(join(root, '.cache', `shard-${shard}.json`), JSON.stringify(payload));
+await mkdir(join(root, 'cache'), { recursive: true });
+await writeFile(join(root, 'cache', `shard-${shard}.json`), JSON.stringify(payload));
 
 for (const category of CATEGORY_ORDER) {
   const count = inspected.reduce(

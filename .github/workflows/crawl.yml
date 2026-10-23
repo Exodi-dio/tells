@@ -50,7 +50,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: domains
-          path: .cache/domains.*
+          path: cache/domains.*
           retention-days: 1
 
   crawl:
@@ -69,13 +69,13 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: domains
-          path: .cache
+          path: cache
       - name: Crawl shard ${{ matrix.shard }}
         run: node src/crawl.mjs --shard ${{ matrix.shard }} --shards ${{ env.SHARDS }}
       - uses: actions/upload-artifact@v4
         with:
           name: shard-${{ matrix.shard }}
-          path: .cache/shard-*.json
+          path: cache/shard-*.json
           retention-days: 1
 
   merge:
@@ -93,12 +93,12 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: shard-*
-          path: .cache
+          path: cache
           merge-multiple: true
       - uses: actions/download-artifact@v4
         with:
           name: domains
-          path: .cache
+          path: cache
 
       - name: Merge shards
         run: npm run merge

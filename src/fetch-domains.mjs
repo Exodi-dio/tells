@@ -85,9 +85,9 @@ const payload = {
   domains,
 };
 
-await mkdir(join(root, '.cache'), { recursive: true });
-await writeFile(join(root, '.cache', 'domains.json'), JSON.stringify(payload));
-await writeFile(join(root, '.cache', 'domains.txt'), domains.join('\n') + '\n');
+await mkdir(join(root, 'cache'), { recursive: true });
+await writeFile(join(root, 'cache', 'domains.json'), JSON.stringify(payload));
+await writeFile(join(root, 'cache', 'domains.txt'), domains.join('\n') + '\n');
 
 console.log(`resolved ${domains.length} domains from ${resolved.source}`);
 console.log(`  first: ${domains.slice(0, 5).join(', ')}`);

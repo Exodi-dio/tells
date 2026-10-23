@@ -9,7 +9,7 @@ import { loadSignatures } from './lib.mjs';
 
 const root = process.cwd();
 const dataDir = join(root, 'data');
-const cache = join(root, '.cache');
+const cache = join(root, 'cache');
 const day = new Date().toISOString().slice(0, 10);
 
 const signatures = await loadSignatures(join(root, 'signatures'));
@@ -23,7 +23,7 @@ async function readShards() {
   } catch {
     throw new Error('no shard files found — did the crawl jobs upload anything?');
   }
-  if (files.length === 0) throw new Error('no shard files found in .cache');
+  if (files.length === 0) throw new Error('no shard files found in cache');
 
   const payloads = [];
   for (const file of files.sort()) {
