@@ -5,11 +5,14 @@
 [![ci](https://github.com/Exodi-dio/tells/actions/workflows/ci.yml/badge.svg)](https://github.com/Exodi-dio/tells/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-A nightly, public survey of how a few hundred well-known sites are built — framework, CMS, host,
+A nightly census of the 25,000 highest-ranked domains on the web — framework, CMS, host,
 analytics, ecommerce, payments, fonts, consent. Every detection cites the exact header, cookie,
 script URL or markup that produced it. Everything we could not prove is labelled as unknown.
 
-**[Browse the survey →](https://exodi-dio.github.io/tells/)**
+**[Search the census →](https://exodi-dio.github.io/tells/)** · **[State of the web →](https://exodi-dio.github.io/tells/state.html)** · **[Changelog →](https://exodi-dio.github.io/tells/changes.html)**
+
+Not a hand-picked list of sites we felt like crawling. The population is resolved from a public
+ranking every night, so the numbers are about the web rather than about our taste.
 
 ---
 
@@ -76,20 +79,24 @@ reported as evidence of absence.
 ## How it runs
 
 ```
-domains.txt ──► fetch (20 s timeout, 3 MB cap, 8 concurrent)
-                     │
-                     ▼
-        signatures/*.json  ──►  detect + attach evidence
-                     │
-                     ▼
-   data/snapshots/DATE.json ──► diff against previous ──► data/changes/DATE.json
-                     │
-                     ▼
-             dist/  ──►  GitHub Pages
+public rank list ──► tonight's 25,000 domains
+                            │
+              ┌─────────────┴─────────────┐
+              ▼                           ▼
+   20 runners, 16 in flight          one GET per domain,
+   round-robin shards                20 s timeout, 3 MB cap
+              └─────────────┬─────────────┘
+                            ▼
+        signatures/*.json ──► detect + attach evidence
+                            ▼
+  merge ──► data/snapshots/DATE.jsonl ──► diff ──► data/changes/DATE.json
+                            ▼
+                    dist/ ──► GitHub Pages
 ```
 
-One GitHub Actions cron. No servers, no database, no accounts, no client-side JavaScript.
-The whole pipeline is Node's standard library plus one JSON file per category.
+One GitHub Actions cron and a matrix of twenty runners. No servers, no database, no accounts.
+The whole pipeline is Node's standard library plus one JSON file per category. The only
+client-side JavaScript on the site is a 3 KB search box that filters an index in your browser.
 
 ## Add a signature
 
@@ -109,7 +116,8 @@ The registry is the contribution surface. Adding a product is one object in one 
 See [`signatures/README.md`](signatures/README.md) for the rule types and when each confidence
 level is honest. A good signature PR includes the site you verified it against.
 
-Adding a site to the survey is a one-line PR to [`domains.txt`](domains.txt).
+The census population comes from a public ranking, resolved fresh each night — nobody adds sites
+by hand. What makes a site legible is a signature, so that is the contribution that matters.
 
 ## Data
 
@@ -117,11 +125,12 @@ Everything is a plain JSON file in this repo, refreshed nightly:
 
 | Path | What it is |
 | --- | --- |
-| `data/latest.json` | Full current survey, with evidence for every detection |
-| `data/snapshots/YYYY-MM-DD.json` | Compact per-site stack ids, one per run — the history |
-| `data/changes/YYYY-MM-DD.json` | Diff against the previous snapshot |
+| `data/snapshots/YYYY-MM-DD.jsonl` | One line per domain: status and stack ids. This is the history, and it is committed. |
+| `data/changes/YYYY-MM-DD.json` | Diff against the previous snapshot. |
+| `api/latest.json` | Full current census with evidence for every detection — built each run, served, **not** committed (it is tens of MB). |
+| `api/index.json` | Compact index the search box downloads: domain, status, stack ids. |
 
-Also served at `https://exodi-dio.github.io/tells/api/latest.json`.
+Served at `https://exodi-dio.github.io/tells/api/latest.json`.
 
 ## What this is not
 
@@ -134,7 +143,7 @@ Also served at `https://exodi-dio.github.io/tells/api/latest.json`.
 
 - [ ] Version extraction for more products (only where the version appears in evidence)
 - [ ] `X-Robots-Tag`-aware politeness and a published opt-out list
-- [ ] Per-category leaderboards: which CDN is winning, which analytics vendor is losing
+- [x] Per-category leaderboards: which CDN is winning, which analytics vendor is losing
 - [ ] Signature coverage report — which categories are chronically unmatched
 - [ ] Weekly digest generated from the diffs
 
