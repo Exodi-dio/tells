@@ -25,6 +25,9 @@ concurrency:
 env:
   TARGET_DOMAINS: ${{ inputs.limit || '25000' }}
   SHARDS: ${{ inputs.shards || '20' }}
+  # A preview run builds the site to prove it works, but must never commit a
+  # smaller snapshot or publish it over the real census.
+  FULL: ${{ github.event_name == 'schedule' || inputs.limit == '25000' || inputs.limit == '' }}
   # 16 requests in flight per runner. Twenty runners is 320, which is brisk
   # but still one request per site per day.
   CRAWL_CONCURRENCY: "16"
@@ -107,6 +110,7 @@ jobs:
         run: npm run build
 
       - name: Commit the night's stack history
+        if: env.FULL == 'true'
         run: |
           git config user.name "tells-bot"
           git config user.email "tells-bot@users.noreply.github.com"
@@ -118,11 +122,14 @@ jobs:
             git push
           fi
 
-      - uses: actions/configure-pages@v5
+      - if: env.FULL == 'true'
+        uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v3
+      - if: env.FULL == 'true'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
-      - id: deployment
+      - if: env.FULL == 'true'
+        id: deployment
         uses: actions/deploy-pages@v4
