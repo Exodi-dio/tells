@@ -5,6 +5,13 @@ on:
     # 03:17 UTC daily — off the hour, because everyone cron-jobs on the hour.
     - cron: "17 3 * * *"
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "How many domains to survey"
+        default: "25000"
+      shards:
+        description: "Parallel runners to split the census across"
+        default: "20"
 
 permissions:
   contents: write
@@ -15,8 +22,64 @@ concurrency:
   group: crawl
   cancel-in-progress: false
 
+env:
+  TARGET_DOMAINS: ${{ inputs.limit || '25000' }}
+  SHARDS: ${{ inputs.shards || '20' }}
+  # 16 requests in flight per runner. Twenty runners is 320, which is brisk
+  # but still one request per site per day.
+  CRAWL_CONCURRENCY: "16"
+
 jobs:
+  domains:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve the night's list
+        run: npm run domains
+      - name: Plan the shards
+        id: plan
+        run: |
+          node -e "process.stdout.write(JSON.stringify([...Array(Number(process.env.SHARDS)).keys()]))" > matrix.json
+          echo "matrix=$(cat matrix.json)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: domains
+          path: .cache/domains.*
+          retention-days: 1
+
   crawl:
+    needs: domains
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.domains.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          name: domains
+          path: .cache
+      - name: Crawl shard ${{ matrix.shard }}
+        run: node src/crawl.mjs --shard ${{ matrix.shard }} --shards ${{ env.SHARDS }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shard-${{ matrix.shard }}
+          path: .cache/shard-*.json
+          retention-days: 1
+
+  merge:
+    needs: crawl
     runs-on: ubuntu-latest
     timeout-minutes: 40
     environment:
@@ -24,22 +87,30 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: shard-*
+          path: .cache
+          merge-multiple: true
+      - uses: actions/download-artifact@v4
+        with:
+          name: domains
+          path: .cache
 
-      - name: Crawl
-        run: npm run crawl
+      - name: Merge shards
+        run: npm run merge
 
       - name: Build site
         run: npm run build
 
-      - name: Commit the snapshot
+      - name: Commit the night's stack history
         run: |
           git config user.name "tells-bot"
           git config user.email "tells-bot@users.noreply.github.com"
-          git add data
+          git add data/snapshots data/changes
           if git diff --staged --quiet; then
             echo "No data changes to commit."
           else

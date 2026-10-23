@@ -8,7 +8,9 @@
     "node": ">=22"
   },
   "scripts": {
+    "domains": "node src/fetch-domains.mjs",
     "crawl": "node src/crawl.mjs",
+    "merge": "node src/merge.mjs",
     "build": "node src/build.mjs",
     "test": "node --test"
   }

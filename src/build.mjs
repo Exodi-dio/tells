@@ -329,10 +329,28 @@ try {
 await mkdir(join(dist, 'sites'), { recursive: true });
 await mkdir(join(dist, 'api'), { recursive: true });
 
-await writeFile(join(dist, 'index.html'), renderIndex(latest, changeDocs));
+// At census scale we cannot ship a page for every domain: 25k pages of
+// template would blow past what Pages will serve comfortably. So the site
+// carries a page for the sites with the most to show plus anything that
+// changed tonight — and the dataset keeps everything either way.
+const PAGE_CAP = Number(process.env.SITE_PAGE_CAP || 3000);
+const changedDomains = new Set(changeDocs.flatMap((doc) => doc.changes.map((c) => c.domain)));
+const pageSites = new Map(
+  Object.entries(latest.sites)
+    .filter(([, site]) => site.detections.length > 0)
+    .sort((a, b) => b[1].detections.length - a[1].detections.length)
+    .slice(0, PAGE_CAP),
+);
+for (const domain of changedDomains) {
+  if (latest.sites[domain]) pageSites.set(domain, latest.sites[domain]);
+}
+
+const linked = { ...latest, sites: Object.fromEntries(pageSites) };
+
+await writeFile(join(dist, 'index.html'), renderIndex(linked, changeDocs));
 await writeFile(join(dist, 'changes.html'), renderChanges(changeDocs));
 
-for (const [domain, site] of Object.entries(latest.sites)) {
+for (const [domain, site] of pageSites) {
   await writeFile(join(dist, 'sites', `${slug(domain)}.html`), renderSite(domain, site, changeDocs));
 }
 
