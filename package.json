@@ -1,0 +1,15 @@
+{
+  "name": "tells",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Every website has tells. We publish them, with receipts.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "crawl": "node src/crawl.mjs",
+    "build": "node src/build.mjs",
+    "test": "node --test test/"
+  }
+}

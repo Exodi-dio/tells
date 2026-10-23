@@ -1,0 +1,103 @@
+{
+  "category": "payments",
+  "signatures": [
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "rules": [
+        { "type": "script", "pattern": "js\\.stripe\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "website": "https://paypal.com",
+      "rules": [
+        { "type": "script", "pattern": "paypal\\.com/sdk/js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "braintree",
+      "name": "Braintree",
+      "website": "https://braintreepayments.com",
+      "rules": [
+        { "type": "script", "pattern": "js\\.braintreegateway\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "adyen",
+      "name": "Adyen",
+      "website": "https://adyen.com",
+      "rules": [
+        { "type": "script", "pattern": "checkoutshopper-(live|test)\\.adyen\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "klarna",
+      "name": "Klarna",
+      "website": "https://klarna.com",
+      "rules": [
+        { "type": "script", "pattern": "klarna\\.com", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "affirm",
+      "name": "Affirm",
+      "website": "https://affirm.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn1\\.affirm\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "website": "https://squareup.com",
+      "rules": [
+        { "type": "script", "pattern": "js\\.squareup\\.com", "confidence": "high" },
+        { "type": "script", "pattern": "web\\.squarecdn\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "razorpay",
+      "name": "Razorpay",
+      "website": "https://razorpay.com",
+      "rules": [
+        { "type": "script", "pattern": "checkout\\.razorpay\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "checkout-com",
+      "name": "Checkout.com",
+      "website": "https://checkout.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.checkout\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "paddle",
+      "name": "Paddle",
+      "website": "https://paddle.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.paddle\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "lemon-squeezy",
+      "name": "Lemon Squeezy",
+      "website": "https://lemonsqueezy.com",
+      "rules": [
+        { "type": "script", "pattern": "assets\\.lemonsqueezy\\.com", "confidence": "high" },
+        { "type": "script", "pattern": "app\\.lemonsqueezy\\.com", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "recurly",
+      "name": "Recurly",
+      "website": "https://recurly.com",
+      "rules": [
+        { "type": "script", "pattern": "js\\.recurly\\.com", "confidence": "high" }
+      ]
+    }
+  ]
+}

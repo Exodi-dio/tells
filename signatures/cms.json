@@ -1,0 +1,144 @@
+{
+  "category": "cms",
+  "signatures": [
+    {
+      "id": "wordpress",
+      "name": "WordPress",
+      "website": "https://wordpress.org",
+      "rules": [
+        { "type": "html", "pattern": "wp-content", "confidence": "high" },
+        { "type": "html", "pattern": "wp-json", "confidence": "high" },
+        { "type": "meta", "name": "generator", "pattern": "^WordPress", "confidence": "high" },
+        { "type": "cookie", "name": "wordpress_", "pattern": "^wordpress_", "confidence": "medium" }
+      ],
+      "version": "WordPress\\s*([0-9.]+)"
+    },
+    {
+      "id": "drupal",
+      "name": "Drupal",
+      "website": "https://drupal.org",
+      "rules": [
+        { "type": "header", "name": "x-generator", "pattern": "^Drupal", "confidence": "high" },
+        { "type": "html", "pattern": "data-drupal-", "confidence": "high" },
+        { "type": "html", "pattern": "sites/default/files", "confidence": "medium" }
+      ],
+      "version": "Drupal\\s*([0-9.]+)"
+    },
+    {
+      "id": "joomla",
+      "name": "Joomla",
+      "website": "https://joomla.org",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^Joomla", "confidence": "high" },
+        { "type": "html", "pattern": "/media/jui/", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "website": "https://ghost.org",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^Ghost", "confidence": "high" },
+        { "type": "html", "pattern": "ghost.io", "confidence": "medium" }
+      ],
+      "version": "Ghost\\s*([0-9.]+)"
+    },
+    {
+      "id": "webflow",
+      "name": "Webflow",
+      "website": "https://webflow.com",
+      "rules": [
+        { "type": "html", "pattern": "data-wf-page", "confidence": "high" },
+        { "type": "html", "pattern": "webflow.js", "confidence": "high" },
+        { "type": "meta", "name": "generator", "pattern": "Webflow", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "squarespace",
+      "name": "Squarespace",
+      "website": "https://squarespace.com",
+      "rules": [
+        { "type": "html", "pattern": "static1\\.squarespace\\.com", "confidence": "high" },
+        { "type": "meta", "name": "generator", "pattern": "Squarespace", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "wix",
+      "name": "Wix",
+      "website": "https://wix.com",
+      "rules": [
+        { "type": "script", "pattern": "static\\.parastorage\\.com", "confidence": "high" },
+        { "type": "header", "name": "x-wix-request-id", "confidence": "high" },
+        { "type": "meta", "name": "generator", "pattern": "^Wix", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "Craft CMS",
+      "website": "https://craftcms.com",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "Craft CMS", "confidence": "high" },
+        { "type": "cookie", "name": "CraftSessionId", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "contentful",
+      "name": "Contentful",
+      "website": "https://contentful.com",
+      "rules": [
+        { "type": "html", "pattern": "cdn\\.contentful\\.com", "confidence": "high" },
+        { "type": "html", "pattern": "images\\.ctfassets\\.net", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "sanity",
+      "name": "Sanity",
+      "website": "https://sanity.io",
+      "rules": [
+        { "type": "html", "pattern": "cdn\\.sanity\\.io", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "prismic",
+      "name": "Prismic",
+      "website": "https://prismic.io",
+      "rules": [
+        { "type": "html", "pattern": "prismic\\.io", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "storyblok",
+      "name": "Storyblok",
+      "website": "https://storyblok.com",
+      "rules": [
+        { "type": "html", "pattern": "a\\.storyblok\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "hubspot-cms",
+      "name": "HubSpot CMS",
+      "website": "https://hubspot.com",
+      "rules": [
+        { "type": "html", "pattern": "hs-scripts\\.com", "confidence": "high" },
+        { "type": "html", "pattern": "hsforms\\.net", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "framer",
+      "name": "Framer",
+      "website": "https://framer.com",
+      "rules": [
+        { "type": "html", "pattern": "framerusercontent\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "notion-sites",
+      "name": "Notion Sites",
+      "website": "https://notion.so",
+      "rules": [
+        { "type": "html", "pattern": "notion\\.site", "confidence": "medium" },
+        { "type": "header", "name": "x-notion-request-id", "confidence": "high" }
+      ]
+    }
+  ]
+}

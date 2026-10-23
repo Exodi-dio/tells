@@ -1,0 +1,205 @@
+{
+  "category": "analytics",
+  "signatures": [
+    {
+      "id": "google-tag-manager",
+      "name": "Google Tag Manager",
+      "website": "https://tagmanager.google.com",
+      "rules": [
+        { "type": "script", "pattern": "googletagmanager\\.com/gtm\\.js", "confidence": "high" },
+        { "type": "script", "pattern": "googletagmanager\\.com/gtag/js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "google-analytics",
+      "name": "Google Analytics",
+      "website": "https://analytics.google.com",
+      "rules": [
+        { "type": "script", "pattern": "google-analytics\\.com/(analytics|ga)\\.js", "confidence": "high" },
+        { "type": "html", "pattern": "gtag\\('config',\\s*'G-", "confidence": "high" },
+        { "type": "html", "pattern": "UA-[0-9]{4,}-[0-9]+", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "segment",
+      "name": "Segment",
+      "website": "https://segment.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.segment\\.com/analytics\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "mixpanel",
+      "name": "Mixpanel",
+      "website": "https://mixpanel.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.mxpnl\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "amplitude",
+      "name": "Amplitude",
+      "website": "https://amplitude.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.amplitude\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "plausible",
+      "name": "Plausible",
+      "website": "https://plausible.io",
+      "rules": [
+        { "type": "script", "pattern": "plausible\\.io/js/", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom",
+      "website": "https://usefathom.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.usefathom\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "matomo",
+      "name": "Matomo",
+      "website": "https://matomo.org",
+      "rules": [
+        { "type": "script", "pattern": "matomo\\.js", "confidence": "high" },
+        { "type": "html", "pattern": "_paq\\.push", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "posthog",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "rules": [
+        { "type": "script", "pattern": "posthog\\.com/static/array\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "heap",
+      "name": "Heap",
+      "website": "https://heap.io",
+      "rules": [
+        { "type": "script", "pattern": "heapanalytics\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "hotjar",
+      "name": "Hotjar",
+      "website": "https://hotjar.com",
+      "rules": [
+        { "type": "script", "pattern": "static\\.hotjar\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "fullstory",
+      "name": "FullStory",
+      "website": "https://fullstory.com",
+      "rules": [
+        { "type": "script", "pattern": "fullstory\\.com/s/fs\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "microsoft-clarity",
+      "name": "Microsoft Clarity",
+      "website": "https://clarity.microsoft.com",
+      "rules": [
+        { "type": "script", "pattern": "clarity\\.ms/tag/", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "umami",
+      "name": "Umami",
+      "website": "https://umami.is",
+      "rules": [
+        { "type": "script", "pattern": "umami\\.is/script\\.js", "confidence": "medium" },
+        { "type": "script", "pattern": "cloud\\.umami\\.is", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "adobe-analytics",
+      "name": "Adobe Analytics",
+      "website": "https://business.adobe.com",
+      "rules": [
+        { "type": "script", "pattern": "omtrdc\\.net", "confidence": "high" },
+        { "type": "script", "pattern": "2o7\\.net", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "new-relic",
+      "name": "New Relic",
+      "website": "https://newrelic.com",
+      "rules": [
+        { "type": "script", "pattern": "js-agent\\.newrelic\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "sentry",
+      "name": "Sentry",
+      "website": "https://sentry.io",
+      "rules": [
+        { "type": "script", "pattern": "browser\\.sentry-cdn\\.com", "confidence": "high" },
+        { "type": "script", "pattern": "sentry\\.io/.*\\.js", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "datadog-rum",
+      "name": "Datadog RUM",
+      "website": "https://datadoghq.com",
+      "rules": [
+        { "type": "script", "pattern": "datadoghq-browser-agent\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "vercel-analytics",
+      "name": "Vercel Analytics",
+      "website": "https://vercel.com/analytics",
+      "rules": [
+        { "type": "script", "pattern": "/_vercel/insights/script\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "cloudflare-web-analytics",
+      "name": "Cloudflare Web Analytics",
+      "website": "https://cloudflare.com/web-analytics",
+      "rules": [
+        { "type": "script", "pattern": "static\\.cloudflareinsights\\.com/beacon\\.min\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "meta-pixel",
+      "name": "Meta Pixel",
+      "website": "https://business.facebook.com",
+      "rules": [
+        { "type": "script", "pattern": "connect\\.facebook\\.net/.*fbevents\\.js", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "tiktok-pixel",
+      "name": "TikTok Pixel",
+      "website": "https://ads.tiktok.com",
+      "rules": [
+        { "type": "script", "pattern": "analytics\\.tiktok\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "linkedin-insight",
+      "name": "LinkedIn Insight",
+      "website": "https://business.linkedin.com",
+      "rules": [
+        { "type": "script", "pattern": "snap\\.licdn\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "google-ads",
+      "name": "Google Ads",
+      "website": "https://ads.google.com",
+      "rules": [
+        { "type": "script", "pattern": "googleadservices\\.com", "confidence": "high" },
+        { "type": "script", "pattern": "doubleclick\\.net", "confidence": "medium" }
+      ]
+    }
+  ]
+}

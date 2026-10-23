@@ -1,0 +1,47 @@
+{
+  "category": "fonts",
+  "signatures": [
+    {
+      "id": "google-fonts",
+      "name": "Google Fonts",
+      "website": "https://fonts.google.com",
+      "rules": [
+        { "type": "script", "pattern": "fonts\\.googleapis\\.com", "confidence": "high" },
+        { "type": "html", "pattern": "fonts\\.gstatic\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "adobe-fonts",
+      "name": "Adobe Fonts",
+      "website": "https://fonts.adobe.com",
+      "rules": [
+        { "type": "script", "pattern": "use\\.typekit\\.net", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "font-awesome",
+      "name": "Font Awesome",
+      "website": "https://fontawesome.com",
+      "rules": [
+        { "type": "script", "pattern": "kit\\.fontawesome\\.com", "confidence": "high" },
+        { "type": "script", "pattern": "cdnjs\\.cloudflare\\.com/.*font-awesome", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "bunny-fonts",
+      "name": "Bunny Fonts",
+      "website": "https://fonts.bunny.net",
+      "rules": [
+        { "type": "script", "pattern": "fonts\\.bunny\\.net", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "fontshare",
+      "name": "Fontshare",
+      "website": "https://fontshare.com",
+      "rules": [
+        { "type": "script", "pattern": "api\\.fontshare\\.com", "confidence": "high" }
+      ]
+    }
+  ]
+}

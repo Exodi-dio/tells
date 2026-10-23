@@ -1,0 +1,57 @@
+name: crawl
+
+on:
+  schedule:
+    # 03:17 UTC daily — off the hour, because everyone cron-jobs on the hour.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Crawl
+        run: npm run crawl
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit the snapshot
+        run: |
+          git config user.name "tells-bot"
+          git config user.email "tells-bot@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "data: snapshot $(date -u +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

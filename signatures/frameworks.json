@@ -1,0 +1,200 @@
+{
+  "category": "framework",
+  "signatures": [
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "website": "https://nextjs.org",
+      "rules": [
+        { "type": "header", "name": "x-powered-by", "pattern": "^Next\\.js", "confidence": "high" },
+        { "type": "script", "pattern": "/_next/static/", "confidence": "high" },
+        { "type": "html", "pattern": "__NEXT_DATA__", "confidence": "high" },
+        { "type": "html", "pattern": "id=\"__next\"", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "nuxt",
+      "name": "Nuxt",
+      "website": "https://nuxt.com",
+      "rules": [
+        { "type": "html", "pattern": "__NUXT__", "confidence": "high" },
+        { "type": "script", "pattern": "/_nuxt/", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "gatsby",
+      "name": "Gatsby",
+      "website": "https://gatsbyjs.com",
+      "rules": [
+        { "type": "html", "pattern": "___gatsby", "confidence": "high" },
+        { "type": "script", "pattern": "/page-data/", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "astro",
+      "name": "Astro",
+      "website": "https://astro.build",
+      "rules": [
+        { "type": "html", "pattern": "astro-island", "confidence": "high" },
+        { "type": "html", "pattern": "data-astro-cid-", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "sveltekit",
+      "name": "SvelteKit",
+      "website": "https://kit.svelte.dev",
+      "rules": [
+        { "type": "html", "pattern": "__sveltekit", "confidence": "high" },
+        { "type": "html", "pattern": "data-sveltekit-", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "remix",
+      "name": "Remix",
+      "website": "https://remix.run",
+      "rules": [
+        { "type": "html", "pattern": "__remixContext", "confidence": "high" },
+        { "type": "script", "pattern": "/build/manifest-", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "angular",
+      "name": "Angular",
+      "website": "https://angular.dev",
+      "rules": [
+        { "type": "html", "pattern": "ng-version=", "confidence": "high" },
+        { "type": "html", "pattern": "ng-app", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "vue",
+      "name": "Vue",
+      "website": "https://vuejs.org",
+      "rules": [
+        { "type": "html", "pattern": "data-v-[a-f0-9]{8}", "confidence": "medium" },
+        { "type": "html", "pattern": "__VUE__", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "website": "https://react.dev",
+      "rules": [
+        { "type": "html", "pattern": "data-reactroot", "confidence": "medium" },
+        { "type": "html", "pattern": "__REACT_DEVTOOLS_GLOBAL_HOOK__", "confidence": "low" }
+      ]
+    },
+    {
+      "id": "ember",
+      "name": "Ember",
+      "website": "https://emberjs.com",
+      "rules": [
+        { "type": "html", "pattern": "ember-view", "confidence": "high" },
+        { "type": "html", "pattern": "data-ember-action", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo",
+      "website": "https://gohugo.io",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^Hugo", "confidence": "high" }
+      ],
+      "version": "Hugo\\s+([0-9.]+)"
+    },
+    {
+      "id": "jekyll",
+      "name": "Jekyll",
+      "website": "https://jekyllrb.com",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^Jekyll", "confidence": "high" }
+      ],
+      "version": "Jekyll\\s+v?([0-9.]+)"
+    },
+    {
+      "id": "eleventy",
+      "name": "Eleventy",
+      "website": "https://11ty.dev",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^Eleventy", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "docusaurus",
+      "name": "Docusaurus",
+      "website": "https://docusaurus.io",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "Docusaurus", "confidence": "high" },
+        { "type": "html", "pattern": "docusaurus", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "mkdocs",
+      "name": "MkDocs",
+      "website": "https://mkdocs.org",
+      "rules": [
+        { "type": "meta", "name": "generator", "pattern": "^mkdocs", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "vitepress",
+      "name": "VitePress",
+      "website": "https://vitepress.dev",
+      "rules": [
+        { "type": "html", "pattern": "vitepress", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "website": "https://phoenixframework.org",
+      "rules": [
+        { "type": "html", "pattern": "data-phx-main", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "rails",
+      "name": "Ruby on Rails",
+      "website": "https://rubyonrails.org",
+      "rules": [
+        { "type": "header", "name": "x-runtime", "confidence": "medium" },
+        { "type": "meta", "name": "csrf-token", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "django",
+      "name": "Django",
+      "website": "https://djangoproject.com",
+      "rules": [
+        { "type": "html", "pattern": "csrfmiddlewaretoken", "confidence": "medium" },
+        { "type": "cookie", "name": "csrftoken", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "laravel",
+      "name": "Laravel",
+      "website": "https://laravel.com",
+      "rules": [
+        { "type": "cookie", "name": "laravel_session", "confidence": "high" },
+        { "type": "cookie", "name": "XSRF-TOKEN", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "aspnet",
+      "name": "ASP.NET",
+      "website": "https://dotnet.microsoft.com",
+      "rules": [
+        { "type": "header", "name": "x-aspnet-version", "confidence": "high" },
+        { "type": "cookie", "name": "ASP.NET_SessionId", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "spring",
+      "name": "Spring",
+      "website": "https://spring.io",
+      "rules": [
+        { "type": "cookie", "name": "JSESSIONID", "confidence": "low" }
+      ]
+    }
+  ]
+}

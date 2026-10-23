@@ -1,0 +1,132 @@
+{
+  "category": "hosting",
+  "signatures": [
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "rules": [
+        { "type": "header", "name": "x-vercel-id", "confidence": "high" },
+        { "type": "header", "name": "server", "pattern": "^Vercel", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "netlify",
+      "name": "Netlify",
+      "website": "https://netlify.com",
+      "rules": [
+        { "type": "header", "name": "x-nf-request-id", "confidence": "high" },
+        { "type": "header", "name": "server", "pattern": "^Netlify", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "website": "https://cloudflare.com",
+      "rules": [
+        { "type": "header", "name": "cf-ray", "confidence": "high" },
+        { "type": "header", "name": "server", "pattern": "^cloudflare$", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "github-pages",
+      "name": "GitHub Pages",
+      "website": "https://pages.github.com",
+      "rules": [
+        { "type": "header", "name": "server", "pattern": "^GitHub\\.com$", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "cloudfront",
+      "name": "Amazon CloudFront",
+      "website": "https://aws.amazon.com/cloudfront",
+      "rules": [
+        { "type": "header", "name": "x-amz-cf-id", "confidence": "high" },
+        { "type": "header", "name": "via", "pattern": "CloudFront", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "fastly",
+      "name": "Fastly",
+      "website": "https://fastly.com",
+      "rules": [
+        { "type": "header", "name": "x-fastly-request-id", "confidence": "high" },
+        { "type": "header", "name": "x-served-by", "pattern": "cache-", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://akamai.com",
+      "rules": [
+        { "type": "header", "name": "x-akamai-transformed", "confidence": "high" },
+        { "type": "header", "name": "server", "pattern": "AkamaiGHost", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "fly-io",
+      "name": "Fly.io",
+      "website": "https://fly.io",
+      "rules": [
+        { "type": "header", "name": "fly-request-id", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "render",
+      "name": "Render",
+      "website": "https://render.com",
+      "rules": [
+        { "type": "header", "name": "rndr-id", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "heroku",
+      "name": "Heroku",
+      "website": "https://heroku.com",
+      "rules": [
+        { "type": "header", "name": "via", "pattern": "vegur", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "website": "https://azure.microsoft.com",
+      "rules": [
+        { "type": "header", "name": "x-azure-ref", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "aws-s3",
+      "name": "Amazon S3",
+      "website": "https://aws.amazon.com/s3",
+      "rules": [
+        { "type": "header", "name": "server", "pattern": "^AmazonS3$", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "nginx",
+      "name": "nginx",
+      "website": "https://nginx.org",
+      "rules": [
+        { "type": "header", "name": "server", "pattern": "^nginx", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "apache",
+      "name": "Apache",
+      "website": "https://httpd.apache.org",
+      "rules": [
+        { "type": "header", "name": "server", "pattern": "^Apache", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com",
+      "rules": [
+        { "type": "header", "name": "server", "pattern": "^gws$", "confidence": "medium" },
+        { "type": "header", "name": "via", "pattern": "^google", "confidence": "medium" }
+      ]
+    }
+  ]
+}

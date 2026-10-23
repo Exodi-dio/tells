@@ -1,0 +1,78 @@
+{
+  "category": "ecommerce",
+  "signatures": [
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "website": "https://shopify.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.shopify\\.com", "confidence": "high" },
+        { "type": "html", "pattern": "Shopify\\.theme", "confidence": "high" },
+        { "type": "cookie", "name": "_shopify_s", "confidence": "high" },
+        { "type": "html", "pattern": "checkout\\.shopify\\.com", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "woocommerce",
+      "name": "WooCommerce",
+      "website": "https://woocommerce.com",
+      "rules": [
+        { "type": "html", "pattern": "woocommerce", "confidence": "medium" },
+        { "type": "html", "pattern": "wc-ajax", "confidence": "high" },
+        { "type": "cookie", "name": "woocommerce_cart_hash", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "bigcommerce",
+      "name": "BigCommerce",
+      "website": "https://bigcommerce.com",
+      "rules": [
+        { "type": "html", "pattern": "cdn11\\.bigcommerce\\.com", "confidence": "high" },
+        { "type": "html", "pattern": "bigcommerce\\.com", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "magento",
+      "name": "Adobe Commerce (Magento)",
+      "website": "https://business.adobe.com/products/magento",
+      "rules": [
+        { "type": "cookie", "name": "mage-cache-sessid", "confidence": "high" },
+        { "type": "html", "pattern": "mage/cookies", "confidence": "high" },
+        { "type": "html", "pattern": "Magento_", "confidence": "medium" }
+      ]
+    },
+    {
+      "id": "salesforce-commerce",
+      "name": "Salesforce Commerce Cloud",
+      "website": "https://salesforce.com",
+      "rules": [
+        { "type": "html", "pattern": "/on/demandware\\.store/", "confidence": "high" },
+        { "type": "html", "pattern": "demandware\\.store", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "snipcart",
+      "name": "Snipcart",
+      "website": "https://snipcart.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.snipcart\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "ecwid",
+      "name": "Ecwid",
+      "website": "https://ecwid.com",
+      "rules": [
+        { "type": "script", "pattern": "app\\.ecwid\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "commercetools",
+      "name": "commercetools",
+      "website": "https://commercetools.com",
+      "rules": [
+        { "type": "html", "pattern": "commercetools", "confidence": "medium" }
+      ]
+    }
+  ]
+}

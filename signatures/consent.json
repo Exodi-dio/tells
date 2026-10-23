@@ -1,0 +1,77 @@
+{
+  "category": "consent",
+  "signatures": [
+    {
+      "id": "onetrust",
+      "name": "OneTrust",
+      "website": "https://onetrust.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.cookielaw\\.org", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "cookiebot",
+      "name": "Cookiebot",
+      "website": "https://cookiebot.com",
+      "rules": [
+        { "type": "script", "pattern": "consent\\.cookiebot\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "osano",
+      "name": "Osano",
+      "website": "https://osano.com",
+      "rules": [
+        { "type": "script", "pattern": "cmp\\.osano\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "trustarc",
+      "name": "TrustArc",
+      "website": "https://trustarc.com",
+      "rules": [
+        { "type": "script", "pattern": "consent\\.trustarc\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "didomi",
+      "name": "Didomi",
+      "website": "https://didomi.io",
+      "rules": [
+        { "type": "script", "pattern": "sdk\\.privacy-center\\.org", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "quantcast",
+      "name": "Quantcast Choice",
+      "website": "https://quantcast.com",
+      "rules": [
+        { "type": "script", "pattern": "quantcast\\.mgr\\.consensu\\.org", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "usercentrics",
+      "name": "Usercentrics",
+      "website": "https://usercentrics.com",
+      "rules": [
+        { "type": "script", "pattern": "app\\.usercentrics\\.eu", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "iubenda",
+      "name": "iubenda",
+      "website": "https://iubenda.com",
+      "rules": [
+        { "type": "script", "pattern": "cdn\\.iubenda\\.com", "confidence": "high" }
+      ]
+    },
+    {
+      "id": "termly",
+      "name": "Termly",
+      "website": "https://termly.io",
+      "rules": [
+        { "type": "script", "pattern": "app\\.termly\\.io", "confidence": "high" }
+      ]
+    }
+  ]
+}
