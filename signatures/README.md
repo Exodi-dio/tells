@@ -57,3 +57,9 @@ published, with our name on it, every night.
 2. Prefer the rule the vendor cannot remove without breaking themselves (a CDN header over a CSS class).
 3. No rules against `robots.txt`-disallowed paths — we only read the page we were served.
 4. Adding a signature takes one file edit and one JSON object. That is the whole contribution surface.
+5. A bare product name is never a rule. `woocommerce` matches a blog post about
+   migrating off WooCommerce; `wp-content/plugins/woocommerce` matches a site
+   actually running it. Evidence has to be something only the real thing emits.
+6. If the observable signal cannot separate two products, ship no signature
+   instead of a coin flip. `server: GitHub.com` was retired for exactly this
+   reason — github.com and every `*.github.io` site send the same header.

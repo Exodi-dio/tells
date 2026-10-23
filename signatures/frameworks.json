@@ -63,7 +63,7 @@
       "website": "https://angular.dev",
       "rules": [
         { "type": "html", "pattern": "ng-version=", "confidence": "high" },
-        { "type": "html", "pattern": "ng-app", "confidence": "medium" }
+        { "type": "html", "pattern": "ng-app=", "confidence": "medium" }
       ]
     },
     {

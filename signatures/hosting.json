@@ -29,14 +29,6 @@
       ]
     },
     {
-      "id": "github-pages",
-      "name": "GitHub Pages",
-      "website": "https://pages.github.com",
-      "rules": [
-        { "type": "header", "name": "server", "pattern": "^GitHub\\.com$", "confidence": "high" }
-      ]
-    },
-    {
       "id": "cloudfront",
       "name": "Amazon CloudFront",
       "website": "https://aws.amazon.com/cloudfront",

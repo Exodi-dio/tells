@@ -17,7 +17,7 @@
       "name": "WooCommerce",
       "website": "https://woocommerce.com",
       "rules": [
-        { "type": "html", "pattern": "woocommerce", "confidence": "medium" },
+        { "type": "html", "pattern": "wp-content/plugins/woocommerce", "confidence": "high" },
         { "type": "html", "pattern": "wc-ajax", "confidence": "high" },
         { "type": "cookie", "name": "woocommerce_cart_hash", "confidence": "high" }
       ]
