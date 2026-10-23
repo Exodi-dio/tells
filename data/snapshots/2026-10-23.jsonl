@@ -37,7 +37,7 @@
 {"d":"bandcamp.com","s":200,"o":1,"k":["fastly","nginx","vue"]}
 {"d":"fda.gov","s":404,"o":0,"k":[]}
 {"d":"python.org","s":200,"o":1,"k":["fastly","nginx"]}
-{"d":"consultant.ru","s":200,"o":1,"k":["nginx","rails"]}
+{"d":"consultant.ru","s":0,"o":0,"k":[]}
 {"d":"moloco.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"liadm.com","s":0,"o":0,"k":[]}
 {"d":"att.com","s":200,"o":1,"k":["akamai","astro","nextjs","nuxt","vue"]}
@@ -93,7 +93,7 @@
 {"d":"1password.com","s":200,"o":1,"k":["cloudflare","contentful","nextjs","vercel"]}
 {"d":"usgs.gov","s":0,"o":0,"k":[]}
 {"d":"rustdesk.com","s":200,"o":1,"k":["astro","cloudflare","google-analytics"]}
-{"d":"xinhuanet.com","s":0,"o":0,"k":[]}
+{"d":"xinhuanet.com","s":200,"o":1,"k":[]}
 {"d":"166.com","s":0,"o":0,"k":[]}
 {"d":"git-scm.com","s":200,"o":1,"k":["cloudflare","fastly","hugo"]}
 {"d":"acrobat.com","s":200,"o":1,"k":["cloudfront"]}
@@ -205,7 +205,7 @@
 {"d":"signifyd.com","s":200,"o":1,"k":["cloudflare","google-fonts","onetrust","wordpress"]}
 {"d":"udn.com","s":200,"o":1,"k":["google-ads","google-fonts","nginx"]}
 {"d":"shutterfly.com","s":200,"o":1,"k":["akamai","cloudfront","nextjs"]}
-{"d":"dreamstime.com","s":200,"o":1,"k":["google-tag-manager","nginx"]}
+{"d":"dreamstime.com","s":403,"o":0,"k":[]}
 {"d":"xhlink.blog","s":200,"o":1,"k":["nginx"]}
 {"d":"dramaboxdb.com","s":403,"o":0,"k":[]}
 {"d":"derstandard.at","s":200,"o":1,"k":["nginx"]}
@@ -228,7 +228,7 @@
 {"d":"twtrdns.net","s":0,"o":0,"k":[]}
 {"d":"alltrails.com","s":200,"o":1,"k":["cloudfront","google-analytics","nextjs","nginx","wordpress"]}
 {"d":"tiktokpangle-cdn-us.com","s":0,"o":0,"k":[]}
-{"d":"vinted.co.uk","s":200,"o":1,"k":["cloudflare","nextjs"]}
+{"d":"vinted.co.uk","s":200,"o":1,"k":["fastly","nextjs"]}
 {"d":"barracuda.com","s":200,"o":1,"k":["azure","fastly","onetrust"]}
 {"d":"certum.pl","s":200,"o":1,"k":["apache","google-fonts","wordpress"]}
 {"d":"mobiuspace.net","s":0,"o":0,"k":[]}
@@ -245,7 +245,7 @@
 {"d":"aps.org","s":200,"o":1,"k":["cloudflare","netlify","nextjs","osano","sanity"]}
 {"d":"gzip.org","s":200,"o":1,"k":["apache"]}
 {"d":"vrt.be","s":200,"o":1,"k":["cloudfront","apache","nextjs"]}
-{"d":"oneidrive.org","s":0,"o":0,"k":[]}
+{"d":"oneidrive.org","s":200,"o":1,"k":["nginx"]}
 {"d":"hardened-php.net","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"nbcsports.com","s":200,"o":1,"k":["cloudfront","onetrust"]}
 {"d":"ertelecom.ru","s":200,"o":1,"k":["nginx"]}
@@ -258,9 +258,9 @@
 {"d":"mypurecloud.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","font-awesome","onetrust","wordpress"]}
 {"d":"berlin.de","s":403,"o":0,"k":[]}
 {"d":"sellvir.com","s":200,"o":1,"k":["apache"]}
-{"d":"nic.de","s":200,"o":1,"k":["matomo"]}
+{"d":"nic.de","s":0,"o":0,"k":[]}
 {"d":"alexa.com","s":0,"o":0,"k":[]}
-{"d":"gitv.tv","s":200,"o":1,"k":["nginx"]}
+{"d":"gitv.tv","s":0,"o":0,"k":[]}
 {"d":"tally.so","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"voodoo-gaming.io","s":0,"o":0,"k":[]}
 {"d":"amazon.ie","s":200,"o":1,"k":["cloudfront"]}
@@ -427,7 +427,7 @@
 {"d":"hopto.org","s":0,"o":0,"k":[]}
 {"d":"convertexperiments.com","s":0,"o":0,"k":[]}
 {"d":"puzztake.com","s":0,"o":0,"k":[]}
-{"d":"clarivate.com","s":200,"o":1,"k":["fastly","nginx","onetrust","wordpress"]}
+{"d":"clarivate.com","s":500,"o":0,"k":[]}
 {"d":"lokmat.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"cfe.mx","s":0,"o":0,"k":[]}
 {"d":"anime-sama.to","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
@@ -700,7 +700,7 @@
 {"d":"24tv.ua","s":200,"o":1,"k":["angular","cloudflare"]}
 {"d":"uva.es","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","spring"]}
 {"d":"redalyc.org","s":200,"o":1,"k":["angular","google-analytics","google-tag-manager","spring"]}
-{"d":"sikayetvar.com","s":200,"o":1,"k":["cloudflare","nextjs"]}
+{"d":"sikayetvar.com","s":403,"o":0,"k":[]}
 {"d":"tcmb.gov.tr","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"hwrn.net","s":0,"o":0,"k":[]}
 {"d":"fotor.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
@@ -708,7 +708,7 @@
 {"d":"louisiana.edu","s":200,"o":1,"k":["drupal","fastly","nginx"]}
 {"d":"pkok11.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"dotabuff.com","s":403,"o":0,"k":[]}
-{"d":"efe.com","s":429,"o":0,"k":[]}
+{"d":"efe.com","s":403,"o":0,"k":[]}
 {"d":"ulikecam.com","s":200,"o":1,"k":[]}
 {"d":"salesforce-setup.com","s":200,"o":1,"k":["akamai","contentful","wordpress"]}
 {"d":"dpbosss.net.in","s":200,"o":1,"k":["cloudflare","google-analytics"]}
@@ -755,7 +755,7 @@
 {"d":"motive.com","s":200,"o":1,"k":["cloudflare","hubspot-cms"]}
 {"d":"printful.com","s":200,"o":1,"k":["cloudflare","rails"]}
 {"d":"nltimes.nl","s":200,"o":1,"k":["cloudflare","drupal","google-analytics","google-tag-manager"]}
-{"d":"vinted.se","s":200,"o":1,"k":["fastly","nextjs"]}
+{"d":"vinted.se","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"iqvia.com","s":200,"o":1,"k":[]}
 {"d":"cninfo.com.cn","s":0,"o":0,"k":[]}
 {"d":"london.gov.uk","s":200,"o":1,"k":["cloudflare","drupal"]}
@@ -916,7 +916,7 @@
 {"d":"gamersky.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"jellyfin.org","s":200,"o":1,"k":["docusaurus","fastly"]}
 {"d":"conac.cn","s":200,"o":1,"k":["nginx"]}
-{"d":"anyporn.com","s":451,"o":0,"k":[]}
+{"d":"anyporn.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"cgtrader.com","s":200,"o":1,"k":["cloudfront","rails"]}
 {"d":"theringer.com","s":200,"o":1,"k":["nextjs","wordpress"]}
 {"d":"eva.vn","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","nginx"]}
@@ -964,7 +964,7 @@
 {"d":"logr-in.com","s":0,"o":0,"k":[]}
 {"d":"mailfence.com","s":200,"o":1,"k":["spring"]}
 {"d":"china-embassy.gov.cn","s":0,"o":0,"k":[]}
-{"d":"gayporno.fm","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
+{"d":"gayporno.fm","s":0,"o":0,"k":[]}
 {"d":"certainly.com","s":200,"o":1,"k":["fastly"]}
 {"d":"pcpitstop.com","s":200,"o":1,"k":["cloudflare","font-awesome"]}
 {"d":"jku.at","s":200,"o":1,"k":["google-analytics","matomo","nginx"]}
@@ -1055,7 +1055,7 @@
 {"d":"cyol.com","s":200,"o":1,"k":[]}
 {"d":"haystack.es","s":0,"o":0,"k":[]}
 {"d":"xml-sitemaps.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
-{"d":"dephub.go.id","s":200,"o":1,"k":[]}
+{"d":"dephub.go.id","s":200,"o":1,"k":["google-analytics","google-tag-manager","laravel"]}
 {"d":"tennistemple.com","s":403,"o":0,"k":[]}
 {"d":"apteka911.ua","s":200,"o":1,"k":["nginx"]}
 {"d":"instiengage.com","s":0,"o":0,"k":[]}
@@ -1177,7 +1177,7 @@
 {"d":"sendtonews.com","s":200,"o":1,"k":["cloudfront","aws-s3","astro","hubspot-cms"]}
 {"d":"jawapos.com","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs"]}
 {"d":"a7satta.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","nextjs"]}
-{"d":"funinhorse.com","s":405,"o":0,"k":[]}
+{"d":"funinhorse.com","s":202,"o":1,"k":["cloudflare"]}
 {"d":"kura-vie.jp","s":200,"o":1,"k":["google-ads","nginx"]}
 {"d":"pilio.idv.tw","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"successchaserstars.com","s":200,"o":1,"k":["apache"]}
@@ -1205,7 +1205,7 @@
 {"d":"zellepay.com","s":200,"o":1,"k":["cloudflare","drupal","onetrust"]}
 {"d":"jbc.org","s":403,"o":0,"k":[]}
 {"d":"deutsche-boerse.com","s":200,"o":1,"k":[]}
-{"d":"schleswig-holstein.de","s":200,"o":1,"k":[]}
+{"d":"schleswig-holstein.de","s":0,"o":0,"k":[]}
 {"d":"bcmdns.com","s":0,"o":0,"k":[]}
 {"d":"bershka.com","s":403,"o":0,"k":[]}
 {"d":"i-motion.de","s":200,"o":1,"k":["aspnet","matomo"]}
@@ -1228,7 +1228,7 @@
 {"d":"decathlon.ro","s":403,"o":0,"k":[]}
 {"d":"annals.org","s":403,"o":0,"k":[]}
 {"d":"flashb.id","s":403,"o":0,"k":[]}
-{"d":"loopiagroup.com","s":200,"o":1,"k":["nginx"]}
+{"d":"loopiagroup.com","s":0,"o":0,"k":[]}
 {"d":"tidio.com","s":200,"o":1,"k":["amplitude","bigcommerce","cloudflare","nextjs"]}
 {"d":"businessinsider.com.au","s":0,"o":0,"k":[]}
 {"d":"wheniwork-production.com","s":0,"o":0,"k":[]}
@@ -1254,7 +1254,7 @@
 {"d":"windowsupdate.com","s":0,"o":0,"k":[]}
 {"d":"akam.net","s":0,"o":0,"k":[]}
 {"d":"yandex.ru","s":200,"o":1,"k":[]}
-{"d":"intuit.com","s":429,"o":0,"k":[]}
+{"d":"intuit.com","s":200,"o":1,"k":["akamai","nextjs"]}
 {"d":"trbcdn.net","s":0,"o":0,"k":[]}
 {"d":"gravatar.com","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"afternic.com","s":200,"o":1,"k":["akamai","contentful","nextjs"]}
@@ -1405,7 +1405,7 @@
 {"d":"mookie1.com","s":0,"o":0,"k":[]}
 {"d":"laracasts.com","s":200,"o":1,"k":["cloudflare","laravel","vue"]}
 {"d":"cvent.com","s":200,"o":1,"k":["cloudfront","drupal","nginx","onetrust"]}
-{"d":"paypal.me","s":200,"o":1,"k":["fastly"]}
+{"d":"paypal.me","s":200,"o":1,"k":["cloudflare"]}
 {"d":"ps.kz","s":200,"o":1,"k":["nextjs","nginx"]}
 {"d":"ttdns3.com","s":0,"o":0,"k":[]}
 {"d":"ioref.io","s":0,"o":0,"k":[]}
@@ -1542,7 +1542,7 @@
 {"d":"playground.ru","s":200,"o":1,"k":["google-ads","nginx"]}
 {"d":"smashingmagazine.com","s":200,"o":1,"k":["google-tag-manager","netlify"]}
 {"d":"akadns99.net","s":0,"o":0,"k":[]}
-{"d":"tn.gov","s":403,"o":0,"k":[]}
+{"d":"tn.gov","s":0,"o":0,"k":[]}
 {"d":"codecademy.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
 {"d":"blacknight.com","s":200,"o":1,"k":["hubspot-cms","nginx","termly","wordpress"]}
 {"d":"cctld.us","s":0,"o":0,"k":[]}
@@ -1613,7 +1613,7 @@
 {"d":"vecernji.hr","s":200,"o":1,"k":["django","google-analytics","nginx"]}
 {"d":"samsungmobile.com","s":0,"o":0,"k":[]}
 {"d":"centurytel.net","s":0,"o":0,"k":[]}
-{"d":"alberta.ca","s":200,"o":1,"k":["cloudflare","drupal"]}
+{"d":"alberta.ca","s":0,"o":0,"k":[]}
 {"d":"hollisterco.com","s":200,"o":1,"k":[]}
 {"d":"sofifa.com","s":403,"o":0,"k":[]}
 {"d":"coda.io","s":200,"o":1,"k":["cloudfront","sanity"]}
@@ -1793,7 +1793,7 @@
 {"d":"blackline.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","netlify","nuxt","onetrust","storyblok","vue"]}
 {"d":"aftenposten.no","s":200,"o":1,"k":["cloudfront","astro","nginx"]}
 {"d":"maxmind.com","s":200,"o":1,"k":["cloudflare","hubspot-cms"]}
-{"d":"hamburg.de","s":0,"o":0,"k":[]}
+{"d":"hamburg.de","s":200,"o":1,"k":["nginx"]}
 {"d":"geniex.com","s":0,"o":0,"k":[]}
 {"d":"motorsport.com","s":403,"o":0,"k":[]}
 {"d":"trafficstars.com","s":200,"o":1,"k":["cloudflare","google-fonts"]}
@@ -1884,7 +1884,7 @@
 {"d":"airbnb.fr","s":200,"o":1,"k":["nginx","rails"]}
 {"d":"klaviyodns.com","s":0,"o":0,"k":[]}
 {"d":"ui.ac.id","s":200,"o":1,"k":["wordpress"]}
-{"d":"zalando.ch","s":0,"o":0,"k":[]}
+{"d":"zalando.ch","s":403,"o":0,"k":[]}
 {"d":"intuitcdn.net","s":0,"o":0,"k":[]}
 {"d":"wtatennis.com","s":200,"o":1,"k":["cloudfront","google-tag-manager","nginx"]}
 {"d":"pantheon.io","s":200,"o":1,"k":["drupal","fastly","nginx"]}
@@ -1962,7 +1962,7 @@
 {"d":"goodnovel.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","vue"]}
 {"d":"albany.edu","s":200,"o":1,"k":["cloudflare","drupal","google-fonts"]}
 {"d":"vz.ru","s":200,"o":1,"k":["google-analytics","nginx"]}
-{"d":"connectcdk.com","s":0,"o":0,"k":[]}
+{"d":"connectcdk.com","s":406,"o":0,"k":[]}
 {"d":"cnnturk.com","s":200,"o":1,"k":["google-ads"]}
 {"d":"mawartotoskechers.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
 {"d":"moveaws.com","s":0,"o":0,"k":[]}
@@ -2023,7 +2023,7 @@
 {"d":"realpage.com","s":200,"o":1,"k":["akamai","onetrust","rails"]}
 {"d":"aph.gov.au","s":403,"o":0,"k":[]}
 {"d":"plati.market","s":200,"o":1,"k":[]}
-{"d":"qcc.com","s":200,"o":1,"k":["vue"]}
+{"d":"qcc.com","s":0,"o":0,"k":[]}
 {"d":"timesofindia.com","s":200,"o":1,"k":["google-ads","google-fonts","react"]}
 {"d":"lne.es","s":0,"o":0,"k":[]}
 {"d":"u.gg","s":403,"o":0,"k":[]}
@@ -2046,7 +2046,7 @@
 {"d":"chop.edu","s":200,"o":1,"k":["drupal","fastly","nginx","onetrust"]}
 {"d":"iwantmyname.com","s":403,"o":0,"k":[]}
 {"d":"approovr.io","s":0,"o":0,"k":[]}
-{"d":"jobrapido.com","s":200,"o":1,"k":["angular","google-analytics","google-fonts"]}
+{"d":"jobrapido.com","s":429,"o":0,"k":[]}
 {"d":"pixhost.cc","s":200,"o":1,"k":["nginx"]}
 {"d":"hostia.name","s":0,"o":0,"k":[]}
 {"d":"ozbargain.com.au","s":200,"o":1,"k":["cloudflare"]}
@@ -2087,7 +2087,7 @@
 {"d":"netvibes.com","s":200,"o":1,"k":["akamai"]}
 {"d":"zenwriting.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"githubapp.com","s":200,"o":1,"k":[]}
-{"d":"slrclub.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
+{"d":"slrclub.com","s":0,"o":0,"k":[]}
 {"d":"itb.ac.id","s":200,"o":1,"k":["font-awesome","google-analytics","nginx"]}
 {"d":"asiae.co.kr","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"base44.com","s":200,"o":1,"k":["cloudflare"]}
@@ -2447,7 +2447,7 @@
 {"d":"rmcdnnode.com","s":0,"o":0,"k":[]}
 {"d":"expert.ru","s":200,"o":1,"k":["laravel","rails"]}
 {"d":"qianlong.com","s":0,"o":0,"k":[]}
-{"d":"kinguin.net","s":200,"o":1,"k":["akamai","google-analytics","hubspot-cms"]}
+{"d":"kinguin.net","s":200,"o":1,"k":["akamai","nextjs"]}
 {"d":"labitat.dk","s":200,"o":1,"k":["nginx"]}
 {"d":"teespring.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"tpv-analytics.com","s":0,"o":0,"k":[]}
@@ -2502,7 +2502,7 @@
 {"d":"shiabank.com","s":0,"o":0,"k":[]}
 {"d":"microsoftonline.com","s":0,"o":0,"k":[]}
 {"d":"endpoints.news","s":403,"o":0,"k":[]}
-{"d":"amazonvideo.com","s":200,"o":1,"k":["cloudfront","react"]}
+{"d":"amazonvideo.com","s":0,"o":0,"k":[]}
 {"d":"gvt2.com","s":0,"o":0,"k":[]}
 {"d":"github.io","s":200,"o":1,"k":["fastly","jekyll"]}
 {"d":"archive.org","s":200,"o":1,"k":["nginx"]}
@@ -2534,7 +2534,7 @@
 {"d":"iso.org","s":403,"o":0,"k":[]}
 {"d":"cdn20.com","s":0,"o":0,"k":[]}
 {"d":"bamgrid.com","s":0,"o":0,"k":[]}
-{"d":"uber.com","s":200,"o":1,"k":["cloudflare"]}
+{"d":"uber.com","s":0,"o":0,"k":[]}
 {"d":"ozone.ru","s":0,"o":0,"k":[]}
 {"d":"bild.de","s":200,"o":1,"k":["apache","vue"]}
 {"d":"shopee.com.br","s":200,"o":1,"k":[]}
@@ -2550,7 +2550,7 @@
 {"d":"caixa.gov.br","s":0,"o":0,"k":[]}
 {"d":"pixiv.net","s":200,"o":1,"k":["cloudflare","google-analytics","nextjs"]}
 {"d":"oxylabs.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs","prismic"]}
-{"d":"healthline.com","s":200,"o":1,"k":["cloudfront","google-ads","nextjs","onetrust","wordpress"]}
+{"d":"healthline.com","s":0,"o":0,"k":[]}
 {"d":"kohls.com","s":403,"o":0,"k":[]}
 {"d":"rutube.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"ryanair.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
@@ -2581,7 +2581,7 @@
 {"d":"bingoplus.com","s":403,"o":0,"k":[]}
 {"d":"afribaba.com","s":403,"o":0,"k":[]}
 {"d":"wonporn.com","s":200,"o":1,"k":["nginx"]}
-{"d":"promiedos.com.ar","s":200,"o":1,"k":["cloudfront","google-analytics","google-tag-manager","nextjs"]}
+{"d":"promiedos.com.ar","s":0,"o":0,"k":[]}
 {"d":"hdhub4u.cl","s":0,"o":0,"k":[]}
 {"d":"mobiledokan.com","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","rails","wordpress"]}
 {"d":"tamilsexvids.net","s":200,"o":1,"k":["cloudflare","wordpress"]}
@@ -2609,7 +2609,7 @@
 {"d":"mastercard.com","s":403,"o":0,"k":[]}
 {"d":"clickpetroleoegas.com.br","s":200,"o":1,"k":["cloudflare","google-tag-manager","wordpress"]}
 {"d":"constantcontact.com","s":403,"o":0,"k":[]}
-{"d":"libero.it","s":200,"o":1,"k":["cloudfront","apache"]}
+{"d":"libero.it","s":0,"o":0,"k":[]}
 {"d":"lync.com","s":0,"o":0,"k":[]}
 {"d":"semrush.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"filmyfly.green","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
@@ -2736,7 +2736,7 @@
 {"d":"a1.net","s":403,"o":0,"k":[]}
 {"d":"edgedns-tm.info","s":0,"o":0,"k":[]}
 {"d":"statsig.com","s":200,"o":1,"k":["amplitude","contentful","google-tag-manager"]}
-{"d":"walmart.ca","s":200,"o":1,"k":[]}
+{"d":"walmart.ca","s":200,"o":1,"k":["google-fonts","nextjs"]}
 {"d":"ucloud.cn","s":200,"o":1,"k":["nextjs"]}
 {"d":"google.com.ni","s":200,"o":1,"k":["google-cloud"]}
 {"d":"pp.ru","s":200,"o":1,"k":[]}
@@ -2778,7 +2778,7 @@
 {"d":"michaels.com","s":200,"o":1,"k":["akamai","nextjs"]}
 {"d":"tripadvisor.it","s":403,"o":0,"k":[]}
 {"d":"logicmonitor.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
-{"d":"dn.se","s":200,"o":1,"k":["google-ads"]}
+{"d":"dn.se","s":0,"o":0,"k":[]}
 {"d":"farpost.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"ceneo.pl","s":200,"o":1,"k":[]}
 {"d":"htsc.com","s":0,"o":0,"k":[]}
@@ -2812,7 +2812,7 @@
 {"d":"ultradns.biz","s":0,"o":0,"k":[]}
 {"d":"godaddysites.com","s":404,"o":0,"k":[]}
 {"d":"wwd.com","s":200,"o":1,"k":["google-tag-manager","nginx","onetrust","wordpress"]}
-{"d":"chefkoch.de","s":200,"o":1,"k":["drupal","nuxt","vue"]}
+{"d":"chefkoch.de","s":0,"o":0,"k":[]}
 {"d":"getadblock.com","s":200,"o":1,"k":[]}
 {"d":"playdigo.com","s":200,"o":1,"k":["astro","google-tag-manager","sanity","vercel"]}
 {"d":"nspk.ru","s":0,"o":0,"k":[]}
@@ -2830,7 +2830,7 @@
 {"d":"openedition.org","s":200,"o":1,"k":["matomo"]}
 {"d":"fon.bet","s":200,"o":1,"k":["nginx"]}
 {"d":"dpreview.com","s":200,"o":1,"k":["cloudflare","google-ads","wordpress"]}
-{"d":"kinotik13.xyz","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
+{"d":"kinotik13.xyz","s":403,"o":0,"k":[]}
 {"d":"eaton.com","s":0,"o":0,"k":[]}
 {"d":"nic.fr","s":200,"o":1,"k":["apache","matomo","wordpress"]}
 {"d":"darty.com","s":403,"o":0,"k":[]}
@@ -2932,7 +2932,7 @@
 {"d":"ngl.link","s":200,"o":1,"k":["cloudflare","fastly","framer","google-fonts"]}
 {"d":"danword.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"kugou.net","s":200,"o":1,"k":[]}
-{"d":"fhway.live","s":200,"o":1,"k":["cloudflare"]}
+{"d":"fhway.live","s":0,"o":0,"k":[]}
 {"d":"roborock.com","s":0,"o":0,"k":[]}
 {"d":"oceans-nadia.com","s":200,"o":1,"k":["cloudfront","apache","google-fonts","nextjs","rails"]}
 {"d":"cardtrader.com","s":403,"o":0,"k":[]}
@@ -2996,7 +2996,7 @@
 {"d":"mzansi247.com","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"doujin-lc.net","s":403,"o":0,"k":[]}
 {"d":"kanesex.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
-{"d":"1jugarbet.com","s":404,"o":0,"k":[]}
+{"d":"1jugarbet.com","s":403,"o":0,"k":[]}
 {"d":"callbomberz.in","s":403,"o":0,"k":[]}
 {"d":"1go.plus","s":200,"o":1,"k":["cloudflare"]}
 {"d":"pddpic.com","s":0,"o":0,"k":[]}
@@ -3070,7 +3070,7 @@
 {"d":"pro32connect.ru","s":200,"o":1,"k":["google-fonts"]}
 {"d":"harpercollins.com","s":403,"o":0,"k":[]}
 {"d":"skystone.games","s":200,"o":1,"k":["fastly","sentry","wix"]}
-{"d":"etagi.com","s":200,"o":1,"k":["google-analytics"]}
+{"d":"etagi.com","s":403,"o":0,"k":[]}
 {"d":"justhost.com","s":403,"o":0,"k":[]}
 {"d":"skeepers.io","s":403,"o":0,"k":[]}
 {"d":"gov.ru","s":0,"o":0,"k":[]}
@@ -3160,7 +3160,7 @@
 {"d":"movoto.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"ligastavok.ru","s":401,"o":0,"k":[]}
 {"d":"garena.vn","s":200,"o":1,"k":["nuxt","vue"]}
-{"d":"bathandbodyworks.com","s":307,"o":0,"k":[]}
+{"d":"bathandbodyworks.com","s":200,"o":1,"k":["cloudfront","cloudflare","cloudflare-web-analytics","fastly"]}
 {"d":"bfi.org.uk","s":200,"o":1,"k":["cloudflare","drupal"]}
 {"d":"webhouse.sk","s":200,"o":1,"k":["apache","cookiebot"]}
 {"d":"siue.edu","s":200,"o":1,"k":["apache","google-analytics"]}
@@ -3246,7 +3246,7 @@
 {"d":"ht-systems.ru","s":200,"o":1,"k":["google-tag-manager","matomo"]}
 {"d":"gauthmath.com","s":403,"o":0,"k":[]}
 {"d":"tu-dortmund.de","s":200,"o":1,"k":["apache","matomo"]}
-{"d":"clashroyale.com","s":200,"o":1,"k":["cloudfront","aws-s3","nextjs"]}
+{"d":"clashroyale.com","s":0,"o":0,"k":[]}
 {"d":"nysed.gov","s":0,"o":0,"k":[]}
 {"d":"sonnenbatterie.de","s":200,"o":1,"k":["cloudflare","sentry","webflow"]}
 {"d":"selfhost.de","s":200,"o":1,"k":["matomo","nginx","wordpress"]}
@@ -3299,8 +3299,8 @@
 {"d":"rapidapi.com","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"vietjetair.com","s":403,"o":0,"k":[]}
 {"d":"ticketmaster.com.mx","s":403,"o":0,"k":[]}
-{"d":"versus.com","s":202,"o":1,"k":["cloudfront"]}
-{"d":"711proxy.com","s":0,"o":0,"k":[]}
+{"d":"versus.com","s":0,"o":0,"k":[]}
+{"d":"711proxy.com","s":200,"o":1,"k":["cloudflare","google-tag-manager"]}
 {"d":"riverisland.com","s":200,"o":1,"k":[]}
 {"d":"vnggames.com","s":200,"o":1,"k":["astro"]}
 {"d":"imggaming.com","s":0,"o":0,"k":[]}
@@ -3324,7 +3324,7 @@
 {"d":"streamabc.net","s":0,"o":0,"k":[]}
 {"d":"telus.net","s":0,"o":0,"k":[]}
 {"d":"vinmec.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","google-tag-manager"]}
-{"d":"bodegaaurrera.com.mx","s":200,"o":1,"k":[]}
+{"d":"bodegaaurrera.com.mx","s":200,"o":1,"k":["google-fonts","nextjs"]}
 {"d":"factcheck.org","s":200,"o":1,"k":["apache","google-fonts","wordpress"]}
 {"d":"awsdns-cn-52.com","s":0,"o":0,"k":[]}
 {"d":"json.org","s":200,"o":1,"k":["apache"]}
@@ -3376,7 +3376,7 @@
 {"d":"cira.ca","s":403,"o":0,"k":[]}
 {"d":"akagtm.org","s":0,"o":0,"k":[]}
 {"d":"prospect.org","s":200,"o":1,"k":["google-fonts","google-tag-manager","nginx","woocommerce","wordpress"]}
-{"d":"asana.biz","s":200,"o":1,"k":["cloudfront","aws-s3"]}
+{"d":"asana.biz","s":0,"o":0,"k":[]}
 {"d":"sitecorecloud.io","s":0,"o":0,"k":[]}
 {"d":"capital.fr","s":200,"o":1,"k":[]}
 {"d":"webd.pl","s":200,"o":1,"k":["cookiebot"]}
@@ -3440,7 +3440,7 @@
 {"d":"carrotquest.app","s":0,"o":0,"k":[]}
 {"d":"zoomdev.us","s":403,"o":0,"k":[]}
 {"d":"greenwichmeantime.com","s":403,"o":0,"k":[]}
-{"d":"premier.one","s":200,"o":1,"k":["drupal","nuxt"]}
+{"d":"premier.one","s":200,"o":1,"k":["drupal","nginx","nuxt"]}
 {"d":"factsmgt.com","s":200,"o":1,"k":["cloudflare","hubspot-cms","wordpress"]}
 {"d":"comfortweather.com","s":200,"o":1,"k":["nginx"]}
 {"d":"tesla.cn","s":200,"o":1,"k":["drupal"]}
@@ -3497,7 +3497,7 @@
 {"d":"cloudimg.io","s":200,"o":1,"k":["cloudflare","commercetools","google-fonts","webflow"]}
 {"d":"cdn-cian.ru","s":0,"o":0,"k":[]}
 {"d":"pomorska.pl","s":403,"o":0,"k":[]}
-{"d":"auvergnerhonealpes.fr","s":200,"o":1,"k":[]}
+{"d":"auvergnerhonealpes.fr","s":200,"o":1,"k":["apache","drupal","matomo"]}
 {"d":"interaction-design.org","s":200,"o":1,"k":["cloudflare","laravel","rails"]}
 {"d":"ecopsy.ru","s":200,"o":1,"k":[]}
 {"d":"opensocietyfoundations.org","s":200,"o":1,"k":["cloudflare"]}
@@ -3547,7 +3547,7 @@
 {"d":"cdn-d12.com","s":200,"o":1,"k":["nginx"]}
 {"d":"notes.io","s":403,"o":0,"k":[]}
 {"d":"kamihq.com","s":200,"o":1,"k":["cloudfront","google-fonts","hubspot-cms","nginx","wordpress"]}
-{"d":"japanesebeauties.one","s":200,"o":1,"k":["cloudflare","google-analytics","matomo"]}
+{"d":"japanesebeauties.one","s":523,"o":0,"k":[]}
 {"d":"myhora.com","s":403,"o":0,"k":[]}
 {"d":"prizegrab.com","s":200,"o":1,"k":["cloudfront","django"]}
 {"d":"wallpaper.com","s":200,"o":1,"k":["fastly"]}
@@ -3563,7 +3563,7 @@
 {"d":"zingmp3.vn","s":200,"o":1,"k":["nginx"]}
 {"d":"animesuge.cz","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","rails"]}
 {"d":"doodleordie.com","s":0,"o":0,"k":[]}
-{"d":"bancofalabella.cl","s":200,"o":1,"k":["cloudflare","contentful","nextjs"]}
+{"d":"bancofalabella.cl","s":0,"o":0,"k":[]}
 {"d":"proctorauth.com","s":0,"o":0,"k":[]}
 {"d":"allegiantair.com","s":403,"o":0,"k":[]}
 {"d":"cnam.fr","s":200,"o":1,"k":["apache","matomo","spring"]}
@@ -3637,7 +3637,7 @@
 {"d":"123c.vn","s":0,"o":0,"k":[]}
 {"d":"mamshirt.com","s":200,"o":1,"k":["cloudflare","google-fonts"]}
 {"d":"uaserials.com","s":403,"o":0,"k":[]}
-{"d":"eesysoft.com","s":0,"o":0,"k":[]}
+{"d":"eesysoft.com","s":522,"o":0,"k":[]}
 {"d":"mmapiws.com","s":404,"o":0,"k":[]}
 {"d":"awsdns-38.org","s":0,"o":0,"k":[]}
 {"d":"sbiepay.sbi","s":0,"o":0,"k":[]}
@@ -3691,7 +3691,7 @@
 {"d":"bahnhof.se","s":200,"o":1,"k":["matomo","nginx","wordpress"]}
 {"d":"neogaf.com","s":403,"o":0,"k":[]}
 {"d":"quotev.com","s":200,"o":1,"k":[]}
-{"d":"glaad.org","s":0,"o":0,"k":[]}
+{"d":"glaad.org","s":200,"o":1,"k":["cloudfront","google-tag-manager","wordpress"]}
 {"d":"digital.go.jp","s":200,"o":1,"k":["cloudfront","drupal","matomo"]}
 {"d":"snow.me","s":200,"o":1,"k":[]}
 {"d":"sandvik.com","s":200,"o":1,"k":["cloudflare","onetrust"]}
@@ -3724,7 +3724,7 @@
 {"d":"okx-httpdns.com","s":0,"o":0,"k":[]}
 {"d":"epsonconnect.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"mriia.gov.ua","s":200,"o":1,"k":["angular","nginx"]}
-{"d":"2likemobile.com","s":200,"o":1,"k":["apache"]}
+{"d":"2likemobile.com","s":0,"o":0,"k":[]}
 {"d":"phoenix.edu","s":200,"o":1,"k":["cloudfront","apache","google-fonts"]}
 {"d":"sync.global","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"cox.com","s":200,"o":1,"k":["cloudfront","fastly"]}
@@ -3826,7 +3826,7 @@
 {"d":"exhentai.org","s":0,"o":0,"k":[]}
 {"d":"luticlip.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"trilltrill.jp","s":200,"o":1,"k":["cloudfront","google-ads","nginx","rails"]}
-{"d":"kompoz2.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"kompoz2.com","s":403,"o":0,"k":[]}
 {"d":"betika.com","s":200,"o":1,"k":["cloudflare","google-tag-manager"]}
 {"d":"medu.ir","s":0,"o":0,"k":[]}
 {"d":"ewaybillgst.gov.in","s":0,"o":0,"k":[]}
@@ -3880,7 +3880,7 @@
 {"d":"goguardian.com","s":200,"o":1,"k":["cloudflare","hubspot-cms","webflow"]}
 {"d":"affirm.com","s":200,"o":1,"k":["affirm","cloudflare","cloudflare-web-analytics","contentful","gatsby"]}
 {"d":"gutenberg.org","s":200,"o":1,"k":["apache"]}
-{"d":"kuaishou.com","s":0,"o":0,"k":[]}
+{"d":"kuaishou.com","s":200,"o":1,"k":[]}
 {"d":"databricks.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal","gatsby","google-fonts","onetrust","vercel"]}
 {"d":"smailru.net","s":0,"o":0,"k":[]}
 {"d":"phantom.app","s":200,"o":1,"k":["cloudflare","onetrust","remix"]}
@@ -3937,7 +3937,7 @@
 {"d":"raspitova.com","s":0,"o":0,"k":[]}
 {"d":"nydailynews.com","s":200,"o":1,"k":["google-fonts","nginx","osano","wordpress"]}
 {"d":"au.com","s":200,"o":1,"k":["fastly","google-fonts"]}
-{"d":"vietjack.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","spring"]}
+{"d":"vietjack.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","spring"]}
 {"d":"rochester.edu","s":200,"o":1,"k":["apache","font-awesome"]}
 {"d":"rte.ie","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","onetrust"]}
 {"d":"afrinic.net","s":0,"o":0,"k":[]}
@@ -3974,7 +3974,7 @@
 {"d":"expressvpn.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-fonts"]}
 {"d":"163jiasu.com","s":0,"o":0,"k":[]}
 {"d":"carrd.co","s":200,"o":1,"k":["cloudflare"]}
-{"d":"amazon.sa","s":200,"o":1,"k":[]}
+{"d":"amazon.sa","s":200,"o":1,"k":["cloudfront"]}
 {"d":"yango.com","s":200,"o":1,"k":["nextjs"]}
 {"d":"changeip.com","s":200,"o":1,"k":["google-fonts","google-tag-manager","nginx"]}
 {"d":"ttcdn-us.com","s":0,"o":0,"k":[]}
@@ -4004,7 +4004,7 @@
 {"d":"wolfram.com","s":200,"o":1,"k":[]}
 {"d":"gazprombank.ru","s":403,"o":0,"k":[]}
 {"d":"wizzair.com","s":405,"o":0,"k":[]}
-{"d":"catonetworks.com","s":200,"o":1,"k":["cookiebot","google-fonts","nginx","wordpress"]}
+{"d":"catonetworks.com","s":200,"o":1,"k":["cookiebot","nginx","wordpress"]}
 {"d":"airtel.in","s":0,"o":0,"k":[]}
 {"d":"lapresse.ca","s":200,"o":1,"k":["cloudfront","google-ads"]}
 {"d":"arubainstanton.com","s":403,"o":0,"k":[]}
@@ -4066,7 +4066,7 @@
 {"d":"easports.com","s":200,"o":1,"k":[]}
 {"d":"wwsga.me","s":0,"o":0,"k":[]}
 {"d":"nrc.nl","s":200,"o":1,"k":["nginx","wordpress"]}
-{"d":"clamav.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","rails"]}
+{"d":"clamav.net","s":0,"o":0,"k":[]}
 {"d":"inquirer.com","s":200,"o":1,"k":["akamai","onetrust","react","squarespace","wordpress"]}
 {"d":"midilibre.fr","s":200,"o":1,"k":["nginx"]}
 {"d":"hal.science","s":200,"o":1,"k":["matomo","nginx"]}
@@ -4192,7 +4192,7 @@
 {"d":"uiscom.ru","s":200,"o":1,"k":[]}
 {"d":"clickr.pro","s":403,"o":0,"k":[]}
 {"d":"sportal.bg","s":200,"o":1,"k":["nginx","onetrust"]}
-{"d":"scba.gov.ar","s":200,"o":1,"k":[]}
+{"d":"scba.gov.ar","s":200,"o":1,"k":["font-awesome","google-analytics","google-tag-manager"]}
 {"d":"sexiha.cam","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
 {"d":"bongdaplus.vn","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager"]}
 {"d":"upv.es","s":0,"o":0,"k":[]}
@@ -4330,7 +4330,7 @@
 {"d":"cas.cz","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"avaaz.org","s":200,"o":1,"k":["astro","cloudflare","google-tag-manager"]}
 {"d":"jiji.com","s":200,"o":1,"k":["apache","google-ads"]}
-{"d":"denic.de","s":200,"o":1,"k":["matomo"]}
+{"d":"denic.de","s":0,"o":0,"k":[]}
 {"d":"awsdns-58.co.uk","s":0,"o":0,"k":[]}
 {"d":"bunshun.jp","s":200,"o":1,"k":[]}
 {"d":"flashscore.co.uk","s":200,"o":1,"k":["nginx","onetrust"]}
@@ -4348,7 +4348,7 @@
 {"d":"alicesw.com","s":200,"o":1,"k":["nginx"]}
 {"d":"haryana.gov.in","s":200,"o":1,"k":["wordpress"]}
 {"d":"sched.com","s":403,"o":0,"k":[]}
-{"d":"saawsedge.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"saawsedge.com","s":0,"o":0,"k":[]}
 {"d":"vk-cdn.net","s":0,"o":0,"k":[]}
 {"d":"hentaihaven.xxx","s":403,"o":0,"k":[]}
 {"d":"serverfault.com","s":200,"o":1,"k":["cloudflare","google-tag-manager","onetrust"]}
@@ -4516,7 +4516,7 @@
 {"d":"uri.edu","s":200,"o":1,"k":["fastly","nginx","wordpress"]}
 {"d":"labiennale.org","s":200,"o":1,"k":["apache","cookiebot","drupal"]}
 {"d":"azazie.com","s":403,"o":0,"k":[]}
-{"d":"athwartwhoafat.com","s":200,"o":1,"k":["cloudflare","google-fonts"]}
+{"d":"athwartwhoafat.com","s":404,"o":0,"k":[]}
 {"d":"manta.com","s":403,"o":0,"k":[]}
 {"d":"sorare.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"epfo.gov.in","s":403,"o":0,"k":[]}
@@ -4640,7 +4640,7 @@
 {"d":"thieme-connect.com","s":200,"o":1,"k":["apache"]}
 {"d":"visualsoft.co.uk","s":200,"o":1,"k":["cloudflare","font-awesome","google-analytics","google-fonts","google-tag-manager","hubspot-cms","wordpress"]}
 {"d":"raceresult.com","s":200,"o":1,"k":[]}
-{"d":"webshopapp.com","s":403,"o":0,"k":[]}
+{"d":"webshopapp.com","s":404,"o":0,"k":[]}
 {"d":"robbreport.com","s":200,"o":1,"k":["google-tag-manager","nginx","onetrust","wordpress"]}
 {"d":"netmeds.com","s":200,"o":1,"k":["google-fonts","sentry","vue"]}
 {"d":"eldestapeweb.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager"]}
@@ -4669,7 +4669,7 @@
 {"d":"xxxbunker.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"jobbank.gc.ca","s":200,"o":1,"k":["google-analytics","spring"]}
 {"d":"optifyr.com","s":200,"o":1,"k":["cloudflare"]}
-{"d":"bundesnetzagentur.de","s":404,"o":0,"k":[]}
+{"d":"bundesnetzagentur.de","s":200,"o":1,"k":[]}
 {"d":"eiu.com","s":200,"o":1,"k":["cloudflare","woocommerce","wordpress"]}
 {"d":"nativendo.de","s":200,"o":1,"k":["apache","cookiebot","google-analytics","google-tag-manager","wordpress"]}
 {"d":"verivox.de","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
@@ -4750,7 +4750,7 @@
 {"d":"continental.com","s":200,"o":1,"k":["apache"]}
 {"d":"olx-st.com","s":0,"o":0,"k":[]}
 {"d":"clixsight.com","s":0,"o":0,"k":[]}
-{"d":"einfachbacken.de","s":404,"o":0,"k":[]}
+{"d":"einfachbacken.de","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"nsfc.gov.cn","s":0,"o":0,"k":[]}
 {"d":"iza.org","s":200,"o":1,"k":["laravel"]}
 {"d":"marquette.edu","s":200,"o":1,"k":["apache","wordpress"]}
@@ -4849,7 +4849,7 @@
 {"d":"nozomi.la","s":200,"o":1,"k":["nginx"]}
 {"d":"1osb.com","s":200,"o":1,"k":["cloudflare","google-fonts"]}
 {"d":"bafin.de","s":200,"o":1,"k":["apache"]}
-{"d":"globalcitizen.org","s":200,"o":1,"k":["cloudfront","django","google-analytics","google-tag-manager","nginx"]}
+{"d":"globalcitizen.org","s":200,"o":1,"k":["cloudfront","django","nginx"]}
 {"d":"webullfinance.com","s":0,"o":0,"k":[]}
 {"d":"sedgwick.com","s":200,"o":1,"k":["cloudflare","fathom","hubspot-cms","wordpress"]}
 {"d":"gvweokuwxz.net","s":0,"o":0,"k":[]}
@@ -4936,14 +4936,14 @@
 {"d":"cntraveller.com","s":200,"o":1,"k":["cloudfront","google-ads"]}
 {"d":"scribbr.com","s":403,"o":0,"k":[]}
 {"d":"mod.go.jp","s":0,"o":0,"k":[]}
-{"d":"mogu.com","s":0,"o":0,"k":[]}
+{"d":"mogu.com","s":200,"o":1,"k":[]}
 {"d":"pulseway.com","s":0,"o":0,"k":[]}
 {"d":"neurips.cc","s":200,"o":1,"k":["apache","django"]}
 {"d":"globaldomaingroup.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"ba-sh.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","salesforce-commerce"]}
 {"d":"theirname.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","font-awesome","google-analytics","google-tag-manager"]}
 {"d":"servers.com","s":200,"o":1,"k":["nginx"]}
-{"d":"citylab.com","s":403,"o":0,"k":[]}
+{"d":"citylab.com","s":200,"o":1,"k":["fastly","google-ads","google-fonts","nextjs"]}
 {"d":"sipnet.ru","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","nginx"]}
 {"d":"centurylink.com","s":0,"o":0,"k":[]}
 {"d":"hhu.de","s":200,"o":1,"k":["apache","matomo"]}
@@ -5045,12 +5045,12 @@
 {"d":"maricopa.gov","s":200,"o":1,"k":["cloudflare","font-awesome","google-analytics","google-tag-manager"]}
 {"d":"conviva.com","s":200,"o":1,"k":["cloudflare","webflow"]}
 {"d":"mercadolivre.com.br","s":200,"o":1,"k":["nginx","rails"]}
-{"d":"ys7.com","s":404,"o":0,"k":[]}
+{"d":"ys7.com","s":200,"o":1,"k":["rails"]}
 {"d":"thenai.org","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"namecheaphosting.com","s":0,"o":0,"k":[]}
 {"d":"360safe.com","s":0,"o":0,"k":[]}
-{"d":"amazon.com.mx","s":200,"o":1,"k":[]}
-{"d":"xhcdn.com","s":0,"o":0,"k":[]}
+{"d":"amazon.com.mx","s":200,"o":1,"k":["cloudfront"]}
+{"d":"xhcdn.com","s":403,"o":0,"k":[]}
 {"d":"samsungcloudsolution.net","s":0,"o":0,"k":[]}
 {"d":"adblockplus.org","s":200,"o":1,"k":["fastly"]}
 {"d":"olx.com.br","s":403,"o":0,"k":[]}
@@ -5086,7 +5086,7 @@
 {"d":"julydns.com","s":200,"o":1,"k":[]}
 {"d":"gartner.com","s":403,"o":0,"k":[]}
 {"d":"freesexkahani.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
-{"d":"playinboss.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","laravel","rails","vue"]}
+{"d":"playinboss.com","s":202,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"google.ru","s":200,"o":1,"k":["google-cloud"]}
 {"d":"bytedns3.com","s":0,"o":0,"k":[]}
 {"d":"arstechnica.com","s":200,"o":1,"k":["wordpress"]}
@@ -5139,7 +5139,7 @@
 {"d":"getpocket.com","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"aliexpress-media.com","s":0,"o":0,"k":[]}
 {"d":"netis.cc","s":0,"o":0,"k":[]}
-{"d":"comodoca.com","s":200,"o":1,"k":["cloudflare","google-fonts","hubspot-cms","nuxt","vue"]}
+{"d":"comodoca.com","s":0,"o":0,"k":[]}
 {"d":"expressen.se","s":200,"o":1,"k":["google-ads"]}
 {"d":"operacdn.com","s":204,"o":1,"k":["nginx"]}
 {"d":"addthis.com","s":403,"o":0,"k":[]}
@@ -5149,7 +5149,7 @@
 {"d":"asahi.com","s":200,"o":1,"k":["google-ads","nginx"]}
 {"d":"webflow.io","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"thawte.com","s":200,"o":1,"k":["fastly"]}
-{"d":"medscape.com","s":200,"o":1,"k":["cloudflare","rails"]}
+{"d":"medscape.com","s":200,"o":1,"k":["cloudflare","onetrust","rails"]}
 {"d":"unrealengine.com","s":403,"o":0,"k":[]}
 {"d":"w55c.net","s":0,"o":0,"k":[]}
 {"d":"uu.net","s":0,"o":0,"k":[]}
@@ -5181,7 +5181,7 @@
 {"d":"tripadvisor.co.uk","s":403,"o":0,"k":[]}
 {"d":"awsdns-61.com","s":0,"o":0,"k":[]}
 {"d":"edx.org","s":200,"o":1,"k":["cloudfront","cloudflare","contentful","nextjs"]}
-{"d":"dingtalk.com","s":0,"o":0,"k":[]}
+{"d":"dingtalk.com","s":200,"o":1,"k":["django"]}
 {"d":"identrust.com","s":200,"o":1,"k":["cloudflare","drupal","onetrust"]}
 {"d":"awsdns-58.com","s":0,"o":0,"k":[]}
 {"d":"trouble-free.net","s":403,"o":0,"k":[]}
@@ -5203,7 +5203,7 @@
 {"d":"dmca.com","s":200,"o":1,"k":["aspnet","google-analytics"]}
 {"d":"forticloud.com","s":200,"o":1,"k":["aspnet","google-fonts"]}
 {"d":"ceracdn.net","s":0,"o":0,"k":[]}
-{"d":"amazon.pl","s":200,"o":1,"k":["cloudfront"]}
+{"d":"amazon.pl","s":200,"o":1,"k":[]}
 {"d":"eset.systems","s":0,"o":0,"k":[]}
 {"d":"dailyinnovation.biz","s":503,"o":0,"k":[]}
 {"d":"awsdns-00.com","s":0,"o":0,"k":[]}
@@ -5220,7 +5220,7 @@
 {"d":"wikidata.org","s":200,"o":1,"k":[]}
 {"d":"revolve.com","s":0,"o":0,"k":[]}
 {"d":"mooo.com","s":0,"o":0,"k":[]}
-{"d":"detik.com","s":200,"o":1,"k":["google-ads","google-fonts"]}
+{"d":"detik.com","s":0,"o":0,"k":[]}
 {"d":"boutell.com","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"p-cdn.com","s":0,"o":0,"k":[]}
 {"d":"gist.build","s":200,"o":1,"k":["nextjs","sanity","vercel"]}
@@ -5303,7 +5303,7 @@
 {"d":"aemet.es","s":0,"o":0,"k":[]}
 {"d":"uni-kiel.de","s":0,"o":0,"k":[]}
 {"d":"womenshealthmag.com","s":200,"o":1,"k":["nextjs","onetrust"]}
-{"d":"oregon.gov","s":0,"o":0,"k":[]}
+{"d":"oregon.gov","s":200,"o":1,"k":["cloudfront","aspnet","font-awesome","google-fonts"]}
 {"d":"symfony.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"hu.net","s":200,"o":1,"k":["nginx"]}
 {"d":"keenetic.pro","s":200,"o":1,"k":[]}
@@ -5335,7 +5335,7 @@
 {"d":"fussball.de","s":200,"o":1,"k":["azure"]}
 {"d":"porter.in","s":403,"o":0,"k":[]}
 {"d":"wistia.net","s":0,"o":0,"k":[]}
-{"d":"joongang.co.kr","s":0,"o":0,"k":[]}
+{"d":"joongang.co.kr","s":200,"o":1,"k":["google-ads"]}
 {"d":"ancestry.co.uk","s":403,"o":0,"k":[]}
 {"d":"pump.fun","s":403,"o":0,"k":[]}
 {"d":"redgifs.com","s":200,"o":1,"k":["cloudflare"]}
@@ -5437,7 +5437,7 @@
 {"d":"unitedcinemas.jp","s":0,"o":0,"k":[]}
 {"d":"bet88.ph","s":403,"o":0,"k":[]}
 {"d":"redwap.me","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
-{"d":"fullhdfilmizlesene.now","s":404,"o":0,"k":[]}
+{"d":"fullhdfilmizlesene.now","s":403,"o":0,"k":[]}
 {"d":"decafeligiblyhad.com","s":200,"o":1,"k":[]}
 {"d":"checkdomain.de","s":200,"o":1,"k":[]}
 {"d":"hentaimama.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager","wordpress"]}
@@ -5466,7 +5466,7 @@
 {"d":"fsapi.com","s":0,"o":0,"k":[]}
 {"d":"sosalkino.app","s":200,"o":1,"k":["nginx"]}
 {"d":"apornvideo.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
-{"d":"medicinenet.com","s":200,"o":1,"k":["cloudflare","google-fonts","onetrust","rails"]}
+{"d":"medicinenet.com","s":200,"o":1,"k":["cloudflare","google-fonts","rails"]}
 {"d":"gjacky.com","s":0,"o":0,"k":[]}
 {"d":"buumal.com","s":403,"o":0,"k":[]}
 {"d":"dhlottery.co.kr","s":200,"o":1,"k":[]}
@@ -5505,7 +5505,7 @@
 {"d":"egy69.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"xxxvideosex.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
 {"d":"examinationservices.nic.in","s":200,"o":1,"k":[]}
-{"d":"playinjeet.com","s":202,"o":1,"k":["cloudflare"]}
+{"d":"playinjeet.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","laravel","rails","vue"]}
 {"d":"cloudcrs.xyz","s":0,"o":0,"k":[]}
 {"d":"sattamatkajico.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"cloud-fdc.com","s":0,"o":0,"k":[]}
@@ -5599,7 +5599,7 @@
 {"d":"svcmot.com","s":0,"o":0,"k":[]}
 {"d":"skyegloup.com","s":0,"o":0,"k":[]}
 {"d":"camp-fire.jp","s":200,"o":1,"k":["cloudfront","nginx","sveltekit"]}
-{"d":"adaptytech.com","s":0,"o":0,"k":[]}
+{"d":"adaptytech.com","s":522,"o":0,"k":[]}
 {"d":"pangolin-sdk-toutiao.com","s":0,"o":0,"k":[]}
 {"d":"ropro.io","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","paddle"]}
 {"d":"awsdns-62.co.uk","s":0,"o":0,"k":[]}
@@ -5746,7 +5746,7 @@
 {"d":"mi-dun.com","s":0,"o":0,"k":[]}
 {"d":"lima-city.de","s":200,"o":1,"k":["google-tag-manager","matomo","rails"]}
 {"d":"learningapps.org","s":200,"o":1,"k":["matomo","nginx"]}
-{"d":"xunta.gal","s":0,"o":0,"k":[]}
+{"d":"xunta.gal","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","spring"]}
 {"d":"nanosystems.com","s":200,"o":1,"k":["cloudfront","aws-s3","wordpress"]}
 {"d":"arcspire.io","s":200,"o":1,"k":["cloudfront","aws-s3","cookiebot","google-analytics","google-tag-manager","nextjs"]}
 {"d":"sportsnet.ca","s":200,"o":1,"k":["akamai","nextjs","nginx","wordpress"]}
@@ -5777,7 +5777,7 @@
 {"d":"cbn.com","s":200,"o":1,"k":["akamai","drupal","fastly","onetrust"]}
 {"d":"creativefabrica.com","s":403,"o":0,"k":[]}
 {"d":"colt.net","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
-{"d":"deichmann.com","s":200,"o":1,"k":["cloudflare","google-analytics"]}
+{"d":"deichmann.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"cinemagia.ro","s":200,"o":1,"k":["cloudflare","google-ads"]}
 {"d":"uotcn.net","s":0,"o":0,"k":[]}
 {"d":"abebooks.de","s":200,"o":1,"k":["cloudfront"]}
@@ -5804,7 +5804,7 @@
 {"d":"abr.ge","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"hivebedrock.network","s":0,"o":0,"k":[]}
 {"d":"baishangeek.cn","s":0,"o":0,"k":[]}
-{"d":"unal.edu.co","s":0,"o":0,"k":[]}
+{"d":"unal.edu.co","s":403,"o":0,"k":[]}
 {"d":"mediamarkt.es","s":403,"o":0,"k":[]}
 {"d":"otempo.com.br","s":200,"o":1,"k":["fastly","google-ads","google-analytics","google-tag-manager"]}
 {"d":"ppcloudbackup.com","s":200,"o":1,"k":[]}
@@ -5915,7 +5915,7 @@
 {"d":"huawei.com.cn","s":200,"o":1,"k":[]}
 {"d":"dns-h.com","s":0,"o":0,"k":[]}
 {"d":"bigwww.com","s":0,"o":0,"k":[]}
-{"d":"runtastic.com","s":0,"o":0,"k":[]}
+{"d":"runtastic.com","s":403,"o":0,"k":[]}
 {"d":"ucas.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","cookiebot","drupal"]}
 {"d":"duplichecker.com","s":403,"o":0,"k":[]}
 {"d":"yok.gov.tr","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","laravel"]}
@@ -6176,7 +6176,7 @@
 {"d":"bet-master.club","s":0,"o":0,"k":[]}
 {"d":"legendsgame.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"cssps.gov.gh","s":0,"o":0,"k":[]}
-{"d":"dearlottery.tv","s":403,"o":0,"k":[]}
+{"d":"dearlottery.tv","s":0,"o":0,"k":[]}
 {"d":"invisalign.in","s":200,"o":1,"k":["contentful","nextjs","nginx","trustarc"]}
 {"d":"movieboxapp.to","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","wordpress"]}
 {"d":"satta143.net","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
@@ -6202,7 +6202,7 @@
 {"d":"site24x7.com","s":200,"o":1,"k":[]}
 {"d":"cukubst.top","s":200,"o":1,"k":["nginx"]}
 {"d":"awsdns-cn-60.com","s":0,"o":0,"k":[]}
-{"d":"buaa.edu.cn","s":0,"o":0,"k":[]}
+{"d":"buaa.edu.cn","s":200,"o":1,"k":[]}
 {"d":"gree.com","s":200,"o":1,"k":["nextjs"]}
 {"d":"rexel.fr","s":200,"o":1,"k":["angular","azure","spring"]}
 {"d":"macly.co","s":0,"o":0,"k":[]}
@@ -6295,7 +6295,7 @@
 {"d":"wbbasket.ru","s":0,"o":0,"k":[]}
 {"d":"wyzecam.com","s":200,"o":1,"k":["cloudflare","osano","shopify"]}
 {"d":"amazon.com.au","s":200,"o":1,"k":["cloudfront"]}
-{"d":"youku.com","s":0,"o":0,"k":[]}
+{"d":"youku.com","s":200,"o":1,"k":["django"]}
 {"d":"hm.com","s":403,"o":0,"k":[]}
 {"d":"mhverifier.ru","s":0,"o":0,"k":[]}
 {"d":"columbia.edu","s":403,"o":0,"k":[]}
@@ -6378,7 +6378,7 @@
 {"d":"co.com","s":200,"o":1,"k":["apache"]}
 {"d":"sharepointonline.com","s":0,"o":0,"k":[]}
 {"d":"bt.co","s":0,"o":0,"k":[]}
-{"d":"mona.co","s":522,"o":0,"k":[]}
+{"d":"mona.co","s":0,"o":0,"k":[]}
 {"d":"itv.com","s":0,"o":0,"k":[]}
 {"d":"123tt.ru","s":0,"o":0,"k":[]}
 {"d":"ko-fi.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts"]}
@@ -6456,7 +6456,7 @@
 {"d":"seekingalpha.com","s":200,"o":1,"k":["fastly"]}
 {"d":"bcebos.com","s":0,"o":0,"k":[]}
 {"d":"swr.de","s":200,"o":1,"k":[]}
-{"d":"uc.cn","s":0,"o":0,"k":[]}
+{"d":"uc.cn","s":200,"o":1,"k":[]}
 {"d":"gdz-raketa.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"6sc.co","s":0,"o":0,"k":[]}
 {"d":"moviezwap.best","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
@@ -6485,7 +6485,7 @@
 {"d":"ndcpp.com","s":0,"o":0,"k":[]}
 {"d":"liveinternet.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"a1q7.net","s":0,"o":0,"k":[]}
-{"d":"doh.pub","s":502,"o":0,"k":[]}
+{"d":"doh.pub","s":200,"o":1,"k":[]}
 {"d":"anticheatexpert.com","s":200,"o":1,"k":["nginx","vue"]}
 {"d":"filezilla-project.org","s":403,"o":0,"k":[]}
 {"d":"yeastar.com","s":200,"o":1,"k":["google-analytics","hubspot-cms","wordpress"]}
@@ -6667,7 +6667,7 @@
 {"d":"tokyo-sports.co.jp","s":200,"o":1,"k":["google-ads"]}
 {"d":"bonprix.de","s":200,"o":1,"k":["cloudfront"]}
 {"d":"xasiat.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
-{"d":"imss.gob.mx","s":200,"o":1,"k":[]}
+{"d":"imss.gob.mx","s":200,"o":1,"k":["apache","drupal","google-analytics","google-tag-manager"]}
 {"d":"ss.lv","s":200,"o":1,"k":[]}
 {"d":"quintoandar.com.br","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"platinmods.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
@@ -6703,7 +6703,7 @@
 {"d":"rezultati.com","s":200,"o":1,"k":["nginx","onetrust"]}
 {"d":"nefes.com.tr","s":200,"o":1,"k":["cloudflare","google-ads"]}
 {"d":"semana.es","s":403,"o":0,"k":[]}
-{"d":"bezeq.co.il","s":200,"o":1,"k":["google-analytics"]}
+{"d":"bezeq.co.il","s":0,"o":0,"k":[]}
 {"d":"betway.co.mz","s":200,"o":1,"k":["cloudflare","nuxt"]}
 {"d":"sorrisi.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
 {"d":"awsdns-13.net","s":0,"o":0,"k":[]}
@@ -6790,7 +6790,7 @@
 {"d":"huyatvns.com","s":0,"o":0,"k":[]}
 {"d":"quovadisglobal.com","s":200,"o":1,"k":["wordpress"]}
 {"d":"mine.nu","s":0,"o":0,"k":[]}
-{"d":"ele.me","s":0,"o":0,"k":[]}
+{"d":"ele.me","s":200,"o":1,"k":[]}
 {"d":"thediplomat.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"cato.org","s":403,"o":0,"k":[]}
 {"d":"toolmatrix.plus","s":0,"o":0,"k":[]}
@@ -6915,7 +6915,7 @@
 {"d":"diariodocomercio.com.br","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads","wordpress"]}
 {"d":"tohoku.ac.jp","s":0,"o":0,"k":[]}
 {"d":"vishavideo.com","s":200,"o":1,"k":[]}
-{"d":"tulip-vps.biz","s":0,"o":0,"k":[]}
+{"d":"tulip-vps.biz","s":522,"o":0,"k":[]}
 {"d":"uibk.ac.at","s":200,"o":1,"k":["apache"]}
 {"d":"junkemailfilter.com","s":0,"o":0,"k":[]}
 {"d":"pubhtml5.com","s":200,"o":1,"k":["cloudflare","cookiebot","google-tag-manager"]}
@@ -6965,7 +6965,7 @@
 {"d":"meteo.gr","s":403,"o":0,"k":[]}
 {"d":"framer.website","s":200,"o":1,"k":["framer","google-fonts","google-tag-manager","wordpress"]}
 {"d":"arzdigital.com","s":200,"o":1,"k":["nginx","wordpress"]}
-{"d":"trustwallet.com","s":200,"o":1,"k":["cloudflare","nextjs","plausible"]}
+{"d":"trustwallet.com","s":304,"o":0,"k":[]}
 {"d":"vegamoviess.dev","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"jobsdb.com","s":403,"o":0,"k":[]}
 {"d":"norotila.com","s":522,"o":0,"k":[]}
@@ -7045,7 +7045,7 @@
 {"d":"xn--88-lqix0ea5a7kua2b8lc3gd.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"baesystems.com","s":200,"o":1,"k":[]}
 {"d":"walletconnect.org","s":200,"o":1,"k":["cloudflare","nextjs","sanity"]}
-{"d":"bharatjobresult.com","s":0,"o":0,"k":[]}
+{"d":"bharatjobresult.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"agoralab.co","s":0,"o":0,"k":[]}
 {"d":"emailsrvr.com","s":200,"o":1,"k":[]}
 {"d":"gorgias.help","s":200,"o":1,"k":["cloudflare","hubspot-cms","webflow"]}
@@ -7219,7 +7219,7 @@
 {"d":"onetarget.ru","s":200,"o":1,"k":[]}
 {"d":"boo.world","s":200,"o":1,"k":["cloudfront","nextjs","nginx"]}
 {"d":"gorgias-convert.com","s":200,"o":1,"k":["cloudflare"]}
-{"d":"manga18fx.com","s":0,"o":0,"k":[]}
+{"d":"manga18fx.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"ehu.es","s":200,"o":1,"k":["apache","spring"]}
 {"d":"cyberprotector.online","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"asmhentai.com","s":403,"o":0,"k":[]}
@@ -7429,7 +7429,7 @@
 {"d":"digitalindiaportal.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
 {"d":"ircep.gov.in","s":200,"o":1,"k":[]}
 {"d":"movies4u.ag","s":403,"o":0,"k":[]}
-{"d":"sattaindianmatka.com","s":0,"o":0,"k":[]}
+{"d":"sattaindianmatka.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager"]}
 {"d":"procrustes.top","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","netlify"]}
 {"d":"tepolmir.com","s":0,"o":0,"k":[]}
 {"d":"australia.com","s":200,"o":1,"k":["akamai","apache"]}
@@ -7501,12 +7501,12 @@
 {"d":"mail.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"trafficmanager.net","s":0,"o":0,"k":[]}
 {"d":"wordpress.org","s":200,"o":1,"k":["google-fonts","nginx","wordpress"]}
-{"d":"roblox.com","s":200,"o":1,"k":["angular","google-analytics"]}
+{"d":"roblox.com","s":200,"o":1,"k":["angular","google-analytics","google-tag-manager"]}
 {"d":"mozilla.org","s":200,"o":1,"k":["fastly"]}
 {"d":"2mdn.net","s":0,"o":0,"k":[]}
 {"d":"discord.gg","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"nflxso.net","s":0,"o":0,"k":[]}
-{"d":"telegram.org","s":0,"o":0,"k":[]}
+{"d":"telegram.org","s":200,"o":1,"k":["nginx"]}
 {"d":"app-measurement.com","s":404,"o":0,"k":[]}
 {"d":"awswaf.com","s":0,"o":0,"k":[]}
 {"d":"nist.gov","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal"]}
@@ -7535,7 +7535,7 @@
 {"d":"kick.com","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"fb.com","s":200,"o":1,"k":[]}
 {"d":"uk.com","s":200,"o":1,"k":["nginx"]}
-{"d":"globalsign.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","cookiebot"]}
+{"d":"globalsign.com","s":200,"o":1,"k":["cloudflare-web-analytics","cookiebot","fastly","nginx"]}
 {"d":"shopeemobile.com","s":0,"o":0,"k":[]}
 {"d":"amazon.co.za","s":0,"o":0,"k":[]}
 {"d":"zoho.com","s":200,"o":1,"k":["cloudflare"]}
@@ -7717,7 +7717,7 @@
 {"d":"azure.us","s":0,"o":0,"k":[]}
 {"d":"cars.com","s":403,"o":0,"k":[]}
 {"d":"sattamatkajodi.net","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
-{"d":"tektorg.ru","s":0,"o":0,"k":[]}
+{"d":"tektorg.ru","s":403,"o":0,"k":[]}
 {"d":"queniuwk.cn","s":0,"o":0,"k":[]}
 {"d":"growcdnssedge.com","s":0,"o":0,"k":[]}
 {"d":"greenhouse.io","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
@@ -7742,7 +7742,7 @@
 {"d":"inscloudgate.net","s":0,"o":0,"k":[]}
 {"d":"band.us","s":200,"o":1,"k":["spring"]}
 {"d":"musescore.com","s":403,"o":0,"k":[]}
-{"d":"kaiserpermanente.org","s":0,"o":0,"k":[]}
+{"d":"kaiserpermanente.org","s":200,"o":1,"k":[]}
 {"d":"jal.co.jp","s":403,"o":0,"k":[]}
 {"d":"mtv.com","s":200,"o":1,"k":[]}
 {"d":"worldtimeserver.com","s":200,"o":1,"k":["aspnet","cloudflare","cloudflare-web-analytics","google-analytics","google-fonts"]}
@@ -7811,7 +7811,7 @@
 {"d":"honda.com","s":403,"o":0,"k":[]}
 {"d":"denverpost.com","s":200,"o":1,"k":["google-fonts","nginx","osano","wordpress"]}
 {"d":"relevant-digital.com","s":200,"o":1,"k":["cloudflare","font-awesome","google-analytics","google-fonts","google-tag-manager","hubspot-cms"]}
-{"d":"supremecourt.gov","s":200,"o":1,"k":["akamai"]}
+{"d":"supremecourt.gov","s":200,"o":1,"k":["akamai","aspnet"]}
 {"d":"adme.media","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","onetrust"]}
 {"d":"rtvslo.si","s":200,"o":1,"k":["nginx"]}
 {"d":"142.in-addr.arpa","s":0,"o":0,"k":[]}
@@ -7821,7 +7821,7 @@
 {"d":"kvant-telecom.ru","s":0,"o":0,"k":[]}
 {"d":"ub.edu","s":403,"o":0,"k":[]}
 {"d":"sf.net","s":200,"o":1,"k":["cloudflare","google-analytics","matomo"]}
-{"d":"author.today","s":200,"o":1,"k":["django","google-analytics"]}
+{"d":"author.today","s":200,"o":1,"k":["google-analytics"]}
 {"d":"pravda.sk","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
 {"d":"mca.gov.in","s":0,"o":0,"k":[]}
 {"d":"cscdns.net","s":0,"o":0,"k":[]}
@@ -8018,7 +8018,7 @@
 {"d":"ada.org","s":200,"o":1,"k":[]}
 {"d":"anonymised.io","s":200,"o":1,"k":["astro"]}
 {"d":"brawlstarsgame.com","s":0,"o":0,"k":[]}
-{"d":"kp.org","s":0,"o":0,"k":[]}
+{"d":"kp.org","s":200,"o":1,"k":[]}
 {"d":"dnsimple-edge.com","s":0,"o":0,"k":[]}
 {"d":"tweakers.net","s":403,"o":0,"k":[]}
 {"d":"genieesspv.jp","s":200,"o":1,"k":["nginx"]}
@@ -8079,7 +8079,7 @@
 {"d":"luciq.ai","s":200,"o":1,"k":["cloudflare","webflow"]}
 {"d":"ikyu.com","s":403,"o":0,"k":[]}
 {"d":"ngenix-dns.ru","s":0,"o":0,"k":[]}
-{"d":"sjsu.edu","s":200,"o":1,"k":["apache"]}
+{"d":"sjsu.edu","s":0,"o":0,"k":[]}
 {"d":"360buyimg.com","s":200,"o":1,"k":[]}
 {"d":"thehindubusinessline.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
 {"d":"igdb.com","s":403,"o":0,"k":[]}
@@ -8142,7 +8142,7 @@
 {"d":"sgmbocast.com","s":0,"o":0,"k":[]}
 {"d":"lfscnp.com","s":0,"o":0,"k":[]}
 {"d":"plannedparenthood.org","s":200,"o":1,"k":["cloudflare"]}
-{"d":"musicbrainz.org","s":0,"o":0,"k":[]}
+{"d":"musicbrainz.org","s":200,"o":1,"k":["rails"]}
 {"d":"chipotle.com","s":200,"o":1,"k":["fastly"]}
 {"d":"attachmail.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"indrive.tech","s":0,"o":0,"k":[]}
@@ -8248,7 +8248,7 @@
 {"d":"lukoil.com","s":200,"o":1,"k":["aspnet"]}
 {"d":"paynicorn.com","s":0,"o":0,"k":[]}
 {"d":"sinaydove.com","s":0,"o":0,"k":[]}
-{"d":"espacenet.com","s":403,"o":0,"k":[]}
+{"d":"espacenet.com","s":0,"o":0,"k":[]}
 {"d":"ms.gov","s":200,"o":1,"k":["cloudflare","drupal","google-tag-manager"]}
 {"d":"gigaom.com","s":200,"o":1,"k":["cloudflare","contentful","google-tag-manager","hubspot-cms","woocommerce","wordpress"]}
 {"d":"binance.us","s":200,"o":1,"k":["cloudfront","nextjs"]}
@@ -8403,7 +8403,7 @@
 {"d":"inwx.de","s":200,"o":1,"k":["matomo","nextjs","nginx"]}
 {"d":"quince.com","s":200,"o":1,"k":["cloudfront","contentful","google-analytics","nextjs"]}
 {"d":"academia-assets.com","s":0,"o":0,"k":[]}
-{"d":"evz.ro","s":429,"o":0,"k":[]}
+{"d":"evz.ro","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager","wordpress"]}
 {"d":"lot-online.ru","s":0,"o":0,"k":[]}
 {"d":"lucidchart.com","s":200,"o":1,"k":["gatsby","osano"]}
 {"d":"tcpdf.org","s":200,"o":1,"k":["nginx"]}
@@ -8489,7 +8489,7 @@
 {"d":"planet.com","s":200,"o":1,"k":["nextjs","nginx","sanity"]}
 {"d":"bybdc6.com","s":0,"o":0,"k":[]}
 {"d":"phantixgames.com","s":200,"o":1,"k":["nginx","vue"]}
-{"d":"eatright.org","s":200,"o":1,"k":["aspnet","azure","cookiebot"]}
+{"d":"eatright.org","s":200,"o":1,"k":["azure","cookiebot"]}
 {"d":"test-english.com","s":403,"o":0,"k":[]}
 {"d":"foreca.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads","google-analytics"]}
 {"d":"ceair.com","s":0,"o":0,"k":[]}
@@ -8519,7 +8519,7 @@
 {"d":"cdnhwcgqa21.com","s":0,"o":0,"k":[]}
 {"d":"bigbadwolf-slot.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"vost.pw","s":0,"o":0,"k":[]}
-{"d":"triara.com","s":404,"o":0,"k":[]}
+{"d":"triara.com","s":200,"o":1,"k":["spring"]}
 {"d":"techxplore.com","s":200,"o":1,"k":["apache","google-ads","google-analytics","google-tag-manager"]}
 {"d":"faphouse1.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"wjla.com","s":200,"o":1,"k":["cloudfront","google-ads","google-fonts","google-tag-manager","nextjs"]}
@@ -8559,7 +8559,7 @@
 {"d":"fattoincasadabenedetta.it","s":403,"o":0,"k":[]}
 {"d":"91wheels.com","s":200,"o":1,"k":["cloudfront","google-analytics","nextjs","wordpress"]}
 {"d":"setare.com","s":200,"o":1,"k":["wordpress"]}
-{"d":"fujian.gov.cn","s":200,"o":1,"k":[]}
+{"d":"fujian.gov.cn","s":0,"o":0,"k":[]}
 {"d":"hsex.tv","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"invoicehome.com","s":200,"o":1,"k":["cloudfront","google-tag-manager","nginx","rails"]}
 {"d":"iett.istanbul","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
@@ -8574,7 +8574,7 @@
 {"d":"liga.net","s":403,"o":0,"k":[]}
 {"d":"trinitymedia.ai","s":200,"o":1,"k":["apache"]}
 {"d":"hscdn.com","s":0,"o":0,"k":[]}
-{"d":"codinghorror.com","s":522,"o":0,"k":[]}
+{"d":"codinghorror.com","s":0,"o":0,"k":[]}
 {"d":"adresowo.pl","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"thesun.ie","s":200,"o":1,"k":["cloudfront","google-tag-manager","nginx","wordpress"]}
 {"d":"ezviz.com","s":200,"o":1,"k":["rails"]}
@@ -8634,7 +8634,7 @@
 {"d":"cloudatacdn.com","s":0,"o":0,"k":[]}
 {"d":"lacasadelosfamososmexico.tv","s":200,"o":1,"k":["cloudfront","fastly","nextjs"]}
 {"d":"imprdom.com","s":200,"o":1,"k":[]}
-{"d":"tme.eu","s":403,"o":0,"k":[]}
+{"d":"tme.eu","s":429,"o":0,"k":[]}
 {"d":"kskwai.com","s":0,"o":0,"k":[]}
 {"d":"famosas.lat","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts"]}
 {"d":"shure.com","s":200,"o":1,"k":["cloudfront","cookiebot","google-fonts","nextjs","nginx","vercel"]}
@@ -8717,7 +8717,7 @@
 {"d":"pstmrk.it","s":200,"o":1,"k":["nginx"]}
 {"d":"dnsmisitio.net","s":0,"o":0,"k":[]}
 {"d":"chessbase.com","s":200,"o":1,"k":[]}
-{"d":"directideleteddomain.com","s":200,"o":1,"k":[]}
+{"d":"directideleteddomain.com","s":0,"o":0,"k":[]}
 {"d":"alphacoders.com","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","laravel","nginx"]}
 {"d":"kdns.fr","s":200,"o":1,"k":["apache"]}
 {"d":"demandsage.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
@@ -8725,7 +8725,7 @@
 {"d":"upstash.io","s":0,"o":0,"k":[]}
 {"d":"deliveroo.co.uk","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs","onetrust","prismic","storyblok"]}
 {"d":"exct.net","s":0,"o":0,"k":[]}
-{"d":"aizhan.com","s":0,"o":0,"k":[]}
+{"d":"aizhan.com","s":200,"o":1,"k":["nginx"]}
 {"d":"centurygames.net","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"kingqf.com","s":0,"o":0,"k":[]}
 {"d":"halowaypoint.com","s":200,"o":1,"k":["azure","nextjs","wordpress"]}
@@ -8748,7 +8748,7 @@
 {"d":"shtranssion.com","s":403,"o":0,"k":[]}
 {"d":"yahoo-mbga.jp","s":200,"o":1,"k":["apache"]}
 {"d":"a-bly.com","s":403,"o":0,"k":[]}
-{"d":"twitter.com","s":200,"o":1,"k":["cloudflare"]}
+{"d":"twitter.com","s":200,"o":1,"k":["fastly"]}
 {"d":"sharepoint.com","s":200,"o":1,"k":["azure"]}
 {"d":"skype.com","s":200,"o":1,"k":[]}
 {"d":"opera.com","s":200,"o":1,"k":[]}
@@ -8785,8 +8785,8 @@
 {"d":"box.com","s":200,"o":1,"k":["cloudflare","drupal"]}
 {"d":"rustore.ru","s":200,"o":1,"k":["nextjs"]}
 {"d":"independent.co.uk","s":200,"o":1,"k":["fastly","google-ads"]}
-{"d":"yieldmo.com","s":202,"o":1,"k":["nginx"]}
-{"d":"allegro.pl","s":403,"o":0,"k":[]}
+{"d":"yieldmo.com","s":200,"o":1,"k":["google-analytics","hubspot-cms","nginx","onetrust","wordpress"]}
+{"d":"allegro.pl","s":0,"o":0,"k":[]}
 {"d":"welt.de","s":200,"o":1,"k":[]}
 {"d":"fiverr.com","s":403,"o":0,"k":[]}
 {"d":"a-mo.net","s":200,"o":1,"k":["cloudfront","aws-s3"]}
@@ -8959,7 +8959,7 @@
 {"d":"creditkarma.com","s":200,"o":1,"k":["akamai","nextjs","wordpress"]}
 {"d":"line-scdn.net","s":0,"o":0,"k":[]}
 {"d":"mosyle.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
-{"d":"heytapimg.com","s":504,"o":0,"k":[]}
+{"d":"heytapimg.com","s":200,"o":1,"k":["nginx"]}
 {"d":"ubs.com","s":200,"o":1,"k":[]}
 {"d":"eu.org","s":0,"o":0,"k":[]}
 {"d":"easyjet.com","s":403,"o":0,"k":[]}
@@ -9000,7 +9000,7 @@
 {"d":"wpscdn.cn","s":200,"o":1,"k":["google-tag-manager"]}
 {"d":"bilivideo.com","s":0,"o":0,"k":[]}
 {"d":"rj.link","s":0,"o":0,"k":[]}
-{"d":"tollbit-host.com","s":401,"o":0,"k":[]}
+{"d":"tollbit-host.com","s":200,"o":1,"k":["nginx"]}
 {"d":"washingtontimes.com","s":403,"o":0,"k":[]}
 {"d":"krone.at","s":200,"o":1,"k":["didomi","google-analytics"]}
 {"d":"baishan-cloud.net","s":0,"o":0,"k":[]}
@@ -9098,7 +9098,7 @@
 {"d":"gaiaonline.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
 {"d":"nzz.ch","s":200,"o":1,"k":["cloudflare"]}
 {"d":"cal.com","s":200,"o":1,"k":["cloudflare","framer","google-fonts"]}
-{"d":"cdn-fc.com","s":403,"o":0,"k":[]}
+{"d":"cdn-fc.com","s":0,"o":0,"k":[]}
 {"d":"carvana.com","s":403,"o":0,"k":[]}
 {"d":"ok.xxx","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"whoop.com","s":403,"o":0,"k":[]}
@@ -9234,7 +9234,7 @@
 {"d":"jedolo.com","s":403,"o":0,"k":[]}
 {"d":"set.gov.py","s":0,"o":0,"k":[]}
 {"d":"upbhulekh.gov.in","s":200,"o":1,"k":[]}
-{"d":"pavietnam.vn","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager"]}
+{"d":"pavietnam.vn","s":0,"o":0,"k":[]}
 {"d":"fairyanime.net","s":403,"o":0,"k":[]}
 {"d":"ladyxena.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
 {"d":"elephantbet.co.mz","s":403,"o":0,"k":[]}
@@ -9390,7 +9390,7 @@
 {"d":"summitracing.com","s":200,"o":1,"k":[]}
 {"d":"centene.com","s":200,"o":1,"k":["cloudfront","fastly"]}
 {"d":"bittor.pw","s":0,"o":0,"k":[]}
-{"d":"governmentjobs.com","s":200,"o":1,"k":["angular","google-fonts"]}
+{"d":"governmentjobs.com","s":200,"o":1,"k":["aspnet","google-ads","google-analytics","google-tag-manager","osano"]}
 {"d":"oneget.org","s":503,"o":0,"k":[]}
 {"d":"lightwidget.com","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"wechatos.net","s":0,"o":0,"k":[]}
@@ -9436,7 +9436,7 @@
 {"d":"lum-superproxy.io","s":0,"o":0,"k":[]}
 {"d":"metrics-bunny.net","s":404,"o":0,"k":[]}
 {"d":"usablenet.com","s":200,"o":1,"k":["cloudflare","hubspot-cms","nextjs"]}
-{"d":"apteka-april.ru","s":0,"o":0,"k":[]}
+{"d":"apteka-april.ru","s":200,"o":1,"k":[]}
 {"d":"masslive.com","s":403,"o":0,"k":[]}
 {"d":"databank.com","s":200,"o":1,"k":["cookiebot","hubspot-cms","nginx","wordpress"]}
 {"d":"overstock.com","s":403,"o":0,"k":[]}
@@ -9485,7 +9485,7 @@
 {"d":"windsurf.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"fccn.pt","s":200,"o":1,"k":["apache","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"lemanapro.ru","s":401,"o":0,"k":[]}
-{"d":"t.cn","s":200,"o":1,"k":[]}
+{"d":"t.cn","s":0,"o":0,"k":[]}
 {"d":"makro.co.za","s":200,"o":1,"k":[]}
 {"d":"iccku.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"tcllauncher.com","s":0,"o":0,"k":[]}
@@ -9494,7 +9494,7 @@
 {"d":"home.kpmg","s":200,"o":1,"k":["fastly"]}
 {"d":"overkiz.com","s":200,"o":1,"k":["google-analytics","google-fonts","wordpress"]}
 {"d":"haaretz.co.il","s":200,"o":1,"k":["fastly","google-ads","google-analytics","nextjs"]}
-{"d":"nwsvr1.com","s":0,"o":0,"k":[]}
+{"d":"nwsvr1.com","s":200,"o":1,"k":["nginx"]}
 {"d":"milb.com","s":200,"o":1,"k":["contentful","fastly","nextjs"]}
 {"d":"unb.ca","s":200,"o":1,"k":["apache","google-analytics"]}
 {"d":"mynexia.com","s":200,"o":1,"k":["nginx"]}
@@ -9517,7 +9517,7 @@
 {"d":"sellkit.ru","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"abc7news.com","s":200,"o":1,"k":["cloudfront","nginx"]}
 {"d":"htlbid.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
-{"d":"eurosport.com","s":200,"o":1,"k":["cloudfront","nextjs"]}
+{"d":"eurosport.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
 {"d":"peerj.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"ok.gov","s":200,"o":1,"k":["cloudfront","apache"]}
 {"d":"videohead.tech","s":403,"o":0,"k":[]}
@@ -9535,7 +9535,7 @@
 {"d":"peplink.com","s":200,"o":1,"k":["astro","cloudflare","google-tag-manager"]}
 {"d":"huk-coburg.cloud","s":0,"o":0,"k":[]}
 {"d":"uitm.edu.my","s":200,"o":1,"k":[]}
-{"d":"travix.com","s":0,"o":0,"k":[]}
+{"d":"travix.com","s":200,"o":1,"k":["google-fonts","nginx","wordpress"]}
 {"d":"pelmorex.com","s":200,"o":1,"k":["google-tag-manager","nginx","wordpress"]}
 {"d":"myclapper.com","s":0,"o":0,"k":[]}
 {"d":"voz.vn","s":403,"o":0,"k":[]}
@@ -9626,7 +9626,7 @@
 {"d":"tescocloud.com","s":0,"o":0,"k":[]}
 {"d":"linuxpl.com","s":200,"o":1,"k":["wordpress"]}
 {"d":"glasswire.com","s":200,"o":1,"k":["cloudfront","nginx"]}
-{"d":"ip138.com","s":200,"o":1,"k":[]}
+{"d":"ip138.com","s":0,"o":0,"k":[]}
 {"d":"nbcwashington.com","s":200,"o":1,"k":["nginx","onetrust","wordpress"]}
 {"d":"computerhope.com","s":403,"o":0,"k":[]}
 {"d":"sui-inter.net","s":200,"o":1,"k":[]}
@@ -9780,7 +9780,7 @@
 {"d":"israelnationalnews.com","s":200,"o":1,"k":["nuxt","vue"]}
 {"d":"documentonews.gr","s":403,"o":0,"k":[]}
 {"d":"tirabeauty.com","s":200,"o":1,"k":["akamai","google-fonts"]}
-{"d":"caribbeancom.com","s":200,"o":1,"k":["cloudflare","google-analytics"]}
+{"d":"caribbeancom.com","s":403,"o":0,"k":[]}
 {"d":"flashscore.sk","s":200,"o":1,"k":["nginx","onetrust"]}
 {"d":"chromeexperiments.com","s":0,"o":0,"k":[]}
 {"d":"beyondwords.io","s":200,"o":1,"k":["astro","cloudflare","fathom"]}
@@ -9935,7 +9935,7 @@
 {"d":"eircom.net","s":0,"o":0,"k":[]}
 {"d":"soc-club.ru","s":200,"o":1,"k":["google-analytics","google-fonts","nginx"]}
 {"d":"junglescout.com","s":200,"o":1,"k":["cloudflare","fastly","google-fonts","google-tag-manager","notion-sites","onetrust","wordpress"]}
-{"d":"joybuy.com","s":200,"o":1,"k":["google-analytics","nextjs"]}
+{"d":"joybuy.com","s":200,"o":1,"k":["cloudfront","google-analytics","nextjs"]}
 {"d":"inc.cl","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","wordpress"]}
 {"d":"orangeclickmedia.com","s":200,"o":1,"k":["cloudflare","google-fonts","vue"]}
 {"d":"armanet.us","s":403,"o":0,"k":[]}
@@ -9978,7 +9978,7 @@
 {"d":"qwarta.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"singaporepaya.com","s":0,"o":0,"k":[]}
 {"d":"litmus.com","s":200,"o":1,"k":["fastly","google-fonts","nginx","onetrust","wordpress"]}
-{"d":"cnnic.cn","s":200,"o":1,"k":["nginx"]}
+{"d":"cnnic.cn","s":0,"o":0,"k":[]}
 {"d":"karelia.ru","s":0,"o":0,"k":[]}
 {"d":"mysamba.tv","s":0,"o":0,"k":[]}
 {"d":"dstv.com","s":200,"o":1,"k":["google-fonts","onetrust"]}
@@ -10023,7 +10023,7 @@
 {"d":"pixabay.com","s":403,"o":0,"k":[]}
 {"d":"kwai.net","s":0,"o":0,"k":[]}
 {"d":"xboxlive.com","s":0,"o":0,"k":[]}
-{"d":"amzn.to","s":200,"o":1,"k":[]}
+{"d":"amzn.to","s":200,"o":1,"k":["cloudfront"]}
 {"d":"openstreetmap.org","s":200,"o":1,"k":["apache","fastly","rails"]}
 {"d":"ezvizlife.com","s":200,"o":1,"k":["rails"]}
 {"d":"lijit.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
@@ -10328,7 +10328,7 @@
 {"d":"unicamp.br","s":200,"o":1,"k":["cloudfront","apache","google-analytics","google-tag-manager","wordpress"]}
 {"d":"appsheet.com","s":200,"o":1,"k":["google-fonts"]}
 {"d":"drift-pixel.ai","s":200,"o":1,"k":[]}
-{"d":"2dehands.be","s":200,"o":1,"k":["cloudfront"]}
+{"d":"2dehands.be","s":403,"o":0,"k":[]}
 {"d":"pendingrenewaldeletion.com","s":0,"o":0,"k":[]}
 {"d":"eksisozluk.com","s":403,"o":0,"k":[]}
 {"d":"androidauthority.com","s":403,"o":0,"k":[]}
@@ -10405,7 +10405,7 @@
 {"d":"fantasypros.com","s":200,"o":1,"k":["cloudfront","apache","google-analytics","google-tag-manager","onetrust","wordpress"]}
 {"d":"ponyexpress.tech","s":0,"o":0,"k":[]}
 {"d":"sbicard.com","s":200,"o":1,"k":[]}
-{"d":"adtec.ru","s":200,"o":1,"k":[]}
+{"d":"adtec.ru","s":0,"o":0,"k":[]}
 {"d":"meteofor.com.ua","s":403,"o":0,"k":[]}
 {"d":"newsbeast.gr","s":200,"o":1,"k":["astro","cloudflare","google-tag-manager"]}
 {"d":"falabella.com.pe","s":200,"o":1,"k":["cloudflare","nextjs"]}
@@ -10497,7 +10497,7 @@
 {"d":"uncenz.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager","wordpress"]}
 {"d":"playwekings.ru","s":200,"o":1,"k":["google-tag-manager","laravel","nginx","rails"]}
 {"d":"skokka.com.pe","s":403,"o":0,"k":[]}
-{"d":"kaldagan.com","s":520,"o":0,"k":[]}
+{"d":"kaldagan.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
 {"d":"my-imcloud.com","s":0,"o":0,"k":[]}
 {"d":"hentaiz.bot","s":403,"o":0,"k":[]}
 {"d":"metabet.tv","s":403,"o":0,"k":[]}
@@ -10511,7 +10511,7 @@
 {"d":"google.com.ly","s":200,"o":1,"k":["google-cloud"]}
 {"d":"amazon.sg","s":200,"o":1,"k":["cloudfront"]}
 {"d":"awsdns-41.co.uk","s":0,"o":0,"k":[]}
-{"d":"mail-archive.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"mail-archive.com","s":0,"o":0,"k":[]}
 {"d":"iesdev.com","s":0,"o":0,"k":[]}
 {"d":"rqmob.com","s":0,"o":0,"k":[]}
 {"d":"gcore.com","s":200,"o":1,"k":["angular","google-analytics","nginx"]}
@@ -10620,7 +10620,7 @@
 {"d":"adminvps.ru","s":200,"o":1,"k":[]}
 {"d":"ozonusercontent.com","s":0,"o":0,"k":[]}
 {"d":"unr.edu","s":200,"o":1,"k":["aspnet"]}
-{"d":"kantotplus.com","s":520,"o":0,"k":[]}
+{"d":"kantotplus.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
 {"d":"escapefromtarkov.com","s":403,"o":0,"k":[]}
 {"d":"hostarmada.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"rackspaceclouddb.com","s":0,"o":0,"k":[]}
@@ -10833,7 +10833,7 @@
 {"d":"pub.dev","s":200,"o":1,"k":["google-tag-manager"]}
 {"d":"tipranks.com","s":403,"o":0,"k":[]}
 {"d":"wnba.com","s":403,"o":0,"k":[]}
-{"d":"thepointsguy.com","s":200,"o":1,"k":["fastly","google-ads","google-fonts","nextjs","sanity"]}
+{"d":"thepointsguy.com","s":200,"o":1,"k":["fastly","nextjs","sanity","vercel"]}
 {"d":"myer.com.au","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"avct.cloud","s":0,"o":0,"k":[]}
 {"d":"evraz.com","s":200,"o":1,"k":["nginx"]}
@@ -10965,7 +10965,7 @@
 {"d":"faraone.shop","s":200,"o":1,"k":["cloudflare","shopify"]}
 {"d":"nodesource.com","s":200,"o":1,"k":["hubspot-cms","nextjs"]}
 {"d":"uccpbx.com","s":0,"o":0,"k":[]}
-{"d":"gloria.tv","s":200,"o":1,"k":[]}
+{"d":"gloria.tv","s":429,"o":0,"k":[]}
 {"d":"realvnc.com","s":403,"o":0,"k":[]}
 {"d":"buenosaires.gob.ar","s":200,"o":1,"k":["google-analytics","google-fonts"]}
 {"d":"dns-tm.us","s":0,"o":0,"k":[]}
@@ -11037,7 +11037,7 @@
 {"d":"goodline.info","s":200,"o":1,"k":["nextjs"]}
 {"d":"gobound.com","s":202,"o":1,"k":["cloudfront"]}
 {"d":"inappstory.ru","s":200,"o":1,"k":["nextjs","nginx"]}
-{"d":"openpr.com","s":403,"o":0,"k":[]}
+{"d":"openpr.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","matomo"]}
 {"d":"byteplusfcdn-oversea.com","s":0,"o":0,"k":[]}
 {"d":"timberland.com","s":403,"o":0,"k":[]}
 {"d":"filehippo.com","s":200,"o":1,"k":["didomi","google-tag-manager","wordpress"]}
@@ -11053,7 +11053,7 @@
 {"d":"sandiego.edu","s":200,"o":1,"k":["adobe-fonts","apache","font-awesome"]}
 {"d":"ringpublishing.net","s":0,"o":0,"k":[]}
 {"d":"thomann.fr","s":200,"o":1,"k":["cloudflare"]}
-{"d":"2beeg.me","s":403,"o":0,"k":[]}
+{"d":"2beeg.me","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"jawaker.com","s":200,"o":1,"k":["cloudflare","rails"]}
 {"d":"marketo.co.uk","s":0,"o":0,"k":[]}
 {"d":"umang.gov.in","s":200,"o":1,"k":["cloudfront","google-fonts"]}
@@ -11066,7 +11066,7 @@
 {"d":"canalplustech.pro","s":0,"o":0,"k":[]}
 {"d":"bitcoinmagazine.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager","hubspot-cms","onetrust","wordpress"]}
 {"d":"ucl.ac.be","s":0,"o":0,"k":[]}
-{"d":"cloudbate.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
+{"d":"cloudbate.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"videogameschronicle.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"finanze.it","s":200,"o":1,"k":["matomo"]}
 {"d":"inosmi.ru","s":200,"o":1,"k":["matomo"]}
@@ -11282,7 +11282,7 @@
 {"d":"accuweather.com","s":403,"o":0,"k":[]}
 {"d":"telephony.goog","s":0,"o":0,"k":[]}
 {"d":"redhat.com","s":200,"o":1,"k":["apache","drupal"]}
-{"d":"360.cn","s":200,"o":1,"k":["nginx"]}
+{"d":"360.cn","s":0,"o":0,"k":[]}
 {"d":"usgovcloudapi.net","s":0,"o":0,"k":[]}
 {"d":"avsxappcaptiveportal.com","s":0,"o":0,"k":[]}
 {"d":"vkontakte.ru","s":200,"o":1,"k":[]}
@@ -11386,11 +11386,11 @@
 {"d":"harman.com","s":0,"o":0,"k":[]}
 {"d":"nsw.gov.au","s":200,"o":1,"k":["cloudfront","drupal"]}
 {"d":"bkcdn.net","s":0,"o":0,"k":[]}
-{"d":"hinet.net","s":200,"o":1,"k":["aspnet"]}
+{"d":"hinet.net","s":0,"o":0,"k":[]}
 {"d":"glanceapis.com","s":0,"o":0,"k":[]}
 {"d":"clickup.com","s":200,"o":1,"k":["cloudfront","aws-s3","contentful","google-tag-manager","nextjs","onetrust"]}
 {"d":"redis.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs","sanity","vercel"]}
-{"d":"treasury.gov","s":0,"o":0,"k":[]}
+{"d":"treasury.gov","s":200,"o":1,"k":["akamai","cloudfront","aws-s3","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"yandex.com.tr","s":200,"o":1,"k":[]}
 {"d":"blueapron.com","s":403,"o":0,"k":[]}
 {"d":"square.site","s":200,"o":1,"k":["cloudflare","contentful","google-analytics","sveltekit"]}
@@ -11463,7 +11463,7 @@
 {"d":"wakuhyfeserucu.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"gwu.edu","s":0,"o":0,"k":[]}
 {"d":"japantimes.co.jp","s":200,"o":1,"k":["cloudfront","cloudflare","google-analytics","google-tag-manager","wordpress"]}
-{"d":"farfetch.com","s":403,"o":0,"k":[]}
+{"d":"farfetch.com","s":0,"o":0,"k":[]}
 {"d":"bcg.com","s":200,"o":1,"k":["akamai"]}
 {"d":"xnhau.cab","s":403,"o":0,"k":[]}
 {"d":"mdr.de","s":200,"o":1,"k":[]}
@@ -11482,7 +11482,7 @@
 {"d":"hatenablog.com","s":200,"o":1,"k":["cloudfront","google-analytics","nginx","rails"]}
 {"d":"gohugo.io","s":200,"o":1,"k":["google-tag-manager","netlify"]}
 {"d":"hashicorp.com","s":429,"o":0,"k":[]}
-{"d":"biorxiv.org","s":429,"o":0,"k":[]}
+{"d":"biorxiv.org","s":200,"o":1,"k":["cloudflare","drupal","google-tag-manager"]}
 {"d":"tritondigital.com","s":200,"o":1,"k":["cloudflare","hubspot-cms"]}
 {"d":"google.co.zm","s":200,"o":1,"k":["google-cloud"]}
 {"d":"unicode.org","s":200,"o":1,"k":["cloudflare"]}
@@ -11534,7 +11534,7 @@
 {"d":"inmobi-choice.io","s":0,"o":0,"k":[]}
 {"d":"bytelb.net","s":0,"o":0,"k":[]}
 {"d":"skechers.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","salesforce-commerce"]}
-{"d":"neverssl.com","s":0,"o":0,"k":[]}
+{"d":"neverssl.com","s":200,"o":1,"k":["apache"]}
 {"d":"earnin.com","s":200,"o":1,"k":["netlify","nextjs"]}
 {"d":"angi.com","s":403,"o":0,"k":[]}
 {"d":"gs.com","s":200,"o":1,"k":["akamai","cloudfront","nextjs"]}
@@ -11545,7 +11545,7 @@
 {"d":"flippingbook.com","s":200,"o":1,"k":["google-analytics","google-fonts","nginx","onetrust"]}
 {"d":"takealot.com","s":403,"o":0,"k":[]}
 {"d":"anlian.co","s":0,"o":0,"k":[]}
-{"d":"aramco.com","s":200,"o":1,"k":["aspnet","azure","onetrust"]}
+{"d":"aramco.com","s":200,"o":1,"k":["azure","onetrust"]}
 {"d":"sleepfoundation.org","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"admixer.net","s":200,"o":1,"k":["hubspot-cms","nginx","wordpress"]}
 {"d":"spec.org","s":200,"o":1,"k":["apache","hugo"]}
@@ -11646,7 +11646,7 @@
 {"d":"odatv.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads","google-analytics","google-tag-manager"]}
 {"d":"cash.app","s":200,"o":1,"k":["cloudflare","contentful","nextjs"]}
 {"d":"wixmp.com","s":0,"o":0,"k":[]}
-{"d":"zalando.es","s":0,"o":0,"k":[]}
+{"d":"zalando.es","s":403,"o":0,"k":[]}
 {"d":"bobaedream.co.kr","s":200,"o":1,"k":["apache","google-ads","google-analytics","google-tag-manager"]}
 {"d":"car.gr","s":403,"o":0,"k":[]}
 {"d":"cntv.cn","s":200,"o":1,"k":[]}
@@ -11663,7 +11663,7 @@
 {"d":"tiket.com","s":403,"o":0,"k":[]}
 {"d":"xxxshame.com","s":403,"o":0,"k":[]}
 {"d":"cic.fr","s":200,"o":1,"k":[]}
-{"d":"allegro.hu","s":403,"o":0,"k":[]}
+{"d":"allegro.hu","s":0,"o":0,"k":[]}
 {"d":"worldatlas.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
 {"d":"52shuku.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"javlibrary.com","s":403,"o":0,"k":[]}
@@ -11727,7 +11727,7 @@
 {"d":"pscube.jp","s":0,"o":0,"k":[]}
 {"d":"gfpxw.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"xleche.com","s":200,"o":1,"k":["google-tag-manager","nginx","wordpress"]}
-{"d":"xvideosporno.blog.br","s":0,"o":0,"k":[]}
+{"d":"xvideosporno.blog.br","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"ufgrowfun.com","s":403,"o":0,"k":[]}
 {"d":"webdramaturkey2.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"starwars.com","s":403,"o":0,"k":[]}
@@ -11896,7 +11896,7 @@
 {"d":"nextdirect.com","s":403,"o":0,"k":[]}
 {"d":"updatestar.com","s":200,"o":1,"k":["cloudflare","google-ads","google-analytics","google-tag-manager"]}
 {"d":"my-control-panel.com","s":0,"o":0,"k":[]}
-{"d":"nic.es","s":200,"o":1,"k":["cloudfront","apache","drupal"]}
+{"d":"nic.es","s":0,"o":0,"k":[]}
 {"d":"phonearena.com","s":403,"o":0,"k":[]}
 {"d":"cbssports.cloud","s":0,"o":0,"k":[]}
 {"d":"epubgame.com","s":200,"o":1,"k":["nextjs","nginx"]}
@@ -11918,7 +11918,7 @@
 {"d":"trustburn.com","s":403,"o":0,"k":[]}
 {"d":"macmillan.com","s":0,"o":0,"k":[]}
 {"d":"perfops.net","s":200,"o":1,"k":["google-analytics","google-tag-manager","hubspot-cms","netlify"]}
-{"d":"lockheedmartin.com","s":0,"o":0,"k":[]}
+{"d":"lockheedmartin.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"tes.com","s":200,"o":1,"k":["drupal","fastly","google-fonts"]}
 {"d":"bnnbloomberg.ca","s":200,"o":1,"k":["akamai","google-ads"]}
 {"d":"payscale.com","s":200,"o":1,"k":["cloudfront","cloudflare","google-fonts","onetrust","webflow"]}
@@ -11969,7 +11969,7 @@
 {"d":"adplatform.io","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"afisha.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"rabandelima.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
-{"d":"yupoo.com","s":0,"o":0,"k":[]}
+{"d":"yupoo.com","s":200,"o":1,"k":["google-analytics"]}
 {"d":"phoca.cz","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","joomla"]}
 {"d":"blacktoon420.com","s":200,"o":1,"k":[]}
 {"d":"krikya11.club","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
@@ -12088,7 +12088,7 @@
 {"d":"granify.com","s":200,"o":1,"k":["fastly","nginx","wordpress"]}
 {"d":"sellwild.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"guardian.ng","s":403,"o":0,"k":[]}
-{"d":"dominiosecuador.ec","s":0,"o":0,"k":[]}
+{"d":"dominiosecuador.ec","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
 {"d":"umetrip.com","s":0,"o":0,"k":[]}
 {"d":"rootsweb.com","s":403,"o":0,"k":[]}
 {"d":"adyenpayments.com","s":0,"o":0,"k":[]}
@@ -12209,7 +12209,7 @@
 {"d":"files.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"redwap-xxx.com","s":403,"o":0,"k":[]}
 {"d":"inmyroom.ru","s":200,"o":1,"k":["google-fonts","nginx","rails"]}
-{"d":"dixy.ru","s":403,"o":0,"k":[]}
+{"d":"dixy.ru","s":200,"o":1,"k":[]}
 {"d":"wambacdn.net","s":200,"o":1,"k":[]}
 {"d":"singaporepools.com.sg","s":404,"o":0,"k":[]}
 {"d":"insead.edu","s":403,"o":0,"k":[]}
@@ -12234,7 +12234,7 @@
 {"d":"adrise.tv","s":0,"o":0,"k":[]}
 {"d":"omnihotels.com","s":403,"o":0,"k":[]}
 {"d":"animeav1.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","sveltekit"]}
-{"d":"eurosport.it","s":200,"o":1,"k":["cloudfront","aws-s3"]}
+{"d":"eurosport.it","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"totalwine.com","s":403,"o":0,"k":[]}
 {"d":"hdfcbank.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"yelpcdn.com","s":0,"o":0,"k":[]}
@@ -12356,7 +12356,7 @@
 {"d":"zol.com","s":200,"o":1,"k":["google-analytics"]}
 {"d":"animesss.com","s":403,"o":0,"k":[]}
 {"d":"metallica.com","s":403,"o":0,"k":[]}
-{"d":"canva.cn","s":0,"o":0,"k":[]}
+{"d":"canva.cn","s":403,"o":0,"k":[]}
 {"d":"indiabix.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"zadarma.com","s":200,"o":1,"k":["nginx"]}
 {"d":"epsilon.com","s":200,"o":1,"k":["cloudfront","nextjs"]}
@@ -12398,7 +12398,7 @@
 {"d":"sun.ac.za","s":0,"o":0,"k":[]}
 {"d":"coupertsh.com","s":0,"o":0,"k":[]}
 {"d":"spribegaming.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-analytics","google-tag-manager"]}
-{"d":"kakaopay.com","s":0,"o":0,"k":[]}
+{"d":"kakaopay.com","s":200,"o":1,"k":["nextjs"]}
 {"d":"fb77.bet","s":403,"o":0,"k":[]}
 {"d":"bwanet.ca","s":0,"o":0,"k":[]}
 {"d":"sendibt3.com","s":404,"o":0,"k":[]}
@@ -12474,7 +12474,7 @@
 {"d":"codeigniter.com","s":403,"o":0,"k":[]}
 {"d":"firefox.com.cn","s":0,"o":0,"k":[]}
 {"d":"jumpdesktop.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-fonts","paddle","plausible"]}
-{"d":"udec.cl","s":200,"o":1,"k":["apache","drupal","google-analytics","google-tag-manager","wordpress"]}
+{"d":"udec.cl","s":0,"o":0,"k":[]}
 {"d":"zzux.com","s":0,"o":0,"k":[]}
 {"d":"marketingdive.com","s":200,"o":1,"k":["cloudflare","google-ads","osano"]}
 {"d":"ibytedapm.com","s":0,"o":0,"k":[]}
@@ -12516,7 +12516,7 @@
 {"d":"douyincdn.com","s":0,"o":0,"k":[]}
 {"d":"onelink.me","s":200,"o":1,"k":["cloudflare","onetrust","wordpress"]}
 {"d":"tradingview.com","s":200,"o":1,"k":["cloudfront"]}
-{"d":"bloomberg.com","s":403,"o":0,"k":[]}
+{"d":"bloomberg.com","s":200,"o":1,"k":["fastly","google-ads","google-fonts","nextjs"]}
 {"d":"cdnbuild.net","s":0,"o":0,"k":[]}
 {"d":"facebook.net","s":0,"o":0,"k":[]}
 {"d":"appsflyer.com","s":200,"o":1,"k":["cloudflare","onetrust","wordpress"]}
@@ -12537,7 +12537,7 @@
 {"d":"quantserve.com","s":503,"o":0,"k":[]}
 {"d":"hostgator.com.br","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
 {"d":"eeroup.com","s":404,"o":0,"k":[]}
-{"d":"wattpad.com","s":200,"o":1,"k":["cloudfront","google-ads","remix"]}
+{"d":"wattpad.com","s":200,"o":1,"k":["cloudfront","remix"]}
 {"d":"ted.com","s":200,"o":1,"k":["fastly","nextjs","nginx","prismic"]}
 {"d":"adform.net","s":403,"o":0,"k":[]}
 {"d":"cloudsink.net","s":0,"o":0,"k":[]}
@@ -12561,7 +12561,7 @@
 {"d":"zenecn.net","s":0,"o":0,"k":[]}
 {"d":"gazzetta.it","s":200,"o":1,"k":["google-ads"]}
 {"d":"divar.ir","s":200,"o":1,"k":["vue"]}
-{"d":"inleed.net","s":200,"o":1,"k":[]}
+{"d":"inleed.net","s":200,"o":1,"k":["laravel"]}
 {"d":"rayjump.com","s":0,"o":0,"k":[]}
 {"d":"justdial.com","s":200,"o":1,"k":["akamai","google-ads","google-fonts","nextjs","nginx"]}
 {"d":"youjizz.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
@@ -12670,7 +12670,7 @@
 {"d":"backblaze.com","s":200,"o":1,"k":["cloudflare","hubspot-cms","onetrust","webflow"]}
 {"d":"queniuyk.com","s":0,"o":0,"k":[]}
 {"d":"johndeerecloud.com","s":0,"o":0,"k":[]}
-{"d":"adotmob.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager"]}
+{"d":"adotmob.com","s":0,"o":0,"k":[]}
 {"d":"awsdns-39.com","s":0,"o":0,"k":[]}
 {"d":"gitbook.io","s":200,"o":1,"k":["amplitude","cloudflare","framer","google-analytics","google-fonts","google-tag-manager","hubspot-cms"]}
 {"d":"virustotal.com","s":200,"o":1,"k":["google-analytics"]}
@@ -12851,7 +12851,7 @@
 {"d":"nxp.com","s":200,"o":1,"k":["akamai"]}
 {"d":"myshn.net","s":0,"o":0,"k":[]}
 {"d":"tchibo.de","s":200,"o":1,"k":["akamai","nuxt","vue"]}
-{"d":"cafef.vn","s":200,"o":1,"k":[]}
+{"d":"cafef.vn","s":200,"o":1,"k":["laravel"]}
 {"d":"adelaide.edu.au","s":200,"o":1,"k":["fastly"]}
 {"d":"webmotors.com.br","s":200,"o":1,"k":["cloudfront","nextjs","wordpress"]}
 {"d":"tci.ir","s":0,"o":0,"k":[]}
@@ -12975,7 +12975,7 @@
 {"d":"awsdns-16.net","s":0,"o":0,"k":[]}
 {"d":"kumanga.com","s":403,"o":0,"k":[]}
 {"d":"havadurumu15gunluk.xyz","s":200,"o":1,"k":["wordpress"]}
-{"d":"yangkeduo.com","s":0,"o":0,"k":[]}
+{"d":"yangkeduo.com","s":200,"o":1,"k":["nextjs","nginx"]}
 {"d":"deltaork.com","s":200,"o":1,"k":["cloudfront","cloudflare","cloudflare-web-analytics","nuxt","vue"]}
 {"d":"beijing.gov.cn","s":0,"o":0,"k":[]}
 {"d":"hentaila.tv","s":403,"o":0,"k":[]}
@@ -12999,7 +12999,7 @@
 {"d":"nirvam.it","s":200,"o":1,"k":["aspnet"]}
 {"d":"cedock.com","s":0,"o":0,"k":[]}
 {"d":"desixxx.blog","s":403,"o":0,"k":[]}
-{"d":"playinmatch99.com","s":405,"o":0,"k":[]}
+{"d":"playinmatch99.com","s":202,"o":1,"k":["cloudflare"]}
 {"d":"singeporno.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"healmate.jp","s":403,"o":0,"k":[]}
 {"d":"tomorrowland.com","s":200,"o":1,"k":["cloudfront","nextjs","prismic"]}
@@ -13032,9 +13032,9 @@
 {"d":"awsdns-11.co.uk","s":0,"o":0,"k":[]}
 {"d":"hightouch-events.com","s":0,"o":0,"k":[]}
 {"d":"hismarttv.com","s":403,"o":0,"k":[]}
-{"d":"futurelearn.com","s":403,"o":0,"k":[]}
+{"d":"futurelearn.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","contentful","nextjs"]}
 {"d":"jmir.org","s":202,"o":1,"k":[]}
-{"d":"rbc.com","s":200,"o":1,"k":[]}
+{"d":"rbc.com","s":200,"o":1,"k":["akamai"]}
 {"d":"bronze.systems","s":0,"o":0,"k":[]}
 {"d":"translasion.com","s":0,"o":0,"k":[]}
 {"d":"allure.com","s":200,"o":1,"k":["cloudfront","google-ads"]}
@@ -13116,7 +13116,7 @@
 {"d":"videymyca.online","s":200,"o":1,"k":[]}
 {"d":"desiviral.net","s":0,"o":0,"k":[]}
 {"d":"parkingcrew.net","s":0,"o":0,"k":[]}
-{"d":"17173.com","s":200,"o":1,"k":[]}
+{"d":"17173.com","s":200,"o":1,"k":["nginx"]}
 {"d":"opencollective.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs","plausible"]}
 {"d":"cloudfilter.net","s":0,"o":0,"k":[]}
 {"d":"semrush.net","s":0,"o":0,"k":[]}
@@ -13143,7 +13143,7 @@
 {"d":"jvanbreda.be","s":0,"o":0,"k":[]}
 {"d":"hingenexus.com","s":0,"o":0,"k":[]}
 {"d":"pingtest.net","s":200,"o":1,"k":[]}
-{"d":"isipp.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"isipp.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","wordpress"]}
 {"d":"timesunion.com","s":200,"o":1,"k":["fastly"]}
 {"d":"clouddevice.io","s":0,"o":0,"k":[]}
 {"d":"chargepoint.com","s":200,"o":1,"k":["drupal","fastly","nginx"]}
@@ -13198,7 +13198,7 @@
 {"d":"12306.cn","s":0,"o":0,"k":[]}
 {"d":"webfx.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
 {"d":"wm.edu","s":200,"o":1,"k":["cloudfront","apache","font-awesome","google-analytics","google-tag-manager"]}
-{"d":"720yun.com","s":0,"o":0,"k":[]}
+{"d":"720yun.com","s":200,"o":1,"k":["nextjs","nginx"]}
 {"d":"olx.uz","s":403,"o":0,"k":[]}
 {"d":"astrocade.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"zhipin.com","s":200,"o":1,"k":[]}
@@ -13206,7 +13206,7 @@
 {"d":"magnacom.net","s":200,"o":1,"k":[]}
 {"d":"ucc.ie","s":200,"o":1,"k":["apache","cookiebot"]}
 {"d":"pfsense.org","s":200,"o":1,"k":["nginx"]}
-{"d":"williams-sonoma.com","s":403,"o":0,"k":[]}
+{"d":"williams-sonoma.com","s":0,"o":0,"k":[]}
 {"d":"mawartotovans.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
 {"d":"ansi.org","s":403,"o":0,"k":[]}
 {"d":"project-syndicate.org","s":200,"o":1,"k":["google-fonts","laravel"]}
@@ -13262,7 +13262,7 @@
 {"d":"forgejo.org","s":200,"o":1,"k":["nginx"]}
 {"d":"quamed.org","s":403,"o":0,"k":[]}
 {"d":"manitu.net","s":0,"o":0,"k":[]}
-{"d":"juejin.cn","s":200,"o":1,"k":["nuxt","vue"]}
+{"d":"juejin.cn","s":200,"o":1,"k":[]}
 {"d":"hubhc.com","s":200,"o":1,"k":["nginx"]}
 {"d":"tconnect.services","s":0,"o":0,"k":[]}
 {"d":"unl.pt","s":0,"o":0,"k":[]}
@@ -13305,7 +13305,7 @@
 {"d":"delfi.lv","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","cookiebot","nuxt","vue"]}
 {"d":"akinator.com","s":403,"o":0,"k":[]}
 {"d":"transfermarkt.com.br","s":202,"o":1,"k":["cloudfront"]}
-{"d":"crackle.co.in","s":200,"o":1,"k":["apache"]}
+{"d":"crackle.co.in","s":200,"o":1,"k":["apache","google-fonts","google-tag-manager","termly","wordpress"]}
 {"d":"alar.my","s":200,"o":1,"k":["cloudflare","webflow"]}
 {"d":"rainn.org","s":403,"o":0,"k":[]}
 {"d":"gaohuasecurities.cn","s":0,"o":0,"k":[]}
@@ -13396,7 +13396,7 @@
 {"d":"utu.fi","s":200,"o":1,"k":["cookiebot","drupal"]}
 {"d":"ck.page","s":525,"o":0,"k":[]}
 {"d":"rollcall.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","nginx"]}
-{"d":"whukns.com","s":200,"o":1,"k":["apache"]}
+{"d":"whukns.com","s":200,"o":1,"k":["apache","hugo"]}
 {"d":"cgkthn.com","s":404,"o":0,"k":[]}
 {"d":"imptracking.com","s":0,"o":0,"k":[]}
 {"d":"dmed.kz","s":404,"o":0,"k":[]}
@@ -13525,7 +13525,7 @@
 {"d":"orange.ro","s":200,"o":1,"k":["nextjs"]}
 {"d":"awsdns-35.org","s":0,"o":0,"k":[]}
 {"d":"deltabisiklet.com","s":403,"o":0,"k":[]}
-{"d":"ikea.com.tr","s":200,"o":1,"k":["aspnet","google-ads"]}
+{"d":"ikea.com.tr","s":200,"o":1,"k":["google-ads"]}
 {"d":"eztvx.to","s":403,"o":0,"k":[]}
 {"d":"polsatsport.pl","s":200,"o":1,"k":["apache","onetrust"]}
 {"d":"lcn.com","s":200,"o":1,"k":["apache"]}
@@ -13614,7 +13614,7 @@
 {"d":"cdnf.cc","s":0,"o":0,"k":[]}
 {"d":"realtyww.info","s":200,"o":1,"k":["cloudflare","google-tag-manager"]}
 {"d":"jboss.org","s":200,"o":1,"k":["font-awesome","google-fonts"]}
-{"d":"uls.co.za","s":200,"o":1,"k":["apache","font-awesome","google-analytics"]}
+{"d":"uls.co.za","s":0,"o":0,"k":[]}
 {"d":"similarama.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"temanggungkab.go.id","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"normattiva.it","s":0,"o":0,"k":[]}
@@ -13703,7 +13703,7 @@
 {"d":"tresensa.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","hubspot-cms","wordpress"]}
 {"d":"notebooklm.google","s":200,"o":1,"k":["google-fonts","google-tag-manager"]}
 {"d":"xo.net","s":0,"o":0,"k":[]}
-{"d":"xunyou.mobi","s":200,"o":1,"k":["nuxt","vue"]}
+{"d":"xunyou.mobi","s":200,"o":1,"k":["nginx","nuxt","vue"]}
 {"d":"chotot.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","nextjs"]}
 {"d":"wada-ama.org","s":202,"o":1,"k":["cloudfront"]}
 {"d":"overclockers.ru","s":200,"o":1,"k":["rails","spring"]}
@@ -13941,7 +13941,7 @@
 {"d":"tcgplayer.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-fonts"]}
 {"d":"familysearch.org","s":200,"o":1,"k":["cloudfront"]}
 {"d":"bidvol.com","s":200,"o":1,"k":["nginx","nuxt","wordpress"]}
-{"d":"amazon.com.tr","s":200,"o":1,"k":["cloudfront"]}
+{"d":"amazon.com.tr","s":200,"o":1,"k":[]}
 {"d":"cognitivlabs.com","s":0,"o":0,"k":[]}
 {"d":"razer.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts"]}
 {"d":"lenovo.com.cn","s":0,"o":0,"k":[]}
@@ -13994,7 +13994,7 @@
 {"d":"cbrpay.ru","s":0,"o":0,"k":[]}
 {"d":"dayforcehcm.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"activision.com","s":0,"o":0,"k":[]}
-{"d":"abcp.ru","s":200,"o":1,"k":[]}
+{"d":"abcp.ru","s":0,"o":0,"k":[]}
 {"d":"adweek.com","s":200,"o":1,"k":["cloudflare","google-fonts","wordpress"]}
 {"d":"campaign-archive.com","s":0,"o":0,"k":[]}
 {"d":"kubernetes.io","s":200,"o":1,"k":["google-tag-manager","netlify"]}
@@ -14015,7 +14015,7 @@
 {"d":"eltiempo.com","s":200,"o":1,"k":["cloudfront","google-ads","google-analytics"]}
 {"d":"forrester.com","s":200,"o":1,"k":["fastly","nginx","onetrust","wordpress"]}
 {"d":"lbl.gov","s":403,"o":0,"k":[]}
-{"d":"muni.cz","s":200,"o":1,"k":["matomo"]}
+{"d":"muni.cz","s":0,"o":0,"k":[]}
 {"d":"miamiherald.com","s":0,"o":0,"k":[]}
 {"d":"byteintlapi.com","s":0,"o":0,"k":[]}
 {"d":"lc.chat","s":200,"o":1,"k":["netlify"]}
@@ -14049,7 +14049,7 @@
 {"d":"manageengine.com","s":200,"o":1,"k":[]}
 {"d":"capterra.com","s":403,"o":0,"k":[]}
 {"d":"formstack.com","s":200,"o":1,"k":["adobe-fonts","cloudfront","cloudflare","google-fonts","hubspot-cms","osano","webflow"]}
-{"d":"real.com","s":0,"o":0,"k":[]}
+{"d":"real.com","s":200,"o":1,"k":["apache","google-fonts"]}
 {"d":"yodobashi.com","s":0,"o":0,"k":[]}
 {"d":"getdropbox.com","s":200,"o":1,"k":[]}
 {"d":"ricoh.com","s":200,"o":1,"k":["apache","aspnet"]}
@@ -14067,7 +14067,7 @@
 {"d":"sbnation.com","s":200,"o":1,"k":["fastly","nextjs","onetrust","wordpress"]}
 {"d":"taylorfrancis.com","s":200,"o":1,"k":["angular","cloudflare","wordpress"]}
 {"d":"scholastic.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
-{"d":"wyndhamhotels.com","s":200,"o":1,"k":["akamai","apache"]}
+{"d":"wyndhamhotels.com","s":200,"o":1,"k":["akamai","fastly","google-fonts"]}
 {"d":"boltdns.net","s":0,"o":0,"k":[]}
 {"d":"techsmith.com","s":200,"o":1,"k":["google-fonts","wordpress"]}
 {"d":"torrid.com","s":403,"o":0,"k":[]}
@@ -14111,7 +14111,7 @@
 {"d":"nme.com","s":200,"o":1,"k":["cloudfront","google-analytics","netlify","nextjs","wordpress"]}
 {"d":"rmf24.pl","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","laravel"]}
 {"d":"zvuk.com","s":200,"o":1,"k":["nginx"]}
-{"d":"fakt.pl","s":200,"o":1,"k":["cloudfront","astro"]}
+{"d":"fakt.pl","s":200,"o":1,"k":["cloudfront","google-fonts"]}
 {"d":"hentaiera.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","rails"]}
 {"d":"exlibrisgroup.com","s":200,"o":1,"k":["fastly","hubspot-cms","nginx","onetrust","wordpress"]}
 {"d":"supercp.com","s":0,"o":0,"k":[]}
@@ -14194,7 +14194,7 @@
 {"d":"ero-video.net","s":403,"o":0,"k":[]}
 {"d":"cuerpomente.com","s":403,"o":0,"k":[]}
 {"d":"1porn.tv","s":403,"o":0,"k":[]}
-{"d":"porno-zona.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"porno-zona.com","s":403,"o":0,"k":[]}
 {"d":"xxx-sex.one","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"gemidos.tv","s":403,"o":0,"k":[]}
 {"d":"pixhost.to","s":200,"o":1,"k":["nginx"]}
@@ -14229,7 +14229,7 @@
 {"d":"desikamababa.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
 {"d":"spicymms.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"navercorp.com","s":200,"o":1,"k":["sveltekit"]}
-{"d":"gobid.co.za","s":403,"o":0,"k":[]}
+{"d":"gobid.co.za","s":200,"o":1,"k":["azure"]}
 {"d":"keiba.go.jp","s":0,"o":0,"k":[]}
 {"d":"nunuporn.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"ebay.es","s":403,"o":0,"k":[]}
@@ -14292,7 +14292,7 @@
 {"d":"shaw.ca","s":200,"o":1,"k":["akamai","angular","contentful"]}
 {"d":"solaredge.com","s":403,"o":0,"k":[]}
 {"d":"taleo.net","s":0,"o":0,"k":[]}
-{"d":"santander.co.uk","s":0,"o":0,"k":[]}
+{"d":"santander.co.uk","s":200,"o":1,"k":["drupal"]}
 {"d":"hanbiro.com","s":200,"o":1,"k":["google-fonts"]}
 {"d":"11st.co.kr","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"designboom.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
@@ -14371,7 +14371,7 @@
 {"d":"kexart.com","s":0,"o":0,"k":[]}
 {"d":"hc360.com","s":0,"o":0,"k":[]}
 {"d":"tulane.edu","s":200,"o":1,"k":["drupal","fastly","nginx"]}
-{"d":"pluralsight.com","s":429,"o":0,"k":[]}
+{"d":"pluralsight.com","s":200,"o":1,"k":["cloudflare","fastly"]}
 {"d":"w4nkr.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"imgbb.com","s":200,"o":1,"k":["google-fonts","nginx"]}
 {"d":"midasplayer.net","s":0,"o":0,"k":[]}
@@ -14409,7 +14409,7 @@
 {"d":"ziniao.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nextjs"]}
 {"d":"zippia.com","s":200,"o":1,"k":["google-fonts","nextjs","wordpress"]}
 {"d":"lxdns.info","s":0,"o":0,"k":[]}
-{"d":"emag.hu","s":202,"o":1,"k":["cloudfront"]}
+{"d":"emag.hu","s":511,"o":0,"k":[]}
 {"d":"sigmaaldrich.com","s":0,"o":0,"k":[]}
 {"d":"telhanorte.com.br","s":200,"o":1,"k":["cloudfront","onetrust"]}
 {"d":"artfight.net","s":403,"o":0,"k":[]}
@@ -14540,7 +14540,7 @@
 {"d":"congobet.net","s":200,"o":1,"k":["google-fonts"]}
 {"d":"simcitybuildit.com","s":0,"o":0,"k":[]}
 {"d":"thehartford.com","s":0,"o":0,"k":[]}
-{"d":"liepin.com","s":0,"o":0,"k":[]}
+{"d":"liepin.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","laravel"]}
 {"d":"wpcdn.pl","s":200,"o":1,"k":["nginx"]}
 {"d":"autoscout24.com","s":200,"o":1,"k":["cloudfront","nginx"]}
 {"d":"iwonderifulovemeaswell.vg","s":0,"o":0,"k":[]}
@@ -14596,7 +14596,7 @@
 {"d":"rierra-ads.com","s":200,"o":1,"k":["cloudflare","sentry","wix"]}
 {"d":"now.sh","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"refiner.io","s":200,"o":1,"k":["cloudfront","aws-s3","astro","fathom","google-tag-manager"]}
-{"d":"rcn.com","s":0,"o":0,"k":[]}
+{"d":"rcn.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","wordpress"]}
 {"d":"uniroma2.it","s":200,"o":1,"k":["usercentrics"]}
 {"d":"contentdelivery.net","s":0,"o":0,"k":[]}
 {"d":"queniutc.com","s":0,"o":0,"k":[]}
@@ -14685,7 +14685,7 @@
 {"d":"myfairpoint.net","s":0,"o":0,"k":[]}
 {"d":"thegay.com","s":200,"o":1,"k":["nginx"]}
 {"d":"oklahoma.gov","s":200,"o":1,"k":["cloudfront","apache"]}
-{"d":"tampermonkey.net","s":0,"o":0,"k":[]}
+{"d":"tampermonkey.net","s":200,"o":1,"k":["matomo","nginx"]}
 {"d":"unionpedia.org","s":403,"o":0,"k":[]}
 {"d":"lexware.de","s":200,"o":1,"k":["azure"]}
 {"d":"iyf.tv","s":403,"o":0,"k":[]}
@@ -14820,7 +14820,7 @@
 {"d":"onrocket.site","s":0,"o":0,"k":[]}
 {"d":"mangahub.ru","s":200,"o":1,"k":[]}
 {"d":"konjo.bet","s":200,"o":1,"k":["cloudfront","cloudflare","cloudflare-web-analytics"]}
-{"d":"estranky.cz","s":200,"o":1,"k":[]}
+{"d":"estranky.cz","s":0,"o":0,"k":[]}
 {"d":"pagify.dev","s":0,"o":0,"k":[]}
 {"d":"animalsexporntube.com","s":403,"o":0,"k":[]}
 {"d":"panini.com.br","s":200,"o":1,"k":["magento","fastly","google-analytics","google-fonts","google-tag-manager"]}
@@ -14894,7 +14894,7 @@
 {"d":"mobirise.info","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"kpnmail.nl","s":200,"o":1,"k":[]}
 {"d":"redvelvet.co.za","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager"]}
-{"d":"fin-manga.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
+{"d":"fin-manga.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","wordpress"]}
 {"d":"filmexxxgratis.live","s":403,"o":0,"k":[]}
 {"d":"comenity.net","s":200,"o":1,"k":["fastly"]}
 {"d":"indiaskokka.com","s":403,"o":0,"k":[]}
@@ -14974,7 +14974,7 @@
 {"d":"latam.com","s":403,"o":0,"k":[]}
 {"d":"sdamgia.ru","s":200,"o":1,"k":[]}
 {"d":"nmas.com.mx","s":200,"o":1,"k":["google-fonts","nextjs"]}
-{"d":"oxidesurvival.com","s":200,"o":1,"k":["fastly"]}
+{"d":"oxidesurvival.com","s":200,"o":1,"k":[]}
 {"d":"decathlon.nl","s":403,"o":0,"k":[]}
 {"d":"solar-engine.com","s":200,"o":1,"k":["nuxt"]}
 {"d":"venngage.com","s":200,"o":1,"k":["nginx","sentry"]}
@@ -15004,7 +15004,7 @@
 {"d":"tiktok.com","s":200,"o":1,"k":["nginx"]}
 {"d":"yandex.net","s":200,"o":1,"k":[]}
 {"d":"reddit.com","s":403,"o":0,"k":[]}
-{"d":"aliyuncs.com","s":404,"o":0,"k":[]}
+{"d":"aliyuncs.com","s":0,"o":0,"k":[]}
 {"d":"akamaized.net","s":0,"o":0,"k":[]}
 {"d":"jomodns.com","s":0,"o":0,"k":[]}
 {"d":"samsungcloud.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
@@ -15026,7 +15026,7 @@
 {"d":"adriver.ru","s":200,"o":1,"k":["google-fonts","nginx","wordpress"]}
 {"d":"behance.net","s":403,"o":0,"k":[]}
 {"d":"bx-msedge.net","s":0,"o":0,"k":[]}
-{"d":"gosuslugi.ru","s":200,"o":1,"k":[]}
+{"d":"gosuslugi.ru","s":0,"o":0,"k":[]}
 {"d":"mobile.de","s":403,"o":0,"k":[]}
 {"d":"inner-active.mobi","s":0,"o":0,"k":[]}
 {"d":"sagepub.com","s":200,"o":1,"k":["cloudflare"]}
@@ -15037,7 +15037,7 @@
 {"d":"ya.ru","s":200,"o":1,"k":[]}
 {"d":"wpguardian.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
 {"d":"alipaydns.com","s":0,"o":0,"k":[]}
-{"d":"amazonalexa.com","s":503,"o":0,"k":[]}
+{"d":"amazonalexa.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"recaptcha.net","s":404,"o":0,"k":[]}
 {"d":"discordapp.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"singular.net","s":200,"o":1,"k":["cloudflare","google-tag-manager","hubspot-cms","wordpress"]}
@@ -15371,7 +15371,7 @@
 {"d":"codashop.com","s":200,"o":1,"k":["nuxt","vue"]}
 {"d":"etoro.com","s":200,"o":1,"k":["cloudflare","nextjs","wordpress"]}
 {"d":"imd.gov.in","s":0,"o":0,"k":[]}
-{"d":"gimkit.com","s":503,"o":0,"k":[]}
+{"d":"gimkit.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts"]}
 {"d":"destatis.de","s":200,"o":1,"k":[]}
 {"d":"navi.com","s":403,"o":0,"k":[]}
 {"d":"truist.com","s":200,"o":1,"k":["cloudfront","apache","onetrust"]}
@@ -15405,7 +15405,7 @@
 {"d":"newsmax.com","s":200,"o":1,"k":["akamai","aspnet","google-ads","onetrust"]}
 {"d":"research.google","s":200,"o":1,"k":["google-fonts"]}
 {"d":"beatport.com","s":403,"o":0,"k":[]}
-{"d":"hotebonytube.com","s":403,"o":0,"k":[]}
+{"d":"hotebonytube.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"toongod.org","s":403,"o":0,"k":[]}
 {"d":"pubnubapi.com","s":0,"o":0,"k":[]}
 {"d":"brightree.net","s":200,"o":1,"k":[]}
@@ -15453,7 +15453,7 @@
 {"d":"netfirms.com","s":403,"o":0,"k":[]}
 {"d":"sambaporno.com","s":403,"o":0,"k":[]}
 {"d":"diariodolitoral.com.br","s":403,"o":0,"k":[]}
-{"d":"iliad.it","s":200,"o":1,"k":["nginx"]}
+{"d":"iliad.it","s":200,"o":1,"k":[]}
 {"d":"prefeitura.sp.gov.br","s":200,"o":1,"k":["google-analytics","google-tag-manager","spring"]}
 {"d":"digmawifi.com","s":0,"o":0,"k":[]}
 {"d":"bahesab.ir","s":200,"o":1,"k":[]}
@@ -15474,7 +15474,7 @@
 {"d":"zi-scripts.com","s":0,"o":0,"k":[]}
 {"d":"iranjib.ir","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"mobiledokan.co","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
-{"d":"ffmpeg.org","s":0,"o":0,"k":[]}
+{"d":"ffmpeg.org","s":200,"o":1,"k":["apache"]}
 {"d":"bplay.bet.ar","s":403,"o":0,"k":[]}
 {"d":"diabetes.org","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal"]}
 {"d":"cimanow.cc","s":403,"o":0,"k":[]}
@@ -15486,7 +15486,7 @@
 {"d":"hubcloud.cx","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts"]}
 {"d":"tnebnet.org","s":0,"o":0,"k":[]}
 {"d":"enloteria.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","rails"]}
-{"d":"arabic-porn-tube.com","s":200,"o":1,"k":["google-tag-manager","wordpress"]}
+{"d":"arabic-porn-tube.com","s":0,"o":0,"k":[]}
 {"d":"wri.org","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal","fastly","osano"]}
 {"d":"espacioapk.com","s":403,"o":0,"k":[]}
 {"d":"niconsul.com","s":200,"o":1,"k":["apache"]}
@@ -15548,7 +15548,7 @@
 {"d":"clubready.com","s":403,"o":0,"k":[]}
 {"d":"sc.gov","s":200,"o":1,"k":["cloudfront","drupal","nginx"]}
 {"d":"awsdns-36.co.uk","s":0,"o":0,"k":[]}
-{"d":"tenjin.io","s":200,"o":1,"k":["google-fonts","google-tag-manager","iubenda","wordpress"]}
+{"d":"tenjin.io","s":0,"o":0,"k":[]}
 {"d":"faberlic.com","s":200,"o":1,"k":["angular","nginx"]}
 {"d":"petco.com","s":403,"o":0,"k":[]}
 {"d":"ettoday.net","s":200,"o":1,"k":["google-tag-manager","nginx"]}
@@ -15628,7 +15628,7 @@
 {"d":"grofers.com","s":403,"o":0,"k":[]}
 {"d":"muse.ai","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"1c-bitrix.ru","s":200,"o":1,"k":[]}
-{"d":"treas.gov","s":200,"o":1,"k":["akamai","cloudfront","aws-s3","google-analytics","google-fonts","google-tag-manager"]}
+{"d":"treas.gov","s":0,"o":0,"k":[]}
 {"d":"thegatewaypundit.com","s":200,"o":1,"k":["cloudflare","google-fonts","google-tag-manager","matomo","wordpress"]}
 {"d":"albelli.nl","s":200,"o":1,"k":["cloudfront","nginx"]}
 {"d":"peakgames.net","s":200,"o":1,"k":["cloudfront","nginx"]}
@@ -15721,7 +15721,7 @@
 {"d":"filmyfly.now","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"uupaid.com","s":0,"o":0,"k":[]}
 {"d":"pukihot.surf","s":403,"o":0,"k":[]}
-{"d":"lwshosting.name","s":403,"o":0,"k":[]}
+{"d":"lwshosting.name","s":521,"o":0,"k":[]}
 {"d":"gimopun.com","s":522,"o":0,"k":[]}
 {"d":"shinyapps.io","s":200,"o":1,"k":[]}
 {"d":"bytegle.site","s":0,"o":0,"k":[]}
@@ -15754,7 +15754,7 @@
 {"d":"reedelsevier.com","s":0,"o":0,"k":[]}
 {"d":"dti.ne.jp","s":0,"o":0,"k":[]}
 {"d":"xxxlumaxxx.com","s":0,"o":0,"k":[]}
-{"d":"stripst.com","s":522,"o":0,"k":[]}
+{"d":"stripst.com","s":0,"o":0,"k":[]}
 {"d":"mcmaster.com","s":200,"o":1,"k":[]}
 {"d":"wixanswers.com","s":404,"o":0,"k":[]}
 {"d":"lafeltrinelli.it","s":429,"o":0,"k":[]}
@@ -15804,7 +15804,7 @@
 {"d":"rebrickable.com","s":403,"o":0,"k":[]}
 {"d":"egym.com","s":200,"o":1,"k":["cookiebot","drupal","fastly","nginx"]}
 {"d":"timepad.ru","s":403,"o":0,"k":[]}
-{"d":"uclouvain.be","s":200,"o":1,"k":["drupal","matomo","nginx"]}
+{"d":"uclouvain.be","s":0,"o":0,"k":[]}
 {"d":"kantei.go.jp","s":200,"o":1,"k":["cloudfront","google-fonts"]}
 {"d":"dditscdn.com","s":404,"o":0,"k":[]}
 {"d":"qhimg.com","s":0,"o":0,"k":[]}
@@ -15859,7 +15859,7 @@
 {"d":"manilatimes.net","s":200,"o":1,"k":["cloudfront","cloudflare","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"knotch.it","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs","wordpress"]}
 {"d":"comcastbusiness.net","s":0,"o":0,"k":[]}
-{"d":"oati.net","s":200,"o":1,"k":["google-tag-manager","hubspot-cms","wordpress"]}
+{"d":"oati.net","s":503,"o":0,"k":[]}
 {"d":"bolavip.com","s":200,"o":1,"k":["cloudfront","nextjs","onetrust","wordpress"]}
 {"d":"livesport.com","s":200,"o":1,"k":["nginx","onetrust"]}
 {"d":"mee.gov.cn","s":0,"o":0,"k":[]}
@@ -15939,7 +15939,7 @@
 {"d":"remanga.org","s":403,"o":0,"k":[]}
 {"d":"lemmatechnologies.com","s":200,"o":1,"k":["matomo","nginx","wordpress"]}
 {"d":"sdu.dk","s":0,"o":0,"k":[]}
-{"d":"kku.ac.th","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","nginx","wordpress"]}
+{"d":"kku.ac.th","s":0,"o":0,"k":[]}
 {"d":"ccaiplatform.com","s":0,"o":0,"k":[]}
 {"d":"weavephone.net","s":0,"o":0,"k":[]}
 {"d":"jetro.go.jp","s":0,"o":0,"k":[]}
@@ -16042,7 +16042,7 @@
 {"d":"dla.mil","s":0,"o":0,"k":[]}
 {"d":"vencord.dev","s":200,"o":1,"k":["astro","cloudflare"]}
 {"d":"disney-solitaire.app","s":0,"o":0,"k":[]}
-{"d":"torontomu.ca","s":200,"o":1,"k":["apache"]}
+{"d":"torontomu.ca","s":0,"o":0,"k":[]}
 {"d":"trustedsite.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","rails"]}
 {"d":"demonii.si","s":0,"o":0,"k":[]}
 {"d":"biligame.com","s":200,"o":1,"k":[]}
@@ -16051,7 +16051,7 @@
 {"d":"antiviruses.cc","s":0,"o":0,"k":[]}
 {"d":"expedia.co.uk","s":429,"o":0,"k":[]}
 {"d":"mailinabox.email","s":200,"o":1,"k":["nginx"]}
-{"d":"chemicalbook.com","s":200,"o":1,"k":["aspnet","google-tag-manager","nginx"]}
+{"d":"chemicalbook.com","s":200,"o":1,"k":["nginx"]}
 {"d":"locanto.com.au","s":403,"o":0,"k":[]}
 {"d":"boylove.cc","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
 {"d":"khabarvarzeshi.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
@@ -16097,7 +16097,7 @@
 {"d":"keujxjzjan.net","s":0,"o":0,"k":[]}
 {"d":"hohoj.tv","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
 {"d":"maps.me","s":200,"o":1,"k":["cloudfront"]}
-{"d":"hotnakedwomen.com","s":403,"o":0,"k":[]}
+{"d":"hotnakedwomen.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"oracleindustry.com","s":0,"o":0,"k":[]}
 {"d":"l3harris.com","s":200,"o":1,"k":["drupal","fastly","nginx"]}
 {"d":"workman.jp","s":200,"o":1,"k":["cloudfront","aspnet","google-tag-manager"]}
@@ -16107,7 +16107,7 @@
 {"d":"esa.co.za","s":200,"o":1,"k":["cloudflare"]}
 {"d":"geizhals.de","s":403,"o":0,"k":[]}
 {"d":"just-eat.es","s":403,"o":0,"k":[]}
-{"d":"number.rocks","s":403,"o":0,"k":[]}
+{"d":"number.rocks","s":0,"o":0,"k":[]}
 {"d":"c-wss.com","s":0,"o":0,"k":[]}
 {"d":"sarhne.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
 {"d":"thatgamecompany.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
@@ -16186,7 +16186,7 @@
 {"d":"siam.org","s":403,"o":0,"k":[]}
 {"d":"pagesense.io","s":0,"o":0,"k":[]}
 {"d":"bigmir.net","s":200,"o":1,"k":["cloudfront","google-analytics","google-tag-manager","nginx","rails"]}
-{"d":"theweek.in","s":0,"o":0,"k":[]}
+{"d":"theweek.in","s":200,"o":1,"k":["akamai","google-ads"]}
 {"d":"iq.pl","s":200,"o":1,"k":[]}
 {"d":"shazamcloud.com","s":0,"o":0,"k":[]}
 {"d":"zer0day.ch","s":0,"o":0,"k":[]}
@@ -16203,7 +16203,7 @@
 {"d":"acc-de.com","s":0,"o":0,"k":[]}
 {"d":"swip.net","s":0,"o":0,"k":[]}
 {"d":"manualslib.de","s":403,"o":0,"k":[]}
-{"d":"stkouyu.com","s":200,"o":1,"k":[]}
+{"d":"stkouyu.com","s":0,"o":0,"k":[]}
 {"d":"lactld.org","s":200,"o":1,"k":["apache","wordpress"]}
 {"d":"inventos.ru","s":200,"o":1,"k":[]}
 {"d":"surveysparrow.com","s":200,"o":1,"k":["cloudflare","nextjs"]}
@@ -16306,7 +16306,7 @@
 {"d":"i18n-pglstatp.com","s":0,"o":0,"k":[]}
 {"d":"wordwall.net","s":200,"o":1,"k":["azure","google-analytics","google-tag-manager"]}
 {"d":"meethue.com","s":200,"o":1,"k":["akamai","apache","vue"]}
-{"d":"yastatic.net","s":200,"o":1,"k":[]}
+{"d":"yastatic.net","s":400,"o":0,"k":[]}
 {"d":"theconversation.com","s":200,"o":1,"k":["fastly","nextjs","nginx"]}
 {"d":"dcinside.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager"]}
 {"d":"acesso.gov.br","s":200,"o":1,"k":[]}
@@ -16342,7 +16342,7 @@
 {"d":"w3schools.com","s":403,"o":0,"k":[]}
 {"d":"wpastra.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","hubspot-cms","vue","wordpress"]}
 {"d":"bing-pe.com","s":200,"o":1,"k":[]}
-{"d":"amocrm.ru","s":0,"o":0,"k":[]}
+{"d":"amocrm.ru","s":403,"o":0,"k":[]}
 {"d":"drweb.com","s":200,"o":1,"k":["google-analytics","matomo"]}
 {"d":"dhl.com","s":200,"o":1,"k":["akamai"]}
 {"d":"algolia.net","s":404,"o":0,"k":[]}
@@ -16373,7 +16373,7 @@
 {"d":"bitrixphone.com","s":0,"o":0,"k":[]}
 {"d":"filmyfly.soy","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"geotrust.com","s":200,"o":1,"k":["cloudfront","google-fonts"]}
-{"d":"myoffice.ru","s":200,"o":1,"k":["google-fonts","nginx"]}
+{"d":"myoffice.ru","s":0,"o":0,"k":[]}
 {"d":"azure-dns.net","s":0,"o":0,"k":[]}
 {"d":"aws-prd.net","s":0,"o":0,"k":[]}
 {"d":"xxpkg.com","s":0,"o":0,"k":[]}
@@ -16425,7 +16425,7 @@
 {"d":"sas.com","s":200,"o":1,"k":["apache"]}
 {"d":"olx.ua","s":403,"o":0,"k":[]}
 {"d":"vimla.io","s":0,"o":0,"k":[]}
-{"d":"amazon.nl","s":200,"o":1,"k":["cloudfront"]}
+{"d":"amazon.nl","s":200,"o":1,"k":[]}
 {"d":"wanadoo.fr","s":200,"o":1,"k":[]}
 {"d":"unl.edu","s":200,"o":1,"k":["drupal"]}
 {"d":"gihc.net","s":0,"o":0,"k":[]}
@@ -16482,7 +16482,7 @@
 {"d":"devicetask.com","s":0,"o":0,"k":[]}
 {"d":"queniusy.com","s":0,"o":0,"k":[]}
 {"d":"jivox.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager","hubspot-cms","onetrust","wordpress"]}
-{"d":"pcre.org","s":200,"o":1,"k":["nginx"]}
+{"d":"pcre.org","s":202,"o":1,"k":["nginx"]}
 {"d":"manualslib.com","s":403,"o":0,"k":[]}
 {"d":"mo.gov","s":200,"o":1,"k":["drupal","nginx"]}
 {"d":"google.com.gh","s":200,"o":1,"k":["google-cloud"]}
@@ -16639,10 +16639,10 @@
 {"d":"ilgazzettino.it","s":200,"o":1,"k":["google-fonts","nginx","wordpress"]}
 {"d":"iamcook.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"coinmaster.com","s":200,"o":1,"k":[]}
-{"d":"libramemoria.com","s":0,"o":0,"k":[]}
+{"d":"libramemoria.com","s":200,"o":1,"k":[]}
 {"d":"streamrail.com","s":0,"o":0,"k":[]}
 {"d":"doz.pl","s":200,"o":1,"k":["azure"]}
-{"d":"restaurantguru.com","s":200,"o":1,"k":["google-fonts","google-tag-manager","nginx"]}
+{"d":"restaurantguru.com","s":503,"o":0,"k":[]}
 {"d":"felissimo.co.jp","s":200,"o":1,"k":["cloudfront","cloudflare","cloudflare-web-analytics","salesforce-commerce"]}
 {"d":"xxbrits.com","s":403,"o":0,"k":[]}
 {"d":"foodandwine.com","s":402,"o":0,"k":[]}
@@ -16689,11 +16689,11 @@
 {"d":"animeheaven.me","s":200,"o":1,"k":["apache"]}
 {"d":"cmbchina.com","s":200,"o":1,"k":["nginx"]}
 {"d":"refinery29.com","s":200,"o":1,"k":["fastly","react"]}
-{"d":"kupi.cz","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads"]}
+{"d":"kupi.cz","s":403,"o":0,"k":[]}
 {"d":"hqporn.xxx","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"firstpost.com","s":403,"o":0,"k":[]}
 {"d":"bustybus.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
-{"d":"senat.fr","s":200,"o":1,"k":["matomo"]}
+{"d":"senat.fr","s":0,"o":0,"k":[]}
 {"d":"boatrace.jp","s":200,"o":1,"k":["akamai"]}
 {"d":"hentai20.io","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"redporn.porn","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
@@ -16732,7 +16732,7 @@
 {"d":"bombuj.si","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"newsnow.co.uk","s":200,"o":1,"k":["apache"]}
 {"d":"service-public.gouv.fr","s":200,"o":1,"k":[]}
-{"d":"minhchinh.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
+{"d":"minhchinh.com","s":0,"o":0,"k":[]}
 {"d":"discoveryplus.com","s":403,"o":0,"k":[]}
 {"d":"rebuyengine.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"c212.net","s":200,"o":1,"k":["cloudflare"]}
@@ -16760,7 +16760,7 @@
 {"d":"navima.jp","s":403,"o":0,"k":[]}
 {"d":"upi9.pro","s":0,"o":0,"k":[]}
 {"d":"1cbit.ru","s":401,"o":0,"k":[]}
-{"d":"fonts.net","s":0,"o":0,"k":[]}
+{"d":"fonts.net","s":522,"o":0,"k":[]}
 {"d":"google.co.mz","s":200,"o":1,"k":["google-cloud"]}
 {"d":"awsdns-28.net","s":0,"o":0,"k":[]}
 {"d":"astm.org","s":403,"o":0,"k":[]}
@@ -16810,7 +16810,7 @@
 {"d":"awsdns-48.co.uk","s":0,"o":0,"k":[]}
 {"d":"idexx.com","s":200,"o":1,"k":["cloudfront","google-fonts"]}
 {"d":"awsdns-00.co.uk","s":0,"o":0,"k":[]}
-{"d":"fh-wgt.com","s":404,"o":0,"k":[]}
+{"d":"fh-wgt.com","s":0,"o":0,"k":[]}
 {"d":"ffm.to","s":404,"o":0,"k":[]}
 {"d":"ru.nl","s":200,"o":1,"k":["drupal","nginx"]}
 {"d":"efsyn.gr","s":200,"o":1,"k":["cloudflare","google-ads","google-analytics","google-tag-manager","wordpress"]}
@@ -17125,7 +17125,7 @@
 {"d":"zt.ru","s":200,"o":1,"k":["nextjs"]}
 {"d":"sinclairstoryline.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-analytics"]}
 {"d":"lacentrale.fr","s":403,"o":0,"k":[]}
-{"d":"laliga.com","s":200,"o":1,"k":["azure","nextjs"]}
+{"d":"laliga.com","s":0,"o":0,"k":[]}
 {"d":"lumosity.com","s":200,"o":1,"k":["fastly","nextjs"]}
 {"d":"ktalk.host","s":0,"o":0,"k":[]}
 {"d":"doctissimo.fr","s":200,"o":1,"k":["cloudflare","wordpress"]}
@@ -17137,7 +17137,7 @@
 {"d":"volvo.com","s":403,"o":0,"k":[]}
 {"d":"pagseguro.com.br","s":200,"o":1,"k":["cloudfront","cloudflare","nextjs"]}
 {"d":"tiscali.cz","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
-{"d":"charite.de","s":0,"o":0,"k":[]}
+{"d":"charite.de","s":200,"o":1,"k":["apache"]}
 {"d":"www.ne.jp","s":200,"o":1,"k":["cloudfront","aws-s3"]}
 {"d":"lefties.com","s":403,"o":0,"k":[]}
 {"d":"fwrd.com","s":0,"o":0,"k":[]}
@@ -17205,7 +17205,7 @@
 {"d":"pcdn.co","s":0,"o":0,"k":[]}
 {"d":"unicredit.ru","s":200,"o":1,"k":[]}
 {"d":"accdab.net","s":0,"o":0,"k":[]}
-{"d":"appnerve.net","s":200,"o":1,"k":["wordpress"]}
+{"d":"appnerve.net","s":403,"o":0,"k":[]}
 {"d":"flixcar.com","s":0,"o":0,"k":[]}
 {"d":"cdn59.cc","s":0,"o":0,"k":[]}
 {"d":"militaria.pl","s":403,"o":0,"k":[]}
@@ -17231,7 +17231,7 @@
 {"d":"hmgroup.com","s":200,"o":1,"k":["apache","onetrust","wordpress"]}
 {"d":"betlive.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"oculuscdn.com","s":0,"o":0,"k":[]}
-{"d":"jiemian.com","s":200,"o":1,"k":["nginx"]}
+{"d":"jiemian.com","s":0,"o":0,"k":[]}
 {"d":"civiccomputing.com","s":200,"o":1,"k":["drupal","matomo"]}
 {"d":"ekiga.net","s":0,"o":0,"k":[]}
 {"d":"byrdie.com","s":402,"o":0,"k":[]}
@@ -17357,7 +17357,7 @@
 {"d":"rahaporn.com","s":403,"o":0,"k":[]}
 {"d":"1x-chickenroad.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
 {"d":"knmi.nl","s":200,"o":1,"k":["cloudfront","rails"]}
-{"d":"imbc.com","s":200,"o":1,"k":[]}
+{"d":"imbc.com","s":0,"o":0,"k":[]}
 {"d":"handycomic.jp","s":200,"o":1,"k":[]}
 {"d":"postcodebase.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal","google-analytics","google-tag-manager"]}
 {"d":"sitejabber.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
@@ -17516,7 +17516,7 @@
 {"d":"brave.com","s":200,"o":1,"k":["cloudfront","aws-s3","hugo","matomo"]}
 {"d":"mi.com","s":200,"o":1,"k":["akamai"]}
 {"d":"bilibili.com","s":200,"o":1,"k":[]}
-{"d":"opendns.com","s":200,"o":1,"k":["nginx"]}
+{"d":"opendns.com","s":0,"o":0,"k":[]}
 {"d":"branch.io","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"anthropic.com","s":200,"o":1,"k":["cloudflare","nextjs","sanity"]}
 {"d":"okta.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","fastly","onetrust"]}
@@ -17587,7 +17587,7 @@
 {"d":"fc2.com","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"javsub.blog","s":403,"o":0,"k":[]}
 {"d":"sambad.com","s":200,"o":1,"k":["cloudflare"]}
-{"d":"hostpoint.ch","s":200,"o":1,"k":["apache","google-fonts","hugo"]}
+{"d":"hostpoint.ch","s":0,"o":0,"k":[]}
 {"d":"qcloud.com","s":200,"o":1,"k":["nginx"]}
 {"d":"overwolf.com","s":200,"o":1,"k":["cloudfront","apache"]}
 {"d":"skysports.com","s":200,"o":1,"k":["akamai","google-analytics"]}
@@ -17642,7 +17642,7 @@
 {"d":"optimove.net","s":200,"o":1,"k":[]}
 {"d":"csdn.net","s":521,"o":0,"k":[]}
 {"d":"faz.net","s":200,"o":1,"k":["nuxt","vue","wordpress"]}
-{"d":"tesla.services","s":0,"o":0,"k":[]}
+{"d":"tesla.services","s":522,"o":0,"k":[]}
 {"d":"ipapi.co","s":200,"o":1,"k":["cloudflare","django"]}
 {"d":"yandex.kz","s":200,"o":1,"k":[]}
 {"d":"fcc.gov","s":403,"o":0,"k":[]}
@@ -17869,7 +17869,7 @@
 {"d":"pajak.go.id","s":200,"o":1,"k":["drupal","google-analytics"]}
 {"d":"cylance.com","s":200,"o":1,"k":["cloudfront","font-awesome","google-tag-manager","nginx","onetrust","wordpress"]}
 {"d":"mangafire.to","s":403,"o":0,"k":[]}
-{"d":"eurosport.fr","s":200,"o":1,"k":["cloudfront","aws-s3"]}
+{"d":"eurosport.fr","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"starfieldtech.com","s":200,"o":1,"k":[]}
 {"d":"bl.uk","s":200,"o":1,"k":["azure","nextjs","sanity"]}
 {"d":"tycsports.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-ads","google-fonts"]}
@@ -17880,7 +17880,7 @@
 {"d":"alodokter.com","s":200,"o":1,"k":["google-ads","google-analytics","google-fonts","rails","wordpress"]}
 {"d":"domaintechnik.at","s":200,"o":1,"k":["apache","matomo","wordpress"]}
 {"d":"bc.edu","s":200,"o":1,"k":["fastly"]}
-{"d":"prokerala.com","s":200,"o":1,"k":["google-analytics"]}
+{"d":"prokerala.com","s":429,"o":0,"k":[]}
 {"d":"gravitational.io","s":200,"o":1,"k":["cloudfront","cloudflare","nextjs"]}
 {"d":"monkeytype.com","s":200,"o":1,"k":["cloudflare","fastly"]}
 {"d":"jup9.com","s":200,"o":1,"k":["cloudflare"]}
@@ -17970,7 +17970,7 @@
 {"d":"ng88b.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager"]}
 {"d":"en25.com","s":0,"o":0,"k":[]}
 {"d":"chochox.com","s":403,"o":0,"k":[]}
-{"d":"nu.or.id","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","laravel","rails"]}
+{"d":"nu.or.id","s":403,"o":0,"k":[]}
 {"d":"becdn.net","s":0,"o":0,"k":[]}
 {"d":"ktrmr.com","s":200,"o":1,"k":["cookiebot"]}
 {"d":"progoroduhta.ru","s":200,"o":1,"k":["nextjs","nginx"]}
@@ -18019,7 +18019,7 @@
 {"d":"pearsonprd.tech","s":0,"o":0,"k":[]}
 {"d":"ui-dns.biz","s":0,"o":0,"k":[]}
 {"d":"ua.edu","s":200,"o":1,"k":["fastly","nginx","wordpress"]}
-{"d":"rrpicturearchives.net","s":200,"o":1,"k":["aspnet","google-analytics","google-tag-manager"]}
+{"d":"rrpicturearchives.net","s":0,"o":0,"k":[]}
 {"d":"samsungdive.com","s":0,"o":0,"k":[]}
 {"d":"net-line.pro","s":200,"o":1,"k":[]}
 {"d":"ic3.gov","s":200,"o":1,"k":["azure"]}
@@ -18177,7 +18177,7 @@
 {"d":"transavia.com","s":403,"o":0,"k":[]}
 {"d":"aircall.io","s":200,"o":1,"k":["hubspot-cms","nextjs","onetrust","storyblok","vercel"]}
 {"d":"myfreshworks.com","s":403,"o":0,"k":[]}
-{"d":"ae.com","s":200,"o":1,"k":["akamai","ember","wordpress"]}
+{"d":"ae.com","s":200,"o":1,"k":["akamai","ember","nginx","wordpress"]}
 {"d":"sgnic.sg","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"6chcdn.com","s":0,"o":0,"k":[]}
 {"d":"ttu.edu","s":200,"o":1,"k":[]}
@@ -18239,7 +18239,7 @@
 {"d":"dox.pub","s":0,"o":0,"k":[]}
 {"d":"247wallst.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","woocommerce","wordpress"]}
 {"d":"astrazeneca.com","s":403,"o":0,"k":[]}
-{"d":"woman.ru","s":200,"o":1,"k":["google-fonts","vue"]}
+{"d":"woman.ru","s":403,"o":0,"k":[]}
 {"d":"miacademy.co","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"findarticles.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","wordpress"]}
 {"d":"simplypsychology.org","s":200,"o":1,"k":["cloudflare","google-fonts","google-tag-manager","wordpress"]}
@@ -18364,7 +18364,7 @@
 {"d":"daangn.com","s":200,"o":1,"k":["cloudfront","remix"]}
 {"d":"usercontent.one","s":400,"o":0,"k":[]}
 {"d":"flippback.com","s":0,"o":0,"k":[]}
-{"d":"chaoxing.com","s":0,"o":0,"k":[]}
+{"d":"chaoxing.com","s":200,"o":1,"k":["nuxt","vue"]}
 {"d":"hometalk.com","s":200,"o":1,"k":["fastly","google-ads","nginx"]}
 {"d":"cgocable.net","s":0,"o":0,"k":[]}
 {"d":"productmadness.com","s":200,"o":1,"k":["cloudflare","google-fonts","trustarc"]}
@@ -18400,7 +18400,7 @@
 {"d":"logmeinrescue.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"warp.dev","s":200,"o":1,"k":["google-tag-manager","hubspot-cms","nextjs","sanity","vercel"]}
 {"d":"noticiasdenavarra.com","s":0,"o":0,"k":[]}
-{"d":"zalando.at","s":0,"o":0,"k":[]}
+{"d":"zalando.at","s":403,"o":0,"k":[]}
 {"d":"pokemonshowdown.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"uff.br","s":200,"o":1,"k":["apache","font-awesome","google-fonts","google-tag-manager","wordpress"]}
 {"d":"streamyard.com","s":200,"o":1,"k":["cloudflare","contentful","django","nextjs","onetrust"]}
@@ -18419,7 +18419,7 @@
 {"d":"nt.gov.au","s":403,"o":0,"k":[]}
 {"d":"gamcore.com","s":200,"o":1,"k":["nginx"]}
 {"d":"rancher.io","s":200,"o":1,"k":["cloudfront","apache","onetrust"]}
-{"d":"allegro.sk","s":403,"o":0,"k":[]}
+{"d":"allegro.sk","s":0,"o":0,"k":[]}
 {"d":"vcdn.biz","s":0,"o":0,"k":[]}
 {"d":"nikon.com","s":200,"o":1,"k":["cloudfront","fastly"]}
 {"d":"pasteur.fr","s":200,"o":1,"k":["drupal"]}
@@ -18444,7 +18444,7 @@
 {"d":"comic-walker.com","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"npb.jp","s":0,"o":0,"k":[]}
 {"d":"idsequoia.ai","s":0,"o":0,"k":[]}
-{"d":"bmbf.de","s":200,"o":1,"k":["apache"]}
+{"d":"bmbf.de","s":0,"o":0,"k":[]}
 {"d":"reelshort.com","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs","react"]}
 {"d":"overcast.fm","s":200,"o":1,"k":["nginx"]}
 {"d":"ambafrance.org","s":500,"o":0,"k":[]}
@@ -18506,7 +18506,7 @@
 {"d":"viettel.vn","s":200,"o":1,"k":[]}
 {"d":"flexbe.ru","s":200,"o":1,"k":[]}
 {"d":"hikcentralconnect.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
-{"d":"kas.de","s":200,"o":1,"k":["matomo","spring"]}
+{"d":"kas.de","s":200,"o":1,"k":["matomo"]}
 {"d":"bankmandiri.co.id","s":200,"o":1,"k":["spring"]}
 {"d":"mtsbank.ru","s":0,"o":0,"k":[]}
 {"d":"lookout-life.com","s":0,"o":0,"k":[]}
@@ -18569,7 +18569,7 @@
 {"d":"194964.com","s":200,"o":1,"k":["wordpress"]}
 {"d":"filepicker.io","s":200,"o":1,"k":["apache","fastly","wordpress"]}
 {"d":"dsebd.org","s":200,"o":1,"k":["cloudfront","nextjs"]}
-{"d":"engnovate.com","s":200,"o":1,"k":["google-tag-manager","nginx","wordpress"]}
+{"d":"engnovate.com","s":403,"o":0,"k":[]}
 {"d":"avbebe.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager","wordpress"]}
 {"d":"privado.io","s":200,"o":1,"k":["cloudfront","aws-s3","cookiebot","hugo"]}
 {"d":"cccs.edu","s":200,"o":1,"k":["cloudflare","google-fonts","wordpress"]}
@@ -18690,7 +18690,7 @@
 {"d":"gravitec.net","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","notion-sites"]}
 {"d":"bytebrew.io","s":200,"o":1,"k":["google-fonts"]}
 {"d":"2022welcome.com","s":503,"o":0,"k":[]}
-{"d":"qiyukf.com","s":0,"o":0,"k":[]}
+{"d":"qiyukf.com","s":406,"o":0,"k":[]}
 {"d":"finalsite.net","s":0,"o":0,"k":[]}
 {"d":"myappsget.com","s":0,"o":0,"k":[]}
 {"d":"domreg.lt","s":200,"o":1,"k":["apache"]}
@@ -18742,7 +18742,7 @@
 {"d":"albss.com","s":0,"o":0,"k":[]}
 {"d":"airthin.gs","s":0,"o":0,"k":[]}
 {"d":"xtool.com","s":200,"o":1,"k":["astro","cloudflare","google-tag-manager","shopify"]}
-{"d":"theinquirer.net","s":522,"o":0,"k":[]}
+{"d":"theinquirer.net","s":0,"o":0,"k":[]}
 {"d":"xanga.com","s":200,"o":1,"k":["wordpress"]}
 {"d":"bytecdn.cn","s":0,"o":0,"k":[]}
 {"d":"pik.email","s":404,"o":0,"k":[]}
@@ -18870,7 +18870,7 @@
 {"d":"minutemedia-prebid.com","s":0,"o":0,"k":[]}
 {"d":"ssl.com","s":200,"o":1,"k":["font-awesome","google-analytics","google-fonts","nginx","wordpress"]}
 {"d":"novelix.vip","s":0,"o":0,"k":[]}
-{"d":"feishu.cn","s":0,"o":0,"k":[]}
+{"d":"feishu.cn","s":200,"o":1,"k":[]}
 {"d":"5movierulz.watch","s":0,"o":0,"k":[]}
 {"d":"upwork.com","s":403,"o":0,"k":[]}
 {"d":"oath.cloud","s":0,"o":0,"k":[]}
@@ -19013,8 +19013,8 @@
 {"d":"prodigygame.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"ebay.fr","s":403,"o":0,"k":[]}
 {"d":"google.com.py","s":200,"o":1,"k":["google-cloud"]}
-{"d":"walmart.com.mx","s":200,"o":1,"k":["akamai","google-fonts","nextjs"]}
-{"d":"youradchoices.com","s":202,"o":1,"k":["nginx"]}
+{"d":"walmart.com.mx","s":200,"o":1,"k":["akamai"]}
+{"d":"youradchoices.com","s":200,"o":1,"k":["drupal","google-analytics","google-tag-manager","nginx"]}
 {"d":"tiktok-minis.us","s":0,"o":0,"k":[]}
 {"d":"planetminecraft.com","s":403,"o":0,"k":[]}
 {"d":"louisvuitton.com","s":403,"o":0,"k":[]}
@@ -19028,7 +19028,7 @@
 {"d":"tradeinn.com","s":200,"o":1,"k":["google-fonts","nginx","onetrust"]}
 {"d":"tudelft.nl","s":200,"o":1,"k":["cloudfront","google-tag-manager"]}
 {"d":"18.in-addr.arpa","s":0,"o":0,"k":[]}
-{"d":"kcl.ac.uk","s":0,"o":0,"k":[]}
+{"d":"kcl.ac.uk","s":200,"o":1,"k":["onetrust"]}
 {"d":"182682.xyz","s":0,"o":0,"k":[]}
 {"d":"serasa.com.br","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs"]}
 {"d":"warwick.ac.uk","s":200,"o":1,"k":[]}
@@ -19105,7 +19105,7 @@
 {"d":"mn.gov","s":200,"o":1,"k":["spring"]}
 {"d":"quay.io","s":200,"o":1,"k":["angular","nginx","stripe"]}
 {"d":"nishinippon.co.jp","s":200,"o":1,"k":["cloudfront","nextjs","nginx"]}
-{"d":"presseportal.de","s":503,"o":0,"k":[]}
+{"d":"presseportal.de","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"sage.com","s":403,"o":0,"k":[]}
 {"d":"omappapi.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"crossthegame.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads"]}
@@ -19129,7 +19129,7 @@
 {"d":"futbol24.com","s":200,"o":1,"k":["google-analytics","google-fonts","nginx","nuxt","termly","vue"]}
 {"d":"specbench.org","s":0,"o":0,"k":[]}
 {"d":"webaim.org","s":200,"o":1,"k":["cloudfront","apache","google-analytics","google-tag-manager"]}
-{"d":"jennymovies.com","s":403,"o":0,"k":[]}
+{"d":"jennymovies.com","s":200,"o":1,"k":[]}
 {"d":"thehackernews.com","s":200,"o":1,"k":["cloudflare","google-tag-manager"]}
 {"d":"lioden.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"deutschlandfunk.de","s":200,"o":1,"k":[]}
@@ -19159,7 +19159,7 @@
 {"d":"xhscdn.com","s":0,"o":0,"k":[]}
 {"d":"yad2.co.il","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"mgstage.com","s":0,"o":0,"k":[]}
-{"d":"cars24.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
+{"d":"cars24.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","nextjs"]}
 {"d":"mangatown.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"otter.ai","s":200,"o":1,"k":["cloudflare","onetrust","webflow"]}
 {"d":"jobbmintatv.pro","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager"]}
@@ -19365,7 +19365,7 @@
 {"d":"9nung.com","s":403,"o":0,"k":[]}
 {"d":"dynamic-m.com","s":0,"o":0,"k":[]}
 {"d":"xxxaraby.net","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
-{"d":"e1.ru","s":200,"o":1,"k":[]}
+{"d":"e1.ru","s":403,"o":0,"k":[]}
 {"d":"nrega.nic.in","s":200,"o":1,"k":[]}
 {"d":"sendibm1.com","s":0,"o":0,"k":[]}
 {"d":"hexawall.ru","s":403,"o":0,"k":[]}
@@ -19439,7 +19439,7 @@
 {"d":"fireworktv.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
 {"d":"joysporn.com","s":403,"o":0,"k":[]}
 {"d":"ncku.edu.tw","s":200,"o":1,"k":["apache"]}
-{"d":"loppytoonn.com","s":500,"o":0,"k":[]}
+{"d":"loppytoonn.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","laravel"]}
 {"d":"mediaite.com","s":403,"o":0,"k":[]}
 {"d":"manuaisescolares.pt","s":200,"o":1,"k":["aspnet"]}
 {"d":"bpgslb007.com","s":0,"o":0,"k":[]}
@@ -19545,7 +19545,7 @@
 {"d":"storeland.ru","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"uc.cl","s":200,"o":1,"k":["apache","wordpress"]}
 {"d":"cognizant.com","s":200,"o":1,"k":["fastly"]}
-{"d":"lenovosoftware.com","s":202,"o":1,"k":["nginx"]}
+{"d":"lenovosoftware.com","s":200,"o":1,"k":["google-fonts","nginx","onetrust","wordpress"]}
 {"d":"samolet.ru","s":401,"o":0,"k":[]}
 {"d":"jpf.go.jp","s":0,"o":0,"k":[]}
 {"d":"blip.tv","s":200,"o":1,"k":["cloudfront"]}
@@ -19612,7 +19612,7 @@
 {"d":"media-imdb.com","s":0,"o":0,"k":[]}
 {"d":"webcollage.net","s":0,"o":0,"k":[]}
 {"d":"famitsu.com","s":200,"o":1,"k":["cloudfront","nextjs","wordpress"]}
-{"d":"spokesman.com","s":200,"o":1,"k":["cloudfront","google-ads","nginx"]}
+{"d":"spokesman.com","s":403,"o":0,"k":[]}
 {"d":"astrosage.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads","google-analytics","google-tag-manager"]}
 {"d":"klclick.com","s":0,"o":0,"k":[]}
 {"d":"zeebiz.com","s":200,"o":1,"k":["drupal","nextjs"]}
@@ -19859,7 +19859,7 @@
 {"d":"siriusxm.ca","s":200,"o":1,"k":["onetrust","wordpress"]}
 {"d":"toyota.co.jp","s":0,"o":0,"k":[]}
 {"d":"internet.com","s":200,"o":1,"k":["apache","google-analytics","google-fonts","google-tag-manager"]}
-{"d":"vinted.ee","s":200,"o":1,"k":["fastly","nextjs"]}
+{"d":"vinted.ee","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"coop.se","s":200,"o":1,"k":["cloudflare"]}
 {"d":"4store.com","s":404,"o":0,"k":[]}
 {"d":"carid.com","s":403,"o":0,"k":[]}
@@ -19922,7 +19922,7 @@
 {"d":"southparkstudios.com","s":200,"o":1,"k":[]}
 {"d":"shoonyacloud.com","s":0,"o":0,"k":[]}
 {"d":"cites.org","s":403,"o":0,"k":[]}
-{"d":"rxlist.com","s":200,"o":1,"k":["cloudflare","onetrust","rails"]}
+{"d":"rxlist.com","s":200,"o":1,"k":["cloudflare","rails"]}
 {"d":"zerakijewels.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","shopify"]}
 {"d":"tablecheck.com","s":200,"o":1,"k":[]}
 {"d":"pazar3.mk","s":503,"o":0,"k":[]}
@@ -20092,13 +20092,13 @@
 {"d":"fortinet.net","s":0,"o":0,"k":[]}
 {"d":"ipredictive.com","s":0,"o":0,"k":[]}
 {"d":"1c.ru","s":200,"o":1,"k":[]}
-{"d":"indexww.com","s":200,"o":1,"k":["cloudflare"]}
+{"d":"indexww.com","s":403,"o":0,"k":[]}
 {"d":"fb.watch","s":200,"o":1,"k":[]}
 {"d":"mozilla.net","s":0,"o":0,"k":[]}
 {"d":"bytefcdn-ttpeu.com","s":0,"o":0,"k":[]}
 {"d":"redditstatic.com","s":0,"o":0,"k":[]}
 {"d":"xincache.com","s":0,"o":0,"k":[]}
-{"d":"wechat.com","s":200,"o":1,"k":[]}
+{"d":"wechat.com","s":200,"o":1,"k":["nuxt","vue"]}
 {"d":"wunderground.com","s":200,"o":1,"k":[]}
 {"d":"mercadolibre.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"secureserver.net","s":404,"o":0,"k":[]}
@@ -20159,7 +20159,7 @@
 {"d":"vogue.com","s":200,"o":1,"k":["cloudfront","google-ads"]}
 {"d":"monash.edu","s":403,"o":0,"k":[]}
 {"d":"rtve.es","s":200,"o":1,"k":["fastly"]}
-{"d":"indiapost.gov.in","s":200,"o":1,"k":["google-analytics","nextjs"]}
+{"d":"indiapost.gov.in","s":0,"o":0,"k":[]}
 {"d":"awsdns-37.com","s":0,"o":0,"k":[]}
 {"d":"mcgill.ca","s":200,"o":1,"k":["azure","drupal"]}
 {"d":"fastclick.net","s":0,"o":0,"k":[]}
@@ -20186,7 +20186,7 @@
 {"d":"samsungads.com","s":200,"o":1,"k":["akamai","google-tag-manager"]}
 {"d":"zdnscloud.com","s":0,"o":0,"k":[]}
 {"d":"metmuseum.org","s":429,"o":0,"k":[]}
-{"d":"demandbase.com","s":0,"o":0,"k":[]}
+{"d":"demandbase.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"likeevideo.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"awsdns-14.com","s":0,"o":0,"k":[]}
 {"d":"elementor.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
@@ -20232,7 +20232,7 @@
 {"d":"tranche.finance","s":0,"o":0,"k":[]}
 {"d":"vix.com","s":200,"o":1,"k":["fastly","nextjs","onetrust"]}
 {"d":"lazybumblebee.com","s":0,"o":0,"k":[]}
-{"d":"barrons.com","s":0,"o":0,"k":[]}
+{"d":"barrons.com","s":401,"o":0,"k":[]}
 {"d":"ntp-fireos.com","s":0,"o":0,"k":[]}
 {"d":"miibeian.gov.cn","s":0,"o":0,"k":[]}
 {"d":"apiblink.ru","s":0,"o":0,"k":[]}
@@ -20252,7 +20252,7 @@
 {"d":"clover.com","s":200,"o":1,"k":["onetrust"]}
 {"d":"buffalo.edu","s":200,"o":1,"k":["apache"]}
 {"d":"crazymaplestudios.com","s":200,"o":1,"k":["nextjs"]}
-{"d":"pardot.com","s":200,"o":1,"k":["akamai","remix","wordpress"]}
+{"d":"pardot.com","s":200,"o":1,"k":["akamai","wordpress"]}
 {"d":"eagllwin.com","s":0,"o":0,"k":[]}
 {"d":"qrcdn.net","s":0,"o":0,"k":[]}
 {"d":"konghq.com","s":200,"o":1,"k":["cloudfront","nextjs","vercel"]}
@@ -20291,7 +20291,7 @@
 {"d":"ravelry.com","s":200,"o":1,"k":["nginx","rails"]}
 {"d":"uzh.ch","s":200,"o":1,"k":["apache","matomo","spring"]}
 {"d":"alza.cz","s":403,"o":0,"k":[]}
-{"d":"besoccer.com","s":200,"o":1,"k":["fastly","nginx"]}
+{"d":"besoccer.com","s":200,"o":1,"k":["fastly"]}
 {"d":"ilmessaggero.it","s":200,"o":1,"k":["google-fonts","nginx","wordpress"]}
 {"d":"inria.fr","s":200,"o":1,"k":["apache","drupal","matomo"]}
 {"d":"gao.gov","s":403,"o":0,"k":[]}
@@ -20366,7 +20366,7 @@
 {"d":"b2c.com","s":0,"o":0,"k":[]}
 {"d":"privacy.com.br","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","nextjs"]}
 {"d":"animepahe.pw","s":403,"o":0,"k":[]}
-{"d":"lpsg.com","s":200,"o":1,"k":["nginx"]}
+{"d":"lpsg.com","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"basalam.com","s":200,"o":1,"k":["nextjs"]}
 {"d":"123av.com","s":403,"o":0,"k":[]}
 {"d":"allthefallen.moe","s":200,"o":1,"k":["nginx"]}
@@ -20431,7 +20431,7 @@
 {"d":"yieldlab.net","s":200,"o":1,"k":[]}
 {"d":"acsechocaptiveportal.com","s":0,"o":0,"k":[]}
 {"d":"uni-bremen.de","s":200,"o":1,"k":[]}
-{"d":"anonyig.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager"]}
+{"d":"anonyig.com","s":451,"o":0,"k":[]}
 {"d":"surahquran.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"13o.net","s":200,"o":1,"k":["cloudflare"]}
 {"d":"pbskids.org","s":200,"o":1,"k":["cloudfront","nextjs"]}
@@ -20454,7 +20454,7 @@
 {"d":"bama.ir","s":200,"o":1,"k":["nuxt"]}
 {"d":"pornolandia.xxx","s":403,"o":0,"k":[]}
 {"d":"chronicle.com","s":403,"o":0,"k":[]}
-{"d":"redtube.com.br","s":200,"o":1,"k":["azure"]}
+{"d":"redtube.com.br","s":200,"o":1,"k":[]}
 {"d":"wav.tv","s":403,"o":0,"k":[]}
 {"d":"glamour.com","s":200,"o":1,"k":["cloudfront","google-ads"]}
 {"d":"sportybet.co.za","s":200,"o":1,"k":["cloudfront","google-fonts","nginx"]}
@@ -20809,7 +20809,7 @@
 {"d":"megapbx.ru","s":0,"o":0,"k":[]}
 {"d":"9news.com","s":200,"o":1,"k":["akamai","onetrust"]}
 {"d":"politiken.dk","s":200,"o":1,"k":["fastly","nginx"]}
-{"d":"bobshop.co.za","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","wordpress"]}
+{"d":"bobshop.co.za","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"tmobile-digital.com","s":0,"o":0,"k":[]}
 {"d":"play.pl","s":200,"o":1,"k":["onetrust","vue"]}
 {"d":"nationwide.com","s":200,"o":1,"k":["akamai","angular","apache"]}
@@ -20862,7 +20862,7 @@
 {"d":"omnissa.com","s":200,"o":1,"k":["astro","drupal"]}
 {"d":"sketch.com","s":200,"o":1,"k":["cloudfront","netlify"]}
 {"d":"fetchrewards.com","s":200,"o":1,"k":["cloudfront","google-fonts","google-tag-manager","sveltekit","wordpress"]}
-{"d":"licindia.in","s":200,"o":1,"k":["spring"]}
+{"d":"licindia.in","s":0,"o":0,"k":[]}
 {"d":"thefreelibrary.com","s":403,"o":0,"k":[]}
 {"d":"vinted.ie","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"tracker.network","s":403,"o":0,"k":[]}
@@ -20887,7 +20887,7 @@
 {"d":"cw.net","s":0,"o":0,"k":[]}
 {"d":"nvts.co","s":0,"o":0,"k":[]}
 {"d":"smartconnexio.com","s":0,"o":0,"k":[]}
-{"d":"timeslive.co.za","s":200,"o":1,"k":["google-ads"]}
+{"d":"timeslive.co.za","s":0,"o":0,"k":[]}
 {"d":"texasmonthly.com","s":200,"o":1,"k":["cloudflare","google-ads","wordpress"]}
 {"d":"cervantesvirtual.com","s":403,"o":0,"k":[]}
 {"d":"manager-magazin.de","s":200,"o":1,"k":[]}
@@ -21067,7 +21067,7 @@
 {"d":"poebon.pro","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"spinmagazine.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"cliqtrq.com","s":0,"o":0,"k":[]}
-{"d":"varify.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","hubspot-cms","wordpress"]}
+{"d":"varify.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"dailyhive.com","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs"]}
 {"d":"etnews.com","s":200,"o":1,"k":["apache"]}
 {"d":"invisionapp.com","s":200,"o":1,"k":["cloudfront","contentful","framer","google-fonts","onetrust"]}
@@ -21145,7 +21145,7 @@
 {"d":"cloudimperiumgames.com","s":200,"o":1,"k":["cookiebot","google-analytics","google-tag-manager","nextjs"]}
 {"d":"voir-anime.to","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager","wordpress"]}
 {"d":"wlu.ca","s":200,"o":1,"k":["apache","font-awesome","google-tag-manager"]}
-{"d":"hisense.com","s":0,"o":0,"k":[]}
+{"d":"hisense.com","s":200,"o":1,"k":["cloudflare","fastly","hubspot-cms","sentry","wix"]}
 {"d":"gudfast.com","s":403,"o":0,"k":[]}
 {"d":"50webs.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"comicbox.xyz","s":200,"o":1,"k":["cloudflare","matomo"]}
@@ -21173,7 +21173,7 @@
 {"d":"synologydownload.com","s":0,"o":0,"k":[]}
 {"d":"ruvps.pro","s":0,"o":0,"k":[]}
 {"d":"nbcuas.com","s":0,"o":0,"k":[]}
-{"d":"saveetha.in","s":200,"o":1,"k":["google-fonts","google-tag-manager","wordpress"]}
+{"d":"saveetha.in","s":0,"o":0,"k":[]}
 {"d":"finanznachrichten.de","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
 {"d":"360kuai.com","s":200,"o":1,"k":[]}
 {"d":"bbgg6688.com","s":200,"o":1,"k":["cloudflare"]}
@@ -21264,7 +21264,7 @@
 {"d":"googletagservices.com","s":0,"o":0,"k":[]}
 {"d":"skyhigh.cloud","s":403,"o":0,"k":[]}
 {"d":"demdex.net","s":0,"o":0,"k":[]}
-{"d":"amazon.co.uk","s":200,"o":1,"k":["cloudfront"]}
+{"d":"amazon.co.uk","s":200,"o":1,"k":[]}
 {"d":"ea.com","s":200,"o":1,"k":["nextjs","trustarc"]}
 {"d":"taboola.com","s":200,"o":1,"k":["wordpress"]}
 {"d":"live-video.net","s":200,"o":1,"k":["cloudfront","aws-s3"]}
@@ -21278,7 +21278,7 @@
 {"d":"ft.com","s":403,"o":0,"k":[]}
 {"d":"cornell.edu","s":200,"o":1,"k":["adobe-fonts","azure","google-analytics","google-tag-manager"]}
 {"d":"live.net","s":0,"o":0,"k":[]}
-{"d":"aboutads.info","s":202,"o":1,"k":["nginx"]}
+{"d":"aboutads.info","s":200,"o":1,"k":["drupal","google-analytics","google-tag-manager","nginx"]}
 {"d":"beget.ru","s":200,"o":1,"k":["nuxt"]}
 {"d":"archive.is","s":429,"o":0,"k":[]}
 {"d":"ovh.net","s":200,"o":1,"k":["nginx"]}
@@ -21374,7 +21374,7 @@
 {"d":"filmywap.technology","s":0,"o":0,"k":[]}
 {"d":"webrootcloudav.com","s":0,"o":0,"k":[]}
 {"d":"hyatt.com","s":403,"o":0,"k":[]}
-{"d":"romarg.com","s":200,"o":1,"k":[]}
+{"d":"romarg.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"onedrive.com","s":200,"o":1,"k":["azure"]}
 {"d":"indazn.com","s":0,"o":0,"k":[]}
 {"d":"express.co.uk","s":200,"o":1,"k":["cloudfront","google-ads","google-tag-manager","nginx"]}
@@ -21468,7 +21468,7 @@
 {"d":"nationalarchives.gov.uk","s":200,"o":1,"k":["cloudfront","google-fonts","nginx"]}
 {"d":"filmyfly.bingo","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"coxautoinc.com","s":200,"o":1,"k":["nginx","wordpress"]}
-{"d":"namefind.com","s":200,"o":1,"k":["apache"]}
+{"d":"namefind.com","s":403,"o":0,"k":[]}
 {"d":"pin.it","s":200,"o":1,"k":["django","google-fonts"]}
 {"d":"eldiario.es","s":200,"o":1,"k":["cloudfront"]}
 {"d":"etrade.com","s":0,"o":0,"k":[]}
@@ -21503,7 +21503,7 @@
 {"d":"aka-ns.net","s":0,"o":0,"k":[]}
 {"d":"adlightning.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-fonts","google-tag-manager","hubspot-cms","osano","webflow"]}
 {"d":"islonline.net","s":200,"o":1,"k":[]}
-{"d":"fubo.tv","s":200,"o":1,"k":["fastly","nextjs"]}
+{"d":"fubo.tv","s":200,"o":1,"k":["aws-s3","fastly","gatsby"]}
 {"d":"hikops.com","s":0,"o":0,"k":[]}
 {"d":"makerworld.com","s":403,"o":0,"k":[]}
 {"d":"mediaset.it","s":200,"o":1,"k":["cloudfront","nextjs"]}
@@ -21547,7 +21547,7 @@
 {"d":"guinnessworldrecords.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"ghanaweb.com","s":200,"o":1,"k":["akamai","google-ads","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"xs4all.nl","s":200,"o":1,"k":["cloudfront","aws-s3"]}
-{"d":"financialcontent.com","s":500,"o":0,"k":[]}
+{"d":"financialcontent.com","s":200,"o":1,"k":["google-fonts","nextjs"]}
 {"d":"deribit.com","s":200,"o":1,"k":["cloudflare","google-fonts","nextjs"]}
 {"d":"acehardware.com","s":403,"o":0,"k":[]}
 {"d":"mediamarkt.de","s":403,"o":0,"k":[]}
@@ -21555,7 +21555,7 @@
 {"d":"diy.com","s":503,"o":0,"k":[]}
 {"d":"eloqua.com","s":0,"o":0,"k":[]}
 {"d":"taboolanews.com","s":200,"o":1,"k":["aws-s3","fastly","google-ads","google-tag-manager","hotjar","hubspot-cms","linkedin-insight","meta-pixel","microsoft-clarity","tiktok-pixel","wordpress"]}
-{"d":"ahnlab.com","s":200,"o":1,"k":["cloudfront","google-analytics","nextjs"]}
+{"d":"ahnlab.com","s":0,"o":0,"k":[]}
 {"d":"34.in-addr.arpa","s":0,"o":0,"k":[]}
 {"d":"l-tike.com","s":0,"o":0,"k":[]}
 {"d":"miniclip.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-fonts","nuxt","vue"]}
@@ -21709,7 +21709,7 @@
 {"d":"vrtcal.com","s":200,"o":1,"k":["apache","wordpress"]}
 {"d":"reklama5.mk","s":403,"o":0,"k":[]}
 {"d":"nepremicnine.net","s":403,"o":0,"k":[]}
-{"d":"udyamregistration.gov.in","s":200,"o":1,"k":["aspnet"]}
+{"d":"udyamregistration.gov.in","s":0,"o":0,"k":[]}
 {"d":"anl.gov","s":0,"o":0,"k":[]}
 {"d":"mangavyvy.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","laravel","rails"]}
 {"d":"vwfs.tools","s":0,"o":0,"k":[]}
@@ -21779,7 +21779,7 @@
 {"d":"awsdns-20.co.uk","s":0,"o":0,"k":[]}
 {"d":"mova-tech.com","s":200,"o":1,"k":["cloudflare","google-tag-manager","shopify"]}
 {"d":"grammarlyaws.com","s":0,"o":0,"k":[]}
-{"d":"css-tricks.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
+{"d":"css-tricks.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager","trustarc","woocommerce","wordpress"]}
 {"d":"edgecdn.co","s":0,"o":0,"k":[]}
 {"d":"codmwest.com","s":0,"o":0,"k":[]}
 {"d":"yuanshen.com","s":200,"o":1,"k":[]}
@@ -21799,7 +21799,7 @@
 {"d":"awsdns-51.co.uk","s":0,"o":0,"k":[]}
 {"d":"leroymerlin.com","s":503,"o":0,"k":[]}
 {"d":"consentmo.com","s":200,"o":1,"k":["cloudflare","google-fonts","webflow"]}
-{"d":"ipma.pt","s":0,"o":0,"k":[]}
+{"d":"ipma.pt","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","spring"]}
 {"d":"chegg.com","s":200,"o":1,"k":["cloudfront","nextjs","onetrust"]}
 {"d":"uniroma1.it","s":0,"o":0,"k":[]}
 {"d":"audible.co.uk","s":200,"o":1,"k":["cloudfront","trustarc"]}
@@ -21819,7 +21819,7 @@
 {"d":"flixbus.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"rocketcyber.com","s":200,"o":1,"k":["astro","netlify","onetrust"]}
 {"d":"ustc.edu.cn","s":0,"o":0,"k":[]}
-{"d":"boozt.com","s":429,"o":0,"k":[]}
+{"d":"boozt.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"indeed.net","s":403,"o":0,"k":[]}
 {"d":"theiet.org","s":200,"o":1,"k":[]}
 {"d":"polki.pl","s":200,"o":1,"k":[]}
@@ -21917,7 +21917,7 @@
 {"d":"zdbb.net","s":200,"o":1,"k":["google-analytics","google-tag-manager","wordpress"]}
 {"d":"oneplus.com","s":200,"o":1,"k":["nginx"]}
 {"d":"verticalrack.shop","s":0,"o":0,"k":[]}
-{"d":"ktla.com","s":403,"o":0,"k":[]}
+{"d":"ktla.com","s":200,"o":1,"k":["fastly","google-fonts","nginx","onetrust","wordpress"]}
 {"d":"rubygems.org","s":200,"o":1,"k":["fastly","google-fonts","rails"]}
 {"d":"news.ru","s":0,"o":0,"k":[]}
 {"d":"motogp.com","s":200,"o":1,"k":["cloudfront","google-ads","nginx"]}
@@ -21983,7 +21983,7 @@
 {"d":"fotolia.com","s":200,"o":1,"k":["fastly"]}
 {"d":"waz.de","s":200,"o":1,"k":["cloudfront"]}
 {"d":"z-library.sk","s":0,"o":0,"k":[]}
-{"d":"edupage.org","s":0,"o":0,"k":[]}
+{"d":"edupage.org","s":200,"o":1,"k":["apache"]}
 {"d":"report-uri.com","s":403,"o":0,"k":[]}
 {"d":"my-ip.io","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"mirconnect.ru","s":0,"o":0,"k":[]}
@@ -22084,7 +22084,7 @@
 {"d":"gen4.ninja","s":0,"o":0,"k":[]}
 {"d":"techinasia.com","s":403,"o":0,"k":[]}
 {"d":"samsungcloudplatform.com","s":0,"o":0,"k":[]}
-{"d":"providence.org","s":200,"o":1,"k":["aspnet","azure","google-fonts"]}
+{"d":"providence.org","s":200,"o":1,"k":["aspnet","azure"]}
 {"d":"supermicro.com","s":200,"o":1,"k":["drupal","hubspot-cms"]}
 {"d":"byd3c3.com","s":0,"o":0,"k":[]}
 {"d":"forecastly.net","s":0,"o":0,"k":[]}
@@ -22096,12 +22096,12 @@
 {"d":"olemiss.edu","s":200,"o":1,"k":["apache"]}
 {"d":"xvservice.net","s":0,"o":0,"k":[]}
 {"d":"geekbuying.com","s":200,"o":1,"k":["cloudfront"]}
-{"d":"tmok.tm","s":200,"o":1,"k":["nginx","onetrust"]}
+{"d":"tmok.tm","s":0,"o":0,"k":[]}
 {"d":"wear.jp","s":200,"o":1,"k":["cloudfront","google-ads","nextjs","nginx"]}
 {"d":"brightspot.cloud","s":0,"o":0,"k":[]}
 {"d":"idealist.org","s":200,"o":1,"k":["fastly"]}
 {"d":"truecallerstatic.com","s":0,"o":0,"k":[]}
-{"d":"desy.de","s":200,"o":1,"k":["matomo"]}
+{"d":"desy.de","s":0,"o":0,"k":[]}
 {"d":"blackview.hk","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","spring"]}
 {"d":"eklablog.com","s":0,"o":0,"k":[]}
 {"d":"native-instruments.com","s":200,"o":1,"k":["cloudflare","onetrust","shopify"]}
@@ -22144,7 +22144,7 @@
 {"d":"tidd.ly","s":200,"o":1,"k":["akamai","cloudfront","amplitude","google-analytics","google-tag-manager"]}
 {"d":"wazzup24.com","s":403,"o":0,"k":[]}
 {"d":"godagree.com","s":0,"o":0,"k":[]}
-{"d":"sci.gov.in","s":403,"o":0,"k":[]}
+{"d":"sci.gov.in","s":0,"o":0,"k":[]}
 {"d":"amazoncrl.com","s":0,"o":0,"k":[]}
 {"d":"babylist.com","s":200,"o":1,"k":["cloudflare","google-ads","google-analytics","google-tag-manager","osano","rails","shopify"]}
 {"d":"bookingexperts.com","s":200,"o":1,"k":["cloudflare","hubspot-cms"]}
@@ -22163,7 +22163,7 @@
 {"d":"fodors.com","s":403,"o":0,"k":[]}
 {"d":"travix.io","s":0,"o":0,"k":[]}
 {"d":"aaai.org","s":200,"o":1,"k":["cloudflare","google-fonts","wordpress"]}
-{"d":"proxibid.com","s":200,"o":1,"k":["nextjs"]}
+{"d":"proxibid.com","s":200,"o":1,"k":["google-analytics"]}
 {"d":"vilaweb.cat","s":200,"o":1,"k":["cloudfront","google-ads","google-analytics","google-tag-manager","wordpress"]}
 {"d":"duoduocdn.com","s":0,"o":0,"k":[]}
 {"d":"avito.ma","s":403,"o":0,"k":[]}
@@ -22216,7 +22216,7 @@
 {"d":"fragrantica.ru","s":403,"o":0,"k":[]}
 {"d":"queniubl.com","s":0,"o":0,"k":[]}
 {"d":"troweprice.com","s":200,"o":1,"k":["cloudfront","apache"]}
-{"d":"ipvanish.com","s":200,"o":1,"k":["cloudflare"]}
+{"d":"ipvanish.com","s":200,"o":1,"k":["cloudflare","google-fonts","wordpress"]}
 {"d":"billetweb.fr","s":200,"o":1,"k":["cloudflare","nuxt","prismic","vue"]}
 {"d":"clerkprod-cloudflare.net","s":0,"o":0,"k":[]}
 {"d":"enikos.gr","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","drupal","google-fonts","wordpress"]}
@@ -22259,7 +22259,7 @@
 {"d":"lemonpi.io","s":0,"o":0,"k":[]}
 {"d":"coreweave.com","s":200,"o":1,"k":["adobe-fonts","cloudflare","cloudflare-web-analytics","google-fonts","onetrust","webflow"]}
 {"d":"druni.es","s":200,"o":1,"k":["magento","fastly"]}
-{"d":"pcvisit.de","s":200,"o":1,"k":[]}
+{"d":"pcvisit.de","s":200,"o":1,"k":["nginx","wordpress"]}
 {"d":"sowa.pl","s":200,"o":1,"k":["apache","google-fonts","google-tag-manager","wordpress"]}
 {"d":"pcapp.store","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","nginx"]}
 {"d":"poig.ru","s":0,"o":0,"k":[]}
@@ -22385,7 +22385,7 @@
 {"d":"pornhao.com","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"naijatape.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager","matomo","wordpress"]}
 {"d":"499bet444.com","s":200,"o":1,"k":[]}
-{"d":"campusfrance.org","s":403,"o":0,"k":[]}
+{"d":"campusfrance.org","s":200,"o":1,"k":["drupal"]}
 {"d":"tatacommunications.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","hubspot-cms"]}
 {"d":"criollasx.com","s":403,"o":0,"k":[]}
 {"d":"sonovinhasbr.com","s":200,"o":1,"k":["cloudflare","google-tag-manager","wordpress"]}
@@ -22413,7 +22413,7 @@
 {"d":"cga.gov.in","s":200,"o":1,"k":["aspnet"]}
 {"d":"iranpokht.ir","s":200,"o":1,"k":["google-analytics","google-tag-manager","woocommerce","wordpress"]}
 {"d":"detran.ba.gov.br","s":200,"o":1,"k":["drupal"]}
-{"d":"etudiant.gouv.fr","s":0,"o":0,"k":[]}
+{"d":"etudiant.gouv.fr","s":200,"o":1,"k":["drupal","nginx"]}
 {"d":"kreloses.com","s":200,"o":1,"k":["aspnet","google-analytics","google-tag-manager"]}
 {"d":"qcloudwzgj.com","s":0,"o":0,"k":[]}
 {"d":"huffingtonpost.es","s":403,"o":0,"k":[]}
@@ -22512,7 +22512,7 @@
 {"d":"wikimedia.org","s":200,"o":1,"k":[]}
 {"d":"hcaptcha.com","s":200,"o":1,"k":["cloudflare","webflow"]}
 {"d":"supertms.com","s":0,"o":0,"k":[]}
-{"d":"booking.com","s":200,"o":1,"k":["cloudfront","onetrust"]}
+{"d":"booking.com","s":202,"o":1,"k":["cloudfront","nginx"]}
 {"d":"alibaba.com","s":200,"o":1,"k":["spring"]}
 {"d":"slack.com","s":200,"o":1,"k":["apache","onetrust"]}
 {"d":"trustpilot.com","s":403,"o":0,"k":[]}
@@ -22529,7 +22529,7 @@
 {"d":"wbx2.com","s":0,"o":0,"k":[]}
 {"d":"force.com","s":404,"o":0,"k":[]}
 {"d":"target.com","s":200,"o":1,"k":["nextjs"]}
-{"d":"amazon.fr","s":200,"o":1,"k":["cloudfront"]}
+{"d":"amazon.fr","s":200,"o":1,"k":[]}
 {"d":"2gis.com","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx","react"]}
 {"d":"mikrotik.com","s":200,"o":1,"k":[]}
 {"d":"resolver.arpa","s":0,"o":0,"k":[]}
@@ -22538,7 +22538,7 @@
 {"d":"creativecdn.com","s":204,"o":1,"k":[]}
 {"d":"g.co","s":200,"o":1,"k":["google-analytics"]}
 {"d":"rfc-editor.org","s":200,"o":1,"k":["cloudflare","nuxt"]}
-{"d":"sedo.com","s":200,"o":1,"k":["google-analytics"]}
+{"d":"sedo.com","s":503,"o":0,"k":[]}
 {"d":"dnse0.com","s":0,"o":0,"k":[]}
 {"d":"myspace.com","s":200,"o":1,"k":["onetrust"]}
 {"d":"stackexchange.com","s":200,"o":1,"k":["cloudflare","google-fonts"]}
@@ -22619,7 +22619,7 @@
 {"d":"x-cdn-static.com","s":200,"o":1,"k":["google-fonts","laravel","nginx","wordpress"]}
 {"d":"kde.org","s":200,"o":1,"k":["apache","matomo"]}
 {"d":"zeasn.tv","s":200,"o":1,"k":["cloudfront","cloudflare","google-analytics","google-tag-manager","matomo","onetrust","webflow"]}
-{"d":"imf.org","s":404,"o":0,"k":[]}
+{"d":"imf.org","s":429,"o":0,"k":[]}
 {"d":"moviesdatamil.me","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"filmyzilla56.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-tag-manager"]}
 {"d":"rollingstone.com","s":200,"o":1,"k":["google-tag-manager","nginx","onetrust","wordpress"]}
@@ -22695,13 +22695,13 @@
 {"d":"wordfence.com","s":202,"o":1,"k":["cloudfront"]}
 {"d":"stuff.co.nz","s":200,"o":1,"k":["fastly"]}
 {"d":"virginia.gov","s":0,"o":0,"k":[]}
-{"d":"mobilityware.com","s":202,"o":1,"k":["nginx"]}
+{"d":"mobilityware.com","s":200,"o":1,"k":["cookiebot","google-ads","google-fonts","nginx","wordpress"]}
 {"d":"selcdn.net","s":0,"o":0,"k":[]}
 {"d":"goldapple.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"google.fi","s":200,"o":1,"k":["google-cloud"]}
 {"d":"fazenda.gov.br","s":0,"o":0,"k":[]}
 {"d":"carfax.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-fonts","nextjs","onetrust"]}
-{"d":"brandmetrics.com","s":202,"o":1,"k":["cloudflare"]}
+{"d":"brandmetrics.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"rapidedge.io","s":0,"o":0,"k":[]}
 {"d":"eia.gov","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"kobo.com","s":403,"o":0,"k":[]}
@@ -22719,7 +22719,7 @@
 {"d":"cox.net","s":200,"o":1,"k":["cloudfront","fastly"]}
 {"d":"gazeta.pl","s":200,"o":1,"k":["apache","google-ads","onetrust"]}
 {"d":"ghost.org","s":200,"o":1,"k":["hugo","netlify"]}
-{"d":"compass.com","s":200,"o":1,"k":["cloudfront","drupal"]}
+{"d":"compass.com","s":200,"o":1,"k":["cloudfront","contentful","drupal"]}
 {"d":"talkie-ai.com","s":200,"o":1,"k":[]}
 {"d":"guzelhosting.com","s":403,"o":0,"k":[]}
 {"d":"fitbit.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager"]}
@@ -22753,7 +22753,7 @@
 {"d":"saasprotection.com","s":0,"o":0,"k":[]}
 {"d":"gb.net","s":200,"o":1,"k":["nginx"]}
 {"d":"zalando.de","s":0,"o":0,"k":[]}
-{"d":"rusprofile.ru","s":403,"o":0,"k":[]}
+{"d":"rusprofile.ru","s":200,"o":1,"k":["nginx"]}
 {"d":"whitepages.com","s":403,"o":0,"k":[]}
 {"d":"modsecurity.org","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","fastly"]}
 {"d":"depop.com","s":403,"o":0,"k":[]}
@@ -22798,7 +22798,7 @@
 {"d":"homes.co.jp","s":403,"o":0,"k":[]}
 {"d":"tango.me","s":200,"o":1,"k":["fastly"]}
 {"d":"pinterest.co.uk","s":200,"o":1,"k":["django","google-fonts"]}
-{"d":"cengage.com","s":200,"o":1,"k":["cloudfront","angular","cloudflare"]}
+{"d":"cengage.com","s":0,"o":0,"k":[]}
 {"d":"getpostman.com","s":200,"o":1,"k":["cloudfront","cloudflare","cloudflare-web-analytics","nextjs"]}
 {"d":"hurelax.com","s":200,"o":1,"k":["nginx"]}
 {"d":"gsa.gov","s":200,"o":1,"k":["cloudfront","drupal"]}
@@ -22827,7 +22827,7 @@
 {"d":"goldprice.org","s":403,"o":0,"k":[]}
 {"d":"stocrm.ru","s":200,"o":1,"k":["nextjs","nginx"]}
 {"d":"bip.com","s":200,"o":1,"k":["astro","google-tag-manager"]}
-{"d":"quago.io","s":202,"o":1,"k":["nginx"]}
+{"d":"quago.io","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","hubspot-cms","nginx","wordpress"]}
 {"d":"kth.se","s":200,"o":1,"k":["matomo"]}
 {"d":"wpzoom.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","fathom","google-fonts","google-tag-manager","wordpress"]}
 {"d":"poetryfoundation.org","s":403,"o":0,"k":[]}
@@ -22874,8 +22874,8 @@
 {"d":"pushy.me","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"intercars.eu","s":403,"o":0,"k":[]}
 {"d":"mcas.ms","s":0,"o":0,"k":[]}
-{"d":"22.cn","s":200,"o":1,"k":["nginx"]}
-{"d":"dior.com","s":403,"o":0,"k":[]}
+{"d":"22.cn","s":0,"o":0,"k":[]}
+{"d":"dior.com","s":200,"o":1,"k":["magento","akamai","google-analytics","nextjs","onetrust"]}
 {"d":"marmiton.org","s":200,"o":1,"k":["fastly","google-analytics"]}
 {"d":"privateinternetaccess.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","react"]}
 {"d":"auappservice.com","s":0,"o":0,"k":[]}
@@ -22964,7 +22964,7 @@
 {"d":"cv666.net","s":200,"o":1,"k":["google-fonts"]}
 {"d":"sassa.gov.za","s":0,"o":0,"k":[]}
 {"d":"soton.ac.uk","s":0,"o":0,"k":[]}
-{"d":"chimpstatic.com","s":0,"o":0,"k":[]}
+{"d":"chimpstatic.com","s":200,"o":1,"k":[]}
 {"d":"futbolfantasy.com","s":200,"o":1,"k":["google-ads","google-analytics","google-fonts","google-tag-manager","nginx","rails"]}
 {"d":"canalturf.com","s":200,"o":1,"k":["google-analytics","google-fonts","google-tag-manager","nginx"]}
 {"d":"spadsync.com","s":404,"o":0,"k":[]}
@@ -23166,7 +23166,7 @@
 {"d":"golabs.io","s":0,"o":0,"k":[]}
 {"d":"panoramio.com","s":200,"o":1,"k":["google-analytics"]}
 {"d":"maxroll.gg","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","remix"]}
-{"d":"inserm.fr","s":200,"o":1,"k":["wordpress"]}
+{"d":"inserm.fr","s":200,"o":1,"k":[]}
 {"d":"usyd.edu.au","s":200,"o":1,"k":["cloudfront","apache"]}
 {"d":"lovetrue.co.uk","s":0,"o":0,"k":[]}
 {"d":"sway-cdn.com","s":200,"o":1,"k":[]}
@@ -23206,7 +23206,7 @@
 {"d":"openstax.org","s":200,"o":1,"k":["cloudfront","aws-s3"]}
 {"d":"gcr.io","s":200,"o":1,"k":[]}
 {"d":"babbel.com","s":0,"o":0,"k":[]}
-{"d":"xmegadrive.com","s":0,"o":0,"k":[]}
+{"d":"xmegadrive.com","s":200,"o":1,"k":["nginx"]}
 {"d":"thenorthface.com","s":403,"o":0,"k":[]}
 {"d":"bravenet.com","s":200,"o":1,"k":["apache","google-ads","google-analytics","google-fonts","google-tag-manager","meta-pixel","microsoft-clarity","vue"]}
 {"d":"dnv.com","s":200,"o":1,"k":["cloudflare","font-awesome","onetrust"]}
@@ -23221,7 +23221,7 @@
 {"d":"kigogaf.com","s":522,"o":0,"k":[]}
 {"d":"case-battle.nl","s":200,"o":1,"k":["rails"]}
 {"d":"hashnode.dev","s":200,"o":1,"k":["google-analytics","nextjs","vercel"]}
-{"d":"rees46.ru","s":200,"o":1,"k":["nginx","nuxt"]}
+{"d":"rees46.ru","s":0,"o":0,"k":[]}
 {"d":"nagawinid.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics"]}
 {"d":"noredink.com","s":200,"o":1,"k":["cloudflare","contentful","google-fonts","hubspot-cms","rails","wordpress"]}
 {"d":"5movierulz.vacations","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
@@ -23229,7 +23229,7 @@
 {"d":"ninjawaktogel.org","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"tkor145.com","s":0,"o":0,"k":[]}
 {"d":"yadongtv101.com","s":403,"o":0,"k":[]}
-{"d":"jobkorea.co.kr","s":200,"o":1,"k":["google-analytics","nextjs"]}
+{"d":"jobkorea.co.kr","s":0,"o":0,"k":[]}
 {"d":"tailscale.io","s":0,"o":0,"k":[]}
 {"d":"myflorida.com","s":200,"o":1,"k":["cloudfront","aws-s3","google-analytics","google-fonts","nextjs"]}
 {"d":"du.edu","s":200,"o":1,"k":["drupal","fastly","nginx","termly"]}
@@ -23240,7 +23240,7 @@
 {"d":"olimpbet.kz","s":200,"o":1,"k":["cloudflare","google-fonts"]}
 {"d":"payoneer.com","s":200,"o":1,"k":["cloudfront","cloudflare","wordpress"]}
 {"d":"builtwith.com","s":200,"o":1,"k":[]}
-{"d":"fulicilian.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-analytics","google-fonts","google-tag-manager","wordpress"]}
+{"d":"fulicilian.com","s":0,"o":0,"k":[]}
 {"d":"moj.go.jp","s":0,"o":0,"k":[]}
 {"d":"slack-imgs.com","s":200,"o":1,"k":["cloudfront"]}
 {"d":"mts-link.ru","s":200,"o":1,"k":["nuxt","vue","wordpress"]}
@@ -23290,9 +23290,9 @@
 {"d":"bookmyname.com","s":200,"o":1,"k":["apache"]}
 {"d":"ganamosnet.info","s":403,"o":0,"k":[]}
 {"d":"inbox.lv","s":403,"o":0,"k":[]}
-{"d":"mijn.host","s":200,"o":1,"k":["apache"]}
+{"d":"mijn.host","s":200,"o":1,"k":[]}
 {"d":"carsales.com.au","s":403,"o":0,"k":[]}
-{"d":"milenio.com","s":200,"o":1,"k":["cloudfront","google-ads","nginx"]}
+{"d":"milenio.com","s":403,"o":0,"k":[]}
 {"d":"grandgamesbe.com","s":200,"o":1,"k":[]}
 {"d":"kvaedit.site","s":0,"o":0,"k":[]}
 {"d":"laprovence.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","nextjs"]}
@@ -23306,7 +23306,7 @@
 {"d":"blibli.com","s":403,"o":0,"k":[]}
 {"d":"indymedia.org","s":200,"o":1,"k":["apache"]}
 {"d":"longmusic.com","s":0,"o":0,"k":[]}
-{"d":"ithome.com","s":0,"o":0,"k":[]}
+{"d":"ithome.com","s":200,"o":1,"k":[]}
 {"d":"pythonanywhere.com","s":200,"o":1,"k":["django","google-analytics","google-fonts","google-tag-manager"]}
 {"d":"adobejanus.com","s":0,"o":0,"k":[]}
 {"d":"parker.com","s":403,"o":0,"k":[]}
@@ -23557,7 +23557,7 @@
 {"d":"canim.az","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"mts-nn.ru","s":0,"o":0,"k":[]}
 {"d":"infosys.com","s":0,"o":0,"k":[]}
-{"d":"mail.bg","s":0,"o":0,"k":[]}
+{"d":"mail.bg","s":200,"o":1,"k":["google-analytics","nginx"]}
 {"d":"meteo.cat","s":200,"o":1,"k":["apache","fastly","wordpress"]}
 {"d":"blockscout.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-tag-manager"]}
 {"d":"distrowatch.com","s":200,"o":1,"k":["apache","wordpress"]}
@@ -23591,7 +23591,7 @@
 {"d":"callescort.org","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager"]}
 {"d":"bizible.com","s":0,"o":0,"k":[]}
 {"d":"onelouder.com","s":0,"o":0,"k":[]}
-{"d":"pornobengala.com","s":0,"o":0,"k":[]}
+{"d":"pornobengala.com","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"santafe.gob.ar","s":0,"o":0,"k":[]}
 {"d":"mp3juice.sc","s":200,"o":1,"k":["nginx"]}
 {"d":"kobieta.pl","s":200,"o":1,"k":[]}
@@ -23664,7 +23664,7 @@
 {"d":"mocom.tv","s":200,"o":1,"k":["apache"]}
 {"d":"sportsplus.ph","s":403,"o":0,"k":[]}
 {"d":"gather.town","s":200,"o":1,"k":["framer","google-fonts"]}
-{"d":"log-lio.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-fonts","google-tag-manager","wordpress"]}
+{"d":"log-lio.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics"]}
 {"d":"paizo.com","s":200,"o":1,"k":["matomo","nuxt","vue"]}
 {"d":"ldmnq.com","s":0,"o":0,"k":[]}
 {"d":"jps.go.cr","s":403,"o":0,"k":[]}
@@ -23675,7 +23675,7 @@
 {"d":"mykasih.net","s":0,"o":0,"k":[]}
 {"d":"kcra.com","s":200,"o":1,"k":["fastly","google-analytics","nextjs"]}
 {"d":"onlineksrtcswift.com","s":200,"o":1,"k":["google-analytics","nginx"]}
-{"d":"lucky-satta.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
+{"d":"lucky-satta.com","s":200,"o":1,"k":[]}
 {"d":"bpc.co.in","s":0,"o":0,"k":[]}
 {"d":"ibus.cl","s":200,"o":1,"k":[]}
 {"d":"matka420.in","s":403,"o":0,"k":[]}
@@ -23709,7 +23709,7 @@
 {"d":"domainserver.ne.jp","s":0,"o":0,"k":[]}
 {"d":"photonhost.com","s":200,"o":1,"k":["nginx"]}
 {"d":"sbs-inter.net","s":0,"o":0,"k":[]}
-{"d":"fox8.com","s":200,"o":1,"k":["fastly","google-fonts","nginx","onetrust","wordpress"]}
+{"d":"fox8.com","s":403,"o":0,"k":[]}
 {"d":"anhanguera.com","s":403,"o":0,"k":[]}
 {"d":"anywho.com","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"transmitsecurity.io","s":200,"o":1,"k":["cloudflare","hubspot-cms","wordpress"]}
@@ -23810,11 +23810,11 @@
 {"d":"dmm.co.jp","s":200,"o":1,"k":["cloudfront","nextjs"]}
 {"d":"fmkorea.com","s":430,"o":0,"k":[]}
 {"d":"dlsite.com","s":200,"o":1,"k":["cloudflare"]}
-{"d":"amap.com","s":0,"o":0,"k":[]}
+{"d":"amap.com","s":200,"o":1,"k":["nginx"]}
 {"d":"cdiscount.com","s":403,"o":0,"k":[]}
 {"d":"netkeiba.com","s":200,"o":1,"k":["apache","google-ads","google-analytics"]}
 {"d":"xhopen.com","s":200,"o":1,"k":["nginx"]}
-{"d":"cloudflarestorage.com","s":0,"o":0,"k":[]}
+{"d":"cloudflarestorage.com","s":522,"o":0,"k":[]}
 {"d":"asurascans.com","s":200,"o":1,"k":["astro","cloudflare","cloudflare-web-analytics"]}
 {"d":"property24.com","s":200,"o":1,"k":["google-analytics","google-tag-manager"]}
 {"d":"beeg.porn","s":403,"o":0,"k":[]}
@@ -23822,7 +23822,7 @@
 {"d":"uidai.gov.in","s":200,"o":1,"k":["nextjs"]}
 {"d":"loobygamesonline.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"nosv.org","s":200,"o":1,"k":["google-analytics","google-tag-manager","nginx"]}
-{"d":"milfporn.tv","s":200,"o":1,"k":[]}
+{"d":"milfporn.tv","s":403,"o":0,"k":[]}
 {"d":"fedoraproject.org","s":200,"o":1,"k":["apache","vue"]}
 {"d":"indianrail.gov.in","s":200,"o":1,"k":["google-ads","google-analytics","spring"]}
 {"d":"croxyproxy.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","font-awesome","google-analytics","google-tag-manager"]}
@@ -23847,7 +23847,7 @@
 {"d":"mgslb.com","s":0,"o":0,"k":[]}
 {"d":"api.aws","s":0,"o":0,"k":[]}
 {"d":"a.co","s":200,"o":1,"k":["cloudfront"]}
-{"d":"vkvideo.ru","s":0,"o":0,"k":[]}
+{"d":"vkvideo.ru","s":429,"o":0,"k":[]}
 {"d":"dns.br","s":0,"o":0,"k":[]}
 {"d":"matterport.com","s":200,"o":1,"k":["cloudflare","contentful","nextjs","osano","vercel"]}
 {"d":"f95zone.to","s":403,"o":0,"k":[]}
@@ -23923,7 +23923,7 @@
 {"d":"ml314.com","s":404,"o":0,"k":[]}
 {"d":"mobilefuse.com","s":200,"o":1,"k":["cloudfront","google-fonts","nextjs","nginx"]}
 {"d":"grafana.net","s":200,"o":1,"k":["nextjs","nginx","vercel"]}
-{"d":"zebra.com","s":406,"o":0,"k":[]}
+{"d":"zebra.com","s":200,"o":1,"k":["fastly"]}
 {"d":"mydnspt.net","s":0,"o":0,"k":[]}
 {"d":"aws.com","s":200,"o":1,"k":["cloudfront","google-fonts","react"]}
 {"d":"chartbeat.com","s":200,"o":1,"k":["cloudfront","fastly","hubspot-cms","osano","wordpress"]}
@@ -24132,7 +24132,7 @@
 {"d":"skai.gr","s":200,"o":1,"k":["drupal","google-analytics","nginx"]}
 {"d":"muzofond.fm","s":403,"o":0,"k":[]}
 {"d":"oecd-ilibrary.org","s":403,"o":0,"k":[]}
-{"d":"kenh14.vn","s":200,"o":1,"k":["laravel","nginx"]}
+{"d":"kenh14.vn","s":200,"o":1,"k":[]}
 {"d":"liveramp.com","s":200,"o":1,"k":["cloudflare","webflow"]}
 {"d":"trezor.io","s":200,"o":1,"k":["cloudflare","nextjs"]}
 {"d":"ros.ie","s":200,"o":1,"k":["apache"]}
@@ -24310,7 +24310,7 @@
 {"d":"dzone.com","s":403,"o":0,"k":[]}
 {"d":"tencentcs.com","s":200,"o":1,"k":[]}
 {"d":"klarnacdn.net","s":0,"o":0,"k":[]}
-{"d":"34sp.com","s":0,"o":0,"k":[]}
+{"d":"34sp.com","s":200,"o":1,"k":["fathom","nginx","wordpress"]}
 {"d":"bankbazaar.com","s":200,"o":1,"k":["google-analytics","remix"]}
 {"d":"nginx.net","s":0,"o":0,"k":[]}
 {"d":"ad-srv.net","s":401,"o":0,"k":[]}
@@ -24337,7 +24337,7 @@
 {"d":"cgocable.ca","s":0,"o":0,"k":[]}
 {"d":"awsdns-31.co.uk","s":0,"o":0,"k":[]}
 {"d":"psychiatry.org","s":200,"o":1,"k":["aspnet","cloudflare","cloudflare-web-analytics","hubspot-cms","onetrust"]}
-{"d":"universiteitleiden.nl","s":0,"o":0,"k":[]}
+{"d":"universiteitleiden.nl","s":200,"o":1,"k":["spring"]}
 {"d":"btmessage.com","s":403,"o":0,"k":[]}
 {"d":"nereserv.com","s":404,"o":0,"k":[]}
 {"d":"coolors.co","s":403,"o":0,"k":[]}
@@ -24356,7 +24356,7 @@
 {"d":"ventusky.com","s":200,"o":1,"k":["cloudflare"]}
 {"d":"lipetsknews.ru","s":200,"o":1,"k":["nextjs","nginx"]}
 {"d":"azurewebsites.us","s":0,"o":0,"k":[]}
-{"d":"imoulife.com","s":200,"o":1,"k":["nginx","nuxt","vue"]}
+{"d":"imoulife.com","s":0,"o":0,"k":[]}
 {"d":"iphmx.com","s":0,"o":0,"k":[]}
 {"d":"adexchangerapid.com","s":403,"o":0,"k":[]}
 {"d":"ajay.app","s":200,"o":1,"k":["fastly"]}
@@ -24453,7 +24453,7 @@
 {"d":"tu-bs.de","s":200,"o":1,"k":["matomo","nginx"]}
 {"d":"prodgdc.com","s":0,"o":0,"k":[]}
 {"d":"arenabg.com","s":200,"o":1,"k":["cloudfront","aws-s3"]}
-{"d":"openwork.jp","s":403,"o":0,"k":[]}
+{"d":"openwork.jp","s":200,"o":1,"k":["apache","google-analytics"]}
 {"d":"nameservice.at","s":0,"o":0,"k":[]}
 {"d":"ctee.com.tw","s":403,"o":0,"k":[]}
 {"d":"infojobs.com.br","s":200,"o":1,"k":[]}
@@ -24710,7 +24710,7 @@
 {"d":"sumo.or.jp","s":200,"o":1,"k":["apache","google-fonts"]}
 {"d":"global.toyota","s":200,"o":1,"k":["cloudfront"]}
 {"d":"castanet.net","s":403,"o":0,"k":[]}
-{"d":"hornybank.com","s":200,"o":1,"k":[]}
+{"d":"hornybank.com","s":403,"o":0,"k":[]}
 {"d":"camera.it","s":200,"o":1,"k":["rails"]}
 {"d":"ranking-deli.jp","s":200,"o":1,"k":["apache"]}
 {"d":"textnow.com","s":403,"o":0,"k":[]}
@@ -24762,7 +24762,7 @@
 {"d":"refersion.com","s":200,"o":1,"k":["cloudflare","wordpress"]}
 {"d":"ttrk.io","s":0,"o":0,"k":[]}
 {"d":"hcl.com","s":200,"o":1,"k":["apache","google-analytics","google-tag-manager","onetrust","wordpress"]}
-{"d":"wfolio.ru","s":200,"o":1,"k":["google-fonts"]}
+{"d":"wfolio.ru","s":200,"o":1,"k":["google-fonts","rails"]}
 {"d":"seeweb.it","s":200,"o":1,"k":["apache","matomo"]}
 {"d":"clerk.io","s":200,"o":1,"k":["astro"]}
 {"d":"golfdigest.com","s":403,"o":0,"k":[]}
@@ -24851,7 +24851,7 @@
 {"d":"gtyedjilzi.net","s":0,"o":0,"k":[]}
 {"d":"wiki-masters.com","s":200,"o":1,"k":["nextjs","vercel"]}
 {"d":"fhvv.cn","s":0,"o":0,"k":[]}
-{"d":"xvideos-hd.blog","s":0,"o":0,"k":[]}
+{"d":"xvideos-hd.blog","s":200,"o":1,"k":["cloudflare","google-analytics","google-tag-manager","wordpress"]}
 {"d":"ugg.com","s":0,"o":0,"k":[]}
 {"d":"bidoo.com","s":403,"o":0,"k":[]}
 {"d":"onetrust.eu","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","fastly"]}
@@ -24910,7 +24910,7 @@
 {"d":"salomon.com","s":200,"o":1,"k":["contentful","nextjs","vercel"]}
 {"d":"news4jax.com","s":200,"o":1,"k":["akamai","osano"]}
 {"d":"logiless.com","s":200,"o":1,"k":["cloudfront","google-fonts","nginx","wordpress"]}
-{"d":"madamlive.tv","s":200,"o":1,"k":["apache"]}
+{"d":"madamlive.tv","s":0,"o":0,"k":[]}
 {"d":"indiahood.in","s":200,"o":1,"k":["google-ads","google-analytics","google-tag-manager","wordpress"]}
 {"d":"sayyarh.com","s":200,"o":1,"k":["cloudflare","cloudflare-web-analytics","google-ads","google-fonts","wordpress"]}
 {"d":"ventanillaunicasocial.gob.cl","s":200,"o":1,"k":["google-analytics","laravel"]}
@@ -24995,6 +24995,6 @@
 {"d":"3shapecommunicate.com","s":0,"o":0,"k":[]}
 {"d":"meta.ua","s":403,"o":0,"k":[]}
 {"d":"anirena.com","s":403,"o":0,"k":[]}
-{"d":"megaknihy.cz","s":200,"o":1,"k":["apache"]}
+{"d":"megaknihy.cz","s":200,"o":1,"k":["apache","cookiebot","google-fonts"]}
 {"d":"govx.com","s":200,"o":1,"k":["fastly","google-analytics"]}
 {"d":"nspcc.org.uk","s":403,"o":0,"k":[]}
